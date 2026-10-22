@@ -1,0 +1,36 @@
+{
+  "group_id": "08388da9-d324-4e0e-b04f-f4ba3d22096e",
+  "states": [
+    {
+      "character": {
+        "id": "60228394-c31a-4d0f-af4a-fa74a790ae35",
+        "name": "without sword",
+        "prompt": "Vampire black hair and an intense gaze of glowing red eyes. He wears a black gothic coat with crimson red lining, torn edges, and deep blue armor details on shoulders, gauntlets, and knee guards. He wields a short sword with a silver blade and crimson glow",
+        "size": {
+          "width": 64,
+          "height": 64
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-10-09T16:59:55.859524+00:00"
+      },
+      "folder": "without_sword",
+      "frames": {
+        "rotations": {
+          "south": "without_sword/rotations/south.png",
+          "south-east": "without_sword/rotations/south-east.png",
+          "east": "without_sword/rotations/east.png",
+          "north-east": "without_sword/rotations/north-east.png",
+          "north": "without_sword/rotations/north.png",
+          "north-west": "without_sword/rotations/north-west.png",
+          "west": "without_sword/rotations/west.png",
+          "south-west": "without_sword/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-10-09T17:02:17.846692"
+}

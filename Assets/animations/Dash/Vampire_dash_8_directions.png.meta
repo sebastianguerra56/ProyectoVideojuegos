@@ -1,0 +1,1535 @@
+fileFormatVersion: 2
+guid: 501bde23d4156134283fc9646894c76a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3442789736186403421
+    second: Vampire_dash_8_directions_0
+  - first:
+      213: 4970789538863617694
+    second: Vampire_dash_8_directions_1
+  - first:
+      213: 4956245466205653445
+    second: Vampire_dash_8_directions_2
+  - first:
+      213: 1065663527986010918
+    second: Vampire_dash_8_directions_3
+  - first:
+      213: 920687295694039663
+    second: Vampire_dash_8_directions_4
+  - first:
+      213: -7772791154724805350
+    second: Vampire_dash_8_directions_5
+  - first:
+      213: 8197861836223935333
+    second: Vampire_dash_8_directions_6
+  - first:
+      213: 6697191734144951643
+    second: Vampire_dash_8_directions_7
+  - first:
+      213: -8181541755768006788
+    second: Vampire_dash_8_directions_8
+  - first:
+      213: 5144302817041721763
+    second: Vampire_dash_8_directions_9
+  - first:
+      213: 1967301103239041654
+    second: Vampire_dash_8_directions_10
+  - first:
+      213: 5452816393113984698
+    second: Vampire_dash_8_directions_11
+  - first:
+      213: 2314834439269057681
+    second: Vampire_dash_8_directions_12
+  - first:
+      213: 1170935213328459304
+    second: Vampire_dash_8_directions_13
+  - first:
+      213: -4082056068134516170
+    second: Vampire_dash_8_directions_14
+  - first:
+      213: -2743980233287230815
+    second: Vampire_dash_8_directions_15
+  - first:
+      213: -4271643208448048234
+    second: Vampire_dash_8_directions_16
+  - first:
+      213: 8477464536793571832
+    second: Vampire_dash_8_directions_17
+  - first:
+      213: 4777293693454786552
+    second: Vampire_dash_8_directions_18
+  - first:
+      213: -3198898494051207420
+    second: Vampire_dash_8_directions_19
+  - first:
+      213: -8197982287328203640
+    second: Vampire_dash_8_directions_20
+  - first:
+      213: 356924683707801220
+    second: Vampire_dash_8_directions_21
+  - first:
+      213: 698097632282354315
+    second: Vampire_dash_8_directions_22
+  - first:
+      213: 584004743864692037
+    second: Vampire_dash_8_directions_23
+  - first:
+      213: 7400772052452357556
+    second: Vampire_dash_8_directions_24
+  - first:
+      213: 2859834715920962218
+    second: Vampire_dash_8_directions_25
+  - first:
+      213: -6208373905405752300
+    second: Vampire_dash_8_directions_26
+  - first:
+      213: 1314261736212893538
+    second: Vampire_dash_8_directions_27
+  - first:
+      213: 3419139353922886317
+    second: Vampire_dash_8_directions_28
+  - first:
+      213: -6662779083427598647
+    second: Vampire_dash_8_directions_29
+  - first:
+      213: 4112833750781615098
+    second: Vampire_dash_8_directions_30
+  - first:
+      213: 1193391974726499684
+    second: Vampire_dash_8_directions_31
+  - first:
+      213: -7884291994522499400
+    second: Vampire_dash_8_directions_32
+  - first:
+      213: 6048089142785016563
+    second: Vampire_dash_8_directions_33
+  - first:
+      213: -5582931377060585855
+    second: Vampire_dash_8_directions_34
+  - first:
+      213: -5627225355600788046
+    second: Vampire_dash_8_directions_35
+  - first:
+      213: -4910811724425574705
+    second: Vampire_dash_8_directions_36
+  - first:
+      213: -720497018265712572
+    second: Vampire_dash_8_directions_37
+  - first:
+      213: -1613545616504647263
+    second: Vampire_dash_8_directions_38
+  - first:
+      213: 9044951377924237613
+    second: Vampire_dash_8_directions_39
+  - first:
+      213: -7454376192611180598
+    second: Vampire_dash_8_directions_40
+  - first:
+      213: -350772142603453578
+    second: Vampire_dash_8_directions_41
+  - first:
+      213: -1633657458646937150
+    second: Vampire_dash_8_directions_42
+  - first:
+      213: 2878318882246539590
+    second: Vampire_dash_8_directions_43
+  - first:
+      213: -2865777615883796494
+    second: Vampire_dash_8_directions_44
+  - first:
+      213: 850211012476675308
+    second: Vampire_dash_8_directions_45
+  - first:
+      213: -5315358366077148154
+    second: Vampire_dash_8_directions_46
+  - first:
+      213: 1371425087403378606
+    second: Vampire_dash_8_directions_47
+  - first:
+      213: -6367629584806692466
+    second: Vampire_dash_8_directions_48
+  - first:
+      213: -4236415637988047874
+    second: Vampire_dash_8_directions_49
+  - first:
+      213: 3478221296761039412
+    second: Vampire_dash_8_directions_50
+  - first:
+      213: 5471159002819559806
+    second: Vampire_dash_8_directions_51
+  - first:
+      213: -3418579503895208422
+    second: Vampire_dash_8_directions_52
+  - first:
+      213: -375142079913898050
+    second: Vampire_dash_8_directions_53
+  - first:
+      213: -1747258814822008469
+    second: Vampire_dash_8_directions_54
+  - first:
+      213: 9138649653948431045
+    second: Vampire_dash_8_directions_55
+  - first:
+      213: -8396420172274447901
+    second: Vampire_dash_8_directions_56
+  - first:
+      213: 3579560601539513604
+    second: Vampire_dash_8_directions_57
+  - first:
+      213: -5926961466866578974
+    second: Vampire_dash_8_directions_58
+  - first:
+      213: 2056270082807712722
+    second: Vampire_dash_8_directions_59
+  - first:
+      213: 1040290637321395929
+    second: Vampire_dash_8_directions_60
+  - first:
+      213: -2974298438360724830
+    second: Vampire_dash_8_directions_61
+  - first:
+      213: -6486007689772095609
+    second: Vampire_dash_8_directions_62
+  - first:
+      213: 4321881240057165186
+    second: Vampire_dash_8_directions_63
+  - first:
+      213: 5825556051122644138
+    second: Vampire_dash_8_directions_64
+  - first:
+      213: -4386205720359128814
+    second: Vampire_dash_8_directions_65
+  - first:
+      213: -2507687387455452637
+    second: Vampire_dash_8_directions_66
+  - first:
+      213: -2362455570251429518
+    second: Vampire_dash_8_directions_67
+  - first:
+      213: 6855995240301024384
+    second: Vampire_dash_8_directions_68
+  - first:
+      213: -1557789203745221935
+    second: Vampire_dash_8_directions_69
+  - first:
+      213: -8027936463859571758
+    second: Vampire_dash_8_directions_70
+  - first:
+      213: 4069094099312077774
+    second: Vampire_dash_8_directions_71
+  - first:
+      213: -4321079357845927182
+    second: Vampire_dash_8_directions_72
+  - first:
+      213: 3104878037256826992
+    second: Vampire_dash_8_directions_73
+  - first:
+      213: -3026864991622794035
+    second: Vampire_dash_8_directions_74
+  - first:
+      213: -4129672541559439255
+    second: Vampire_dash_8_directions_75
+  - first:
+      213: 3923489822374932613
+    second: Vampire_dash_8_directions_76
+  - first:
+      213: -7395965867584816877
+    second: Vampire_dash_8_directions_77
+  - first:
+      213: -6556674682019711131
+    second: Vampire_dash_8_directions_78
+  - first:
+      213: -7019500679870364149
+    second: Vampire_dash_8_directions_79
+  - first:
+      213: 3118358784719324276
+    second: Vampire_dash_8_directions_80
+  - first:
+      213: 5838315001677945504
+    second: Vampire_dash_8_directions_81
+  - first:
+      213: 5275093992752508741
+    second: Vampire_dash_8_directions_82
+  - first:
+      213: 1406832386927712858
+    second: Vampire_dash_8_directions_83
+  - first:
+      213: 242529999861287565
+    second: Vampire_dash_8_directions_84
+  - first:
+      213: 6476493456492774651
+    second: Vampire_dash_8_directions_85
+  - first:
+      213: -3270639789230725183
+    second: Vampire_dash_8_directions_86
+  - first:
+      213: -7555611213257878295
+    second: Vampire_dash_8_directions_87
+  - first:
+      213: 956947502226741265
+    second: Vampire_dash_8_directions_88
+  - first:
+      213: 949923935332527871
+    second: Vampire_dash_8_directions_89
+  - first:
+      213: -1880924186357391885
+    second: Vampire_dash_8_directions_90
+  - first:
+      213: -5284771120311842963
+    second: Vampire_dash_8_directions_91
+  - first:
+      213: 866406452935531635
+    second: Vampire_dash_8_directions_92
+  - first:
+      213: 5727622816917843593
+    second: Vampire_dash_8_directions_93
+  - first:
+      213: 4077128487991452491
+    second: Vampire_dash_8_directions_94
+  - first:
+      213: 4304258848243508902
+    second: Vampire_dash_8_directions_95
+  - first:
+      213: -3108320261285500689
+    second: Vampire_dash_8_directions_96
+  - first:
+      213: 8778024293157195503
+    second: Vampire_dash_8_directions_97
+  - first:
+      213: -1691163576611311949
+    second: Vampire_dash_8_directions_98
+  - first:
+      213: -9078139558033519220
+    second: Vampire_dash_8_directions_99
+  - first:
+      213: -4425764257138934422
+    second: Vampire_dash_8_directions_100
+  - first:
+      213: -2853499472845364098
+    second: Vampire_dash_8_directions_101
+  - first:
+      213: 3777254434337385991
+    second: Vampire_dash_8_directions_102
+  - first:
+      213: 216297784370077940
+    second: Vampire_dash_8_directions_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5af32c9f0c830d0800000000000000
+      internalID: -3442789736186403421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96913dcfbacbf440800000000000000
+      internalID: 4970789538863617694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c904d00efe18c440800000000000000
+      internalID: 4956245466205653445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b12b3255ff9ce00800000000000000
+      internalID: 1065663527986010918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aee09a730f6cc00800000000000000
+      internalID: 920687295694039663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15645570af712490800000000000000
+      internalID: -7772791154724805350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563fbd9e7e7a4c170800000000000000
+      internalID: 8197861836223935333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b556462266431fc50800000000000000
+      internalID: 6697191734144951643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c771c6cee13557e80800000000000000
+      internalID: -8181541755768006788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a920da082c346740800000000000000
+      internalID: 5144302817041721763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721cc02ee14d4b10800000000000000
+      internalID: 1967301103239041654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5cf88e9b4cab40800000000000000
+      internalID: 5452816393113984698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194097278a1ff1020800000000000000
+      internalID: 2314834439269057681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82660756f5fff3010800000000000000
+      internalID: 1170935213328459304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a4d9932af9957c0800000000000000
+      internalID: -4082056068134516170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa983c148c6be9d0800000000000000
+      internalID: -2743980233287230815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6938e31522318b4c0800000000000000
+      internalID: -4271643208448048234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f16d87a41106a570800000000000000
+      internalID: 8477464536793571832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff16129d4b5c4240800000000000000
+      internalID: 4777293693454786552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407bb85a4ca3b93d0800000000000000
+      internalID: -3198898494051207420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cabd06b8aea3e80800000000000000
+      internalID: -8197982287328203640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ed8f7db1d04f400800000000000000
+      internalID: 356924683707801220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b822bbe091420b900800000000000000
+      internalID: 698097632282354315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da239683dca1800800000000000000
+      internalID: 584004743864692037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5bf0288f2d4b660800000000000000
+      internalID: 7400772052452357556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29cc6a58c20b720800000000000000
+      internalID: 2859834715920962218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4c7f83dc67d9a0800000000000000
+      internalID: -6208373905405752300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8bd8f5123d3210800000000000000
+      internalID: 1314261736212893538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daad1248029337f20800000000000000
+      internalID: 3419139353922886317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce256b79bd0983a0800000000000000
+      internalID: -6662779083427598647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb539f6188b31930800000000000000
+      internalID: 4112833750781615098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dff5b9da7cf8010800000000000000
+      internalID: 1193391974726499684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6c709243e559290800000000000000
+      internalID: -7884291994522499400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2099df7012fe350800000000000000
+      internalID: 6048089142785016563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18edbe00e717582b0800000000000000
+      internalID: -5582931377060585855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b508587a5418e1b0800000000000000
+      internalID: -5627225355600788046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc64ac651ca49dbb0800000000000000
+      internalID: -4910811724425574705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4484b8c77c74006f0800000000000000
+      internalID: -720497018265712572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11a5b8fc88b99e0800000000000000
+      internalID: -1613545616504647263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29aad32b5f168d70800000000000000
+      internalID: 9044951377924237613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf1849095cbc8890800000000000000
+      internalID: -7454376192611180598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bb403489ec12bf0800000000000000
+      internalID: -350772142603453578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19ea462351459e0800000000000000
+      internalID: -1633657458646937150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ba9ef5c7d1f720800000000000000
+      internalID: 2878318882246539590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fffaff1176ba38d0800000000000000
+      internalID: -2865777615883796494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce42cc6496e8ccb00800000000000000
+      internalID: 850211012476675308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60422106abd0c36b0800000000000000
+      internalID: -5315358366077148154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_dash_8_directions_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7ccb2d9d7480310800000000000000
+      internalID: 1371425087403378606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 895e8217b79540e4c82168385ba52153
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":8.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Vampire_dash_8_directions_0: -3442789736186403421
+      Vampire_dash_8_directions_1: 4970789538863617694
+      Vampire_dash_8_directions_10: 1967301103239041654
+      Vampire_dash_8_directions_11: 5452816393113984698
+      Vampire_dash_8_directions_12: 2314834439269057681
+      Vampire_dash_8_directions_13: 1170935213328459304
+      Vampire_dash_8_directions_14: -4082056068134516170
+      Vampire_dash_8_directions_15: -2743980233287230815
+      Vampire_dash_8_directions_16: -4271643208448048234
+      Vampire_dash_8_directions_17: 8477464536793571832
+      Vampire_dash_8_directions_18: 4777293693454786552
+      Vampire_dash_8_directions_19: -3198898494051207420
+      Vampire_dash_8_directions_2: 4956245466205653445
+      Vampire_dash_8_directions_20: -8197982287328203640
+      Vampire_dash_8_directions_21: 356924683707801220
+      Vampire_dash_8_directions_22: 698097632282354315
+      Vampire_dash_8_directions_23: 584004743864692037
+      Vampire_dash_8_directions_24: 7400772052452357556
+      Vampire_dash_8_directions_25: 2859834715920962218
+      Vampire_dash_8_directions_26: -6208373905405752300
+      Vampire_dash_8_directions_27: 1314261736212893538
+      Vampire_dash_8_directions_28: 3419139353922886317
+      Vampire_dash_8_directions_29: -6662779083427598647
+      Vampire_dash_8_directions_3: 1065663527986010918
+      Vampire_dash_8_directions_30: 4112833750781615098
+      Vampire_dash_8_directions_31: 1193391974726499684
+      Vampire_dash_8_directions_32: -7884291994522499400
+      Vampire_dash_8_directions_33: 6048089142785016563
+      Vampire_dash_8_directions_34: -5582931377060585855
+      Vampire_dash_8_directions_35: -5627225355600788046
+      Vampire_dash_8_directions_36: -4910811724425574705
+      Vampire_dash_8_directions_37: -720497018265712572
+      Vampire_dash_8_directions_38: -1613545616504647263
+      Vampire_dash_8_directions_39: 9044951377924237613
+      Vampire_dash_8_directions_4: 920687295694039663
+      Vampire_dash_8_directions_40: -7454376192611180598
+      Vampire_dash_8_directions_41: -350772142603453578
+      Vampire_dash_8_directions_42: -1633657458646937150
+      Vampire_dash_8_directions_43: 2878318882246539590
+      Vampire_dash_8_directions_44: -2865777615883796494
+      Vampire_dash_8_directions_45: 850211012476675308
+      Vampire_dash_8_directions_46: -5315358366077148154
+      Vampire_dash_8_directions_47: 1371425087403378606
+      Vampire_dash_8_directions_5: -7772791154724805350
+      Vampire_dash_8_directions_6: 8197861836223935333
+      Vampire_dash_8_directions_7: 6697191734144951643
+      Vampire_dash_8_directions_8: -8181541755768006788
+      Vampire_dash_8_directions_9: 5144302817041721763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

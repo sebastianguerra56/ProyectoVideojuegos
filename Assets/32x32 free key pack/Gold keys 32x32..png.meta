@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 36a2646f385662441831f8f206c5d898
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3067191021993631153
+    second: Gold keys 32x32._0
+  - first:
+      213: -3838899097536681761
+    second: Gold keys 32x32._1
+  - first:
+      213: 2129708724520510654
+    second: Gold keys 32x32._2
+  - first:
+      213: 5736518670565787281
+    second: Gold keys 32x32._3
+  - first:
+      213: -1099180447521678523
+    second: Gold keys 32x32._4
+  - first:
+      213: 3089545852848371683
+    second: Gold keys 32x32._5
+  - first:
+      213: -6438938775981887418
+    second: Gold keys 32x32._6
+  - first:
+      213: 2446899085070433835
+    second: Gold keys 32x32._7
+  - first:
+      213: -852479152295202292
+    second: Gold keys 32x32._8
+  - first:
+      213: -1503363244051918477
+    second: Gold keys 32x32._9
+  - first:
+      213: -8502926185644740968
+    second: Gold keys 32x32._10
+  - first:
+      213: 1553036140745821230
+    second: Gold keys 32x32._11
+  - first:
+      213: 5942348057768332386
+    second: Gold keys 32x32._12
+  - first:
+      213: -7591866565819441021
+    second: Gold keys 32x32._13
+  - first:
+      213: -8233536253709923179
+    second: Gold keys 32x32._14
+  - first:
+      213: 7888461461091932088
+    second: Gold keys 32x32._15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gold keys 32x32._0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 563
+        width: 114
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd923cdbf9d09a20800000000000000
+      internalID: 3067191021993631153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 563
+        width: 111
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd822c23c9d79bac0800000000000000
+      internalID: -3838899097536681761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 562
+        width: 118
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb468102dce3e8d10800000000000000
+      internalID: 2129708724520510654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 563
+        width: 114
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196487666553c9f40800000000000000
+      internalID: 5736518670565787281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 563
+        width: 120
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b5a69e43deeb0f0800000000000000
+      internalID: -1099180447521678523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._5
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 563
+        width: 132
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fe44859540ea20800000000000000
+      internalID: 3089545852848371683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._6
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 563
+        width: 113
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6407c175c4b44a6a0800000000000000
+      internalID: -6438938775981887418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._7
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 557
+        width: 125
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ef9dee0c125f120800000000000000
+      internalID: 2446899085070433835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 157
+        width: 119
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02b4054ab26b24f0800000000000000
+      internalID: -852479152295202292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 157
+        width: 115
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37118ed381bf22be0800000000000000
+      internalID: -1503363244051918477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 157
+        width: 127
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e27414fa98ff980800000000000000
+      internalID: -8502926185644740968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 157
+        width: 118
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c8f74442e7d8510800000000000000
+      internalID: 1553036140745821230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._12
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 157
+        width: 138
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c830b1316777250800000000000000
+      internalID: 5942348057768332386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 157
+        width: 112
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ea22f49544a690800000000000000
+      internalID: -7591866565819441021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._14
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 152
+        width: 138
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc150866a9cbd80800000000000000
+      internalID: -8233536253709923179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold keys 32x32._15
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 139
+        width: 134
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75ebc67e1797d60800000000000000
+      internalID: 7888461461091932088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gold keys 32x32._0: 3067191021993631153
+      Gold keys 32x32._1: -3838899097536681761
+      Gold keys 32x32._10: -8502926185644740968
+      Gold keys 32x32._11: 1553036140745821230
+      Gold keys 32x32._12: 5942348057768332386
+      Gold keys 32x32._13: -7591866565819441021
+      Gold keys 32x32._14: -8233536253709923179
+      Gold keys 32x32._15: 7888461461091932088
+      Gold keys 32x32._2: 2129708724520510654
+      Gold keys 32x32._3: 5736518670565787281
+      Gold keys 32x32._4: -1099180447521678523
+      Gold keys 32x32._5: 3089545852848371683
+      Gold keys 32x32._6: -6438938775981887418
+      Gold keys 32x32._7: 2446899085070433835
+      Gold keys 32x32._8: -852479152295202292
+      Gold keys 32x32._9: -1503363244051918477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

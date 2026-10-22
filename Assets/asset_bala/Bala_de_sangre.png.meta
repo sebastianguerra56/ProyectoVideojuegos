@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: f54394b5a35b6394ca33d095d8da3352
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3337500801855199133
+    second: Bala_de_sangre_0
+  - first:
+      213: 8880080131502695154
+    second: Bala_de_sangre_1
+  - first:
+      213: 2241949028994471184
+    second: Bala_de_sangre_2
+  - first:
+      213: -4506078698616545600
+    second: Bala_de_sangre_3
+  - first:
+      213: 1441384764755952781
+    second: Bala_de_sangre_4
+  - first:
+      213: -993626778873948936
+    second: Bala_de_sangre_5
+  - first:
+      213: 696195453011081877
+    second: Bala_de_sangre_6
+  - first:
+      213: -2068887734332000097
+    second: Bala_de_sangre_7
+  - first:
+      213: 8393975145028125264
+    second: Bala_de_sangre_8
+  - first:
+      213: 3173055309890701541
+    second: Bala_de_sangre_9
+  - first:
+      213: -1120675414837700136
+    second: Bala_de_sangre_10
+  - first:
+      213: -6077873378433225468
+    second: Bala_de_sangre_11
+  - first:
+      213: 3032225113156819852
+    second: Bala_de_sangre_12
+  - first:
+      213: -6386536220218472968
+    second: Bala_de_sangre_13
+  - first:
+      213: 3279550950784862030
+    second: Bala_de_sangre_14
+  - first:
+      213: 21840567064034894
+    second: Bala_de_sangre_15
+  - first:
+      213: -4107207905120421631
+    second: Bala_de_sangre_16
+  - first:
+      213: -3678030549331394034
+    second: Bala_de_sangre_17
+  - first:
+      213: -5429534877513177912
+    second: Bala_de_sangre_18
+  - first:
+      213: -8191146150269774887
+    second: Bala_de_sangre_19
+  - first:
+      213: 3979507354422968191
+    second: Bala_de_sangre_20
+  - first:
+      213: -8751924633813959900
+    second: Bala_de_sangre_21
+  - first:
+      213: -3264570483192609854
+    second: Bala_de_sangre_22
+  - first:
+      213: 280588183681173171
+    second: Bala_de_sangre_23
+  - first:
+      213: -1626145485973970253
+    second: Bala_de_sangre_24
+  - first:
+      213: -7029996631807564233
+    second: Bala_de_sangre_25
+  - first:
+      213: 4792053768020061828
+    second: Bala_de_sangre_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bala_de_sangre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d971924eb4f215e20800000000000000
+      internalID: 3337500801855199133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala_de_sangre_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e837b4d16c3b70800000000000000
+      internalID: 8880080131502695154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala_de_sangre_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0155fb573c00d1f10800000000000000
+      internalID: 2241949028994471184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala_de_sangre_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce910f3c413771c0800000000000000
+      internalID: -4506078698616545600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala_de_sangre_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8440f78ec3d00410800000000000000
+      internalID: 1441384764755952781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala_de_sangre_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f417e585bde532f0800000000000000
+      internalID: -993626778873948936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e312d9e90b840b498ab0a1b6a879110
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Bala_de_sangre_0: 3337500801855199133
+      Bala_de_sangre_1: 8880080131502695154
+      Bala_de_sangre_2: 2241949028994471184
+      Bala_de_sangre_3: -4506078698616545600
+      Bala_de_sangre_4: 1441384764755952781
+      Bala_de_sangre_5: -993626778873948936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
