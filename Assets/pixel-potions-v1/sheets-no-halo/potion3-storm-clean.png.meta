@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 90b1aa6ca3bbe584fa6b2a7faaa2db74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3007402596792754604
+    second: potion3-storm-clean_0
+  - first:
+      213: -5820944140799879619
+    second: potion3-storm-clean_1
+  - first:
+      213: -5238395197794092063
+    second: potion3-storm-clean_2
+  - first:
+      213: 6445603250270359085
+    second: potion3-storm-clean_3
+  - first:
+      213: 5068948389104184556
+    second: potion3-storm-clean_4
+  - first:
+      213: 6791595831636525494
+    second: potion3-storm-clean_5
+  - first:
+      213: 4682911304344393561
+    second: potion3-storm-clean_6
+  - first:
+      213: 8156548247081079719
+    second: potion3-storm-clean_7
+  - first:
+      213: -6449104576359557864
+    second: potion3-storm-clean_8
+  - first:
+      213: 4954144793748257234
+    second: potion3-storm-clean_9
+  - first:
+      213: 5459155279914249886
+    second: potion3-storm-clean_10
+  - first:
+      213: 5169906427807875273
+    second: potion3-storm-clean_11
+  - first:
+      213: 2418642051391976133
+    second: potion3-storm-clean_12
+  - first:
+      213: 4039035621820072969
+    second: potion3-storm-clean_13
+  - first:
+      213: 307573621215192082
+    second: potion3-storm-clean_14
+  - first:
+      213: 1596989593385130102
+    second: potion3-storm-clean_15
+  - first:
+      213: -1494745990008467616
+    second: potion3-storm-clean_16
+  - first:
+      213: 3282993591636094291
+    second: potion3-storm-clean_17
+  - first:
+      213: -4596803322138876224
+    second: potion3-storm-clean_18
+  - first:
+      213: 6921519866116473055
+    second: potion3-storm-clean_19
+  - first:
+      213: 1095965398365883980
+    second: potion3-storm-clean_20
+  - first:
+      213: -3626228717420488809
+    second: potion3-storm-clean_21
+  - first:
+      213: -3395227443556755732
+    second: potion3-storm-clean_22
+  - first:
+      213: -6360880273791346361
+    second: potion3-storm-clean_23
+  - first:
+      213: -6614471537695075699
+    second: potion3-storm-clean_24
+  - first:
+      213: 4518788852114613145
+    second: potion3-storm-clean_25
+  - first:
+      213: 2179754074286205134
+    second: potion3-storm-clean_26
+  - first:
+      213: 4979181904029394602
+    second: potion3-storm-clean_27
+  - first:
+      213: 9115910487918888031
+    second: potion3-storm-clean_28
+  - first:
+      213: 6815329793022449989
+    second: potion3-storm-clean_29
+  - first:
+      213: -7677403098657384656
+    second: potion3-storm-clean_30
+  - first:
+      213: 6023973166347290443
+    second: potion3-storm-clean_31
+  - first:
+      213: -5682965896148747630
+    second: potion3-storm-clean_32
+  - first:
+      213: -5483714186889179767
+    second: potion3-storm-clean_33
+  - first:
+      213: 653659688318267072
+    second: potion3-storm-clean_34
+  - first:
+      213: -1495688752476461412
+    second: potion3-storm-clean_35
+  - first:
+      213: 6034151762078003661
+    second: potion3-storm-clean_36
+  - first:
+      213: -2834507053498064911
+    second: potion3-storm-clean_37
+  - first:
+      213: -3908921475010303708
+    second: potion3-storm-clean_38
+  - first:
+      213: 4020402281934925189
+    second: potion3-storm-clean_39
+  - first:
+      213: -8266417963153969016
+    second: potion3-storm-clean_40
+  - first:
+      213: 8039316604530812799
+    second: potion3-storm-clean_41
+  - first:
+      213: 5734184784052586503
+    second: potion3-storm-clean_42
+  - first:
+      213: -7670405161074746089
+    second: potion3-storm-clean_43
+  - first:
+      213: -8213709958860931568
+    second: potion3-storm-clean_44
+  - first:
+      213: -6952757372019028836
+    second: potion3-storm-clean_45
+  - first:
+      213: -5322819352465286075
+    second: potion3-storm-clean_46
+  - first:
+      213: -8416643173831087674
+    second: potion3-storm-clean_47
+  - first:
+      213: 6229677916668090581
+    second: potion3-storm-clean_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion3-storm-clean_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca16b665ab07cb920800000000000000
+      internalID: 3007402596792754604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d365b36052ad73fa0800000000000000
+      internalID: -5820944140799879619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebfe52625b7d47b0800000000000000
+      internalID: -5238395197794092063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec77f7102637950800000000000000
+      internalID: 6445603250270359085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece75514b5885640800000000000000
+      internalID: 5068948389104184556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b108baec68904e50800000000000000
+      internalID: 6791595831636525494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957db1a250b0df040800000000000000
+      internalID: 4682911304344393561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 379
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a35a9c5a61e13170800000000000000
+      internalID: 8156548247081079719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 324
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8151ebe7e8d2086a0800000000000000
+      internalID: -6449104576359557864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d937351178a0c440800000000000000
+      internalID: 4954144793748257234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eacf0adc0d2cb40800000000000000
+      internalID: 5459155279914249886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04f7731823fb740800000000000000
+      internalID: 5169906427807875273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c27a08912eb09120800000000000000
+      internalID: 2418642051391976133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9040cb19f798d0830800000000000000
+      internalID: 4039035621820072969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214efc23498b44400800000000000000
+      internalID: 307573621215192082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67857bfe295a92610800000000000000
+      internalID: 1596989593385130102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 260
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f0b1c0178914be0800000000000000
+      internalID: -1494745990008467616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6a5d07498f8d20800000000000000
+      internalID: 3282993591636094291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a391cbbfd430c0800000000000000
+      internalID: -4596803322138876224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08ead75ad2e0060800000000000000
+      internalID: 6921519866116473055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec7bf19b6a53f00800000000000000
+      internalID: 1095965398365883980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d4dfa13c0dadc0800000000000000
+      internalID: -3626228717420488809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65427f0aab1e0d0800000000000000
+      internalID: -3395227443556755732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74990e5a71d99b7a0800000000000000
+      internalID: -6360880273791346361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_24
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 196
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82d0c27e2da434a0800000000000000
+      internalID: -6614471537695075699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9936949f486f5be30800000000000000
+      internalID: 4518788852114613145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec82a8f18ca004e10800000000000000
+      internalID: 2179754074286205134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a9b59f8b991540800000000000000
+      internalID: 4979181904029394602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c9a46a48328e70800000000000000
+      internalID: 9115910487918888031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495d3c665ae49e50800000000000000
+      internalID: 6815329793022449989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0371b03fe82647590800000000000000
+      internalID: -7677403098657384656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b478d9cada3799350800000000000000
+      internalID: 6023973166347290443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_32
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 132
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29af46980ac0221b0800000000000000
+      internalID: -5682965896148747630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d43b0400fe5e3b0800000000000000
+      internalID: -5483714186889179767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cee336f504421900800000000000000
+      internalID: 653659688318267072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96e71e010f3e3be0800000000000000
+      internalID: -1495688752476461412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1f47bae0d9db350800000000000000
+      internalID: 6034151762078003661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff98ea4adec9a8d0800000000000000
+      internalID: -2834507053498064911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4296d1bf0a8b0c9c0800000000000000
+      internalID: -3908921475010303708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da6ec03965bc730800000000000000
+      internalID: 4020402281934925189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_40
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 68
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880bc4de8a8c74d80800000000000000
+      internalID: -8266417963153969016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7765f19bd3619f60800000000000000
+      internalID: 8039316604530812799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70887e91eaae39f40800000000000000
+      internalID: 5734184784052586503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d11d2452f3d8590800000000000000
+      internalID: -7670405161074746089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e710e7f4a030e80800000000000000
+      internalID: -8213709958860931568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc357e108d28f90800000000000000
+      internalID: -6952757372019028836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5bbc100c8126b0800000000000000
+      internalID: -5322819352465286075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9e49e60a3123b80800000000000000
+      internalID: -8416643173831087674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm-clean_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d8181f03447650800000000000000
+      internalID: 6229677916668090581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion3-storm-clean_0: 3007402596792754604
+      potion3-storm-clean_1: -5820944140799879619
+      potion3-storm-clean_10: 5459155279914249886
+      potion3-storm-clean_11: 5169906427807875273
+      potion3-storm-clean_12: 2418642051391976133
+      potion3-storm-clean_13: 4039035621820072969
+      potion3-storm-clean_14: 307573621215192082
+      potion3-storm-clean_15: 1596989593385130102
+      potion3-storm-clean_16: -1494745990008467616
+      potion3-storm-clean_17: 3282993591636094291
+      potion3-storm-clean_18: -4596803322138876224
+      potion3-storm-clean_19: 6921519866116473055
+      potion3-storm-clean_2: -5238395197794092063
+      potion3-storm-clean_20: 1095965398365883980
+      potion3-storm-clean_21: -3626228717420488809
+      potion3-storm-clean_22: -3395227443556755732
+      potion3-storm-clean_23: -6360880273791346361
+      potion3-storm-clean_24: -6614471537695075699
+      potion3-storm-clean_25: 4518788852114613145
+      potion3-storm-clean_26: 2179754074286205134
+      potion3-storm-clean_27: 4979181904029394602
+      potion3-storm-clean_28: 9115910487918888031
+      potion3-storm-clean_29: 6815329793022449989
+      potion3-storm-clean_3: 6445603250270359085
+      potion3-storm-clean_30: -7677403098657384656
+      potion3-storm-clean_31: 6023973166347290443
+      potion3-storm-clean_32: -5682965896148747630
+      potion3-storm-clean_33: -5483714186889179767
+      potion3-storm-clean_34: 653659688318267072
+      potion3-storm-clean_35: -1495688752476461412
+      potion3-storm-clean_36: 6034151762078003661
+      potion3-storm-clean_37: -2834507053498064911
+      potion3-storm-clean_38: -3908921475010303708
+      potion3-storm-clean_39: 4020402281934925189
+      potion3-storm-clean_4: 5068948389104184556
+      potion3-storm-clean_40: -8266417963153969016
+      potion3-storm-clean_41: 8039316604530812799
+      potion3-storm-clean_42: 5734184784052586503
+      potion3-storm-clean_43: -7670405161074746089
+      potion3-storm-clean_44: -8213709958860931568
+      potion3-storm-clean_45: -6952757372019028836
+      potion3-storm-clean_46: -5322819352465286075
+      potion3-storm-clean_47: -8416643173831087674
+      potion3-storm-clean_48: 6229677916668090581
+      potion3-storm-clean_5: 6791595831636525494
+      potion3-storm-clean_6: 4682911304344393561
+      potion3-storm-clean_7: 8156548247081079719
+      potion3-storm-clean_8: -6449104576359557864
+      potion3-storm-clean_9: 4954144793748257234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

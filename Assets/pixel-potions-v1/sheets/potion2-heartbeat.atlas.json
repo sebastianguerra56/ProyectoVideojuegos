@@ -1,0 +1,1075 @@
+{
+  "frames": {
+    "potion2-heartbeat-00": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-01": {
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-02": {
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-03": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-04": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-05": {
+      "frame": {
+        "x": 320,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-06": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-07": {
+      "frame": {
+        "x": 448,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-08": {
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-09": {
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-10": {
+      "frame": {
+        "x": 128,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-11": {
+      "frame": {
+        "x": 192,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-12": {
+      "frame": {
+        "x": 256,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-13": {
+      "frame": {
+        "x": 320,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-14": {
+      "frame": {
+        "x": 384,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-15": {
+      "frame": {
+        "x": 448,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-16": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-17": {
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-18": {
+      "frame": {
+        "x": 128,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-19": {
+      "frame": {
+        "x": 192,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-20": {
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-21": {
+      "frame": {
+        "x": 320,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-22": {
+      "frame": {
+        "x": 384,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-23": {
+      "frame": {
+        "x": 448,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-24": {
+      "frame": {
+        "x": 0,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-25": {
+      "frame": {
+        "x": 64,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-26": {
+      "frame": {
+        "x": 128,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-27": {
+      "frame": {
+        "x": 192,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-28": {
+      "frame": {
+        "x": 256,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-29": {
+      "frame": {
+        "x": 320,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-30": {
+      "frame": {
+        "x": 384,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-31": {
+      "frame": {
+        "x": 448,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-32": {
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-33": {
+      "frame": {
+        "x": 64,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-34": {
+      "frame": {
+        "x": 128,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-35": {
+      "frame": {
+        "x": 192,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-36": {
+      "frame": {
+        "x": 256,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-37": {
+      "frame": {
+        "x": 320,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-38": {
+      "frame": {
+        "x": 384,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-39": {
+      "frame": {
+        "x": 448,
+        "y": 256,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-40": {
+      "frame": {
+        "x": 0,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-41": {
+      "frame": {
+        "x": 64,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-42": {
+      "frame": {
+        "x": 128,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-43": {
+      "frame": {
+        "x": 192,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-44": {
+      "frame": {
+        "x": 256,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-45": {
+      "frame": {
+        "x": 320,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-46": {
+      "frame": {
+        "x": 384,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion2-heartbeat-47": {
+      "frame": {
+        "x": 448,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    }
+  },
+  "animations": {
+    "loop": [
+      "potion2-heartbeat-00",
+      "potion2-heartbeat-01",
+      "potion2-heartbeat-02",
+      "potion2-heartbeat-03",
+      "potion2-heartbeat-04",
+      "potion2-heartbeat-05",
+      "potion2-heartbeat-06",
+      "potion2-heartbeat-07",
+      "potion2-heartbeat-08",
+      "potion2-heartbeat-09",
+      "potion2-heartbeat-10",
+      "potion2-heartbeat-11",
+      "potion2-heartbeat-12",
+      "potion2-heartbeat-13",
+      "potion2-heartbeat-14",
+      "potion2-heartbeat-15",
+      "potion2-heartbeat-16",
+      "potion2-heartbeat-17",
+      "potion2-heartbeat-18",
+      "potion2-heartbeat-19",
+      "potion2-heartbeat-20",
+      "potion2-heartbeat-21",
+      "potion2-heartbeat-22",
+      "potion2-heartbeat-23",
+      "potion2-heartbeat-24",
+      "potion2-heartbeat-25",
+      "potion2-heartbeat-26",
+      "potion2-heartbeat-27",
+      "potion2-heartbeat-28",
+      "potion2-heartbeat-29",
+      "potion2-heartbeat-30",
+      "potion2-heartbeat-31",
+      "potion2-heartbeat-32",
+      "potion2-heartbeat-33",
+      "potion2-heartbeat-34",
+      "potion2-heartbeat-35",
+      "potion2-heartbeat-36",
+      "potion2-heartbeat-37",
+      "potion2-heartbeat-38",
+      "potion2-heartbeat-39",
+      "potion2-heartbeat-40",
+      "potion2-heartbeat-41",
+      "potion2-heartbeat-42",
+      "potion2-heartbeat-43",
+      "potion2-heartbeat-44",
+      "potion2-heartbeat-45",
+      "potion2-heartbeat-46",
+      "potion2-heartbeat-47"
+    ]
+  },
+  "meta": {
+    "app": "PixelForge",
+    "version": "1",
+    "image": "potion2-heartbeat.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 384
+    },
+    "scale": "1"
+  }
+}

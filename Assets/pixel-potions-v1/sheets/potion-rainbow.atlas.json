@@ -1,0 +1,723 @@
+{
+  "frames": {
+    "potion-rainbow-00": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-01": {
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-02": {
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-03": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-04": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-05": {
+      "frame": {
+        "x": 320,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-06": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-07": {
+      "frame": {
+        "x": 448,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-08": {
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-09": {
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-10": {
+      "frame": {
+        "x": 128,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-11": {
+      "frame": {
+        "x": 192,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-12": {
+      "frame": {
+        "x": 256,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-13": {
+      "frame": {
+        "x": 320,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-14": {
+      "frame": {
+        "x": 384,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-15": {
+      "frame": {
+        "x": 448,
+        "y": 64,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-16": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-17": {
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-18": {
+      "frame": {
+        "x": 128,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-19": {
+      "frame": {
+        "x": 192,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-20": {
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-21": {
+      "frame": {
+        "x": 320,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-22": {
+      "frame": {
+        "x": 384,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-23": {
+      "frame": {
+        "x": 448,
+        "y": 128,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-24": {
+      "frame": {
+        "x": 0,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-25": {
+      "frame": {
+        "x": 64,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-26": {
+      "frame": {
+        "x": 128,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-27": {
+      "frame": {
+        "x": 192,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-28": {
+      "frame": {
+        "x": 256,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-29": {
+      "frame": {
+        "x": 320,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-30": {
+      "frame": {
+        "x": 384,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    },
+    "potion-rainbow-31": {
+      "frame": {
+        "x": 448,
+        "y": 192,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "duration": 70
+    }
+  },
+  "animations": {
+    "loop": [
+      "potion-rainbow-00",
+      "potion-rainbow-01",
+      "potion-rainbow-02",
+      "potion-rainbow-03",
+      "potion-rainbow-04",
+      "potion-rainbow-05",
+      "potion-rainbow-06",
+      "potion-rainbow-07",
+      "potion-rainbow-08",
+      "potion-rainbow-09",
+      "potion-rainbow-10",
+      "potion-rainbow-11",
+      "potion-rainbow-12",
+      "potion-rainbow-13",
+      "potion-rainbow-14",
+      "potion-rainbow-15",
+      "potion-rainbow-16",
+      "potion-rainbow-17",
+      "potion-rainbow-18",
+      "potion-rainbow-19",
+      "potion-rainbow-20",
+      "potion-rainbow-21",
+      "potion-rainbow-22",
+      "potion-rainbow-23",
+      "potion-rainbow-24",
+      "potion-rainbow-25",
+      "potion-rainbow-26",
+      "potion-rainbow-27",
+      "potion-rainbow-28",
+      "potion-rainbow-29",
+      "potion-rainbow-30",
+      "potion-rainbow-31"
+    ]
+  },
+  "meta": {
+    "app": "PixelForge",
+    "version": "1",
+    "image": "potion-rainbow.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 256
+    },
+    "scale": "1"
+  }
+}

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 9bf6df4291ab0264dbedbda39fb5e675
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5465979983106060897
+    second: potion2-heartbeat-clean_0
+  - first:
+      213: -7927174050258593136
+    second: potion2-heartbeat-clean_1
+  - first:
+      213: 6193962284999738056
+    second: potion2-heartbeat-clean_2
+  - first:
+      213: 1891940391655611344
+    second: potion2-heartbeat-clean_3
+  - first:
+      213: 2680722396476918785
+    second: potion2-heartbeat-clean_4
+  - first:
+      213: -4723119413574566267
+    second: potion2-heartbeat-clean_5
+  - first:
+      213: 4581731107997265102
+    second: potion2-heartbeat-clean_6
+  - first:
+      213: -6192012461441017319
+    second: potion2-heartbeat-clean_7
+  - first:
+      213: -3895052809756450851
+    second: potion2-heartbeat-clean_8
+  - first:
+      213: -4908952723189627974
+    second: potion2-heartbeat-clean_9
+  - first:
+      213: 2006366993899131925
+    second: potion2-heartbeat-clean_10
+  - first:
+      213: 2332408377228128718
+    second: potion2-heartbeat-clean_11
+  - first:
+      213: -2253553864211803988
+    second: potion2-heartbeat-clean_12
+  - first:
+      213: -6274808994306399689
+    second: potion2-heartbeat-clean_13
+  - first:
+      213: 5954490663859111940
+    second: potion2-heartbeat-clean_14
+  - first:
+      213: 6457642532877291643
+    second: potion2-heartbeat-clean_15
+  - first:
+      213: -5024569270840568702
+    second: potion2-heartbeat-clean_16
+  - first:
+      213: -6700714512615791457
+    second: potion2-heartbeat-clean_17
+  - first:
+      213: 2191026426292006125
+    second: potion2-heartbeat-clean_18
+  - first:
+      213: 5950869467298451073
+    second: potion2-heartbeat-clean_19
+  - first:
+      213: -7826003508345815263
+    second: potion2-heartbeat-clean_20
+  - first:
+      213: 9217696597798059441
+    second: potion2-heartbeat-clean_21
+  - first:
+      213: -434854078700837545
+    second: potion2-heartbeat-clean_22
+  - first:
+      213: -8143981033768302581
+    second: potion2-heartbeat-clean_23
+  - first:
+      213: -1200731417338694525
+    second: potion2-heartbeat-clean_24
+  - first:
+      213: -324870458091386448
+    second: potion2-heartbeat-clean_25
+  - first:
+      213: -6927909021529600586
+    second: potion2-heartbeat-clean_26
+  - first:
+      213: 3467881643568668614
+    second: potion2-heartbeat-clean_27
+  - first:
+      213: -6828452188909774477
+    second: potion2-heartbeat-clean_28
+  - first:
+      213: -2573234808071595044
+    second: potion2-heartbeat-clean_29
+  - first:
+      213: -6247941197783832077
+    second: potion2-heartbeat-clean_30
+  - first:
+      213: 6224705781697684030
+    second: potion2-heartbeat-clean_31
+  - first:
+      213: 238342410576940350
+    second: potion2-heartbeat-clean_32
+  - first:
+      213: -3734566814517470249
+    second: potion2-heartbeat-clean_33
+  - first:
+      213: 5770373549210985918
+    second: potion2-heartbeat-clean_34
+  - first:
+      213: 3116511111542193159
+    second: potion2-heartbeat-clean_35
+  - first:
+      213: 8944278049907741488
+    second: potion2-heartbeat-clean_36
+  - first:
+      213: 6546167446529196048
+    second: potion2-heartbeat-clean_37
+  - first:
+      213: 1529435779371044408
+    second: potion2-heartbeat-clean_38
+  - first:
+      213: 4632228357141436857
+    second: potion2-heartbeat-clean_39
+  - first:
+      213: 4731158327185795211
+    second: potion2-heartbeat-clean_40
+  - first:
+      213: 8275017384231198753
+    second: potion2-heartbeat-clean_41
+  - first:
+      213: -1840555741418350302
+    second: potion2-heartbeat-clean_42
+  - first:
+      213: 61135250419033546
+    second: potion2-heartbeat-clean_43
+  - first:
+      213: -3784272793084050355
+    second: potion2-heartbeat-clean_44
+  - first:
+      213: -1066291085678968238
+    second: potion2-heartbeat-clean_45
+  - first:
+      213: -3084409166917484467
+    second: potion2-heartbeat-clean_46
+  - first:
+      213: 2742374236191519674
+    second: potion2-heartbeat-clean_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 324
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162be6aa5df0bdb40800000000000000
+      internalID: 5465979983106060897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 324
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a54a583350df190800000000000000
+      internalID: -7927174050258593136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 324
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2839591ef55f550800000000000000
+      internalID: 6193962284999738056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 324
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db98d423c5814a10800000000000000
+      internalID: 1891940391655611344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 324
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc07701d6d33520800000000000000
+      internalID: 2680722396476918785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 324
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef222eaeb147eb0800000000000000
+      internalID: -4723119413574566267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 324
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecca88cea24959f30800000000000000
+      internalID: 4581731107997265102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 324
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a1407197d811aa0800000000000000
+      internalID: -6192012461441017319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf541d3b1ef1f9c0800000000000000
+      internalID: -3895052809756450851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3881bc185efdbb0800000000000000
+      internalID: -4908952723189627974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141d68962c08db10800000000000000
+      internalID: 2006366993899131925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f3dbbf016e5020800000000000000
+      internalID: 2332408377228128718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0527943b4c9b0e0800000000000000
+      internalID: -2253553864211803988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732e0fc07766be8a0800000000000000
+      internalID: -6274808994306399689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c3b5e5b992a250800000000000000
+      internalID: 5954490663859111940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 260
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70da9a6ba72e9950800000000000000
+      internalID: 6457642532877291643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28454369ed4254ab0800000000000000
+      internalID: -5024569270840568702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942b3617a74203a0800000000000000
+      internalID: -6700714512615791457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dece0a81de6186e10800000000000000
+      internalID: 2191026426292006125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eca0f504cb59250800000000000000
+      internalID: 5950869467298451073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f361ae543746390800000000000000
+      internalID: -7826003508345815263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd741fd736dbef70800000000000000
+      internalID: 9217696597798059441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75528e5f48617f9f0800000000000000
+      internalID: -434854078700837545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 196
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c8b00664cafe80800000000000000
+      internalID: -8143981033768302581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 132
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38430ee3325265fe0800000000000000
+      internalID: -1200731417338694525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 132
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c1732a04dd7bf0800000000000000
+      internalID: -324870458091386448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 132
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd0187537f1bdf90800000000000000
+      internalID: -6927909021529600586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 132
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf12003bf3602030800000000000000
+      internalID: 3467881643568668614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3795b42b9e67c31a0800000000000000
+      internalID: -6828452188909774477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 132
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd83d53980a4cd0800000000000000
+      internalID: -2573234808071595044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 132
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9e098659ada49a0800000000000000
+      internalID: -6247941197783832077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 132
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e322965bde8926650800000000000000
+      internalID: 6224705781697684030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d495dd823ce4300800000000000000
+      internalID: 238342410576940350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db59bec4472c2cc0800000000000000
+      internalID: -3734566814517470249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e7069b2c741050800000000000000
+      internalID: 5770373549210985918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cb70e0852104b20800000000000000
+      internalID: 3116511111542193159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03313116f75702c70800000000000000
+      internalID: 8944278049907741488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010499a0c98a8da50800000000000000
+      internalID: 6546167446529196048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e0f20fcb5a93510800000000000000
+      internalID: 1529435779371044408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b918e1f52bf84040800000000000000
+      internalID: 4632228357141436857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b886a0c8e6378a140800000000000000
+      internalID: 4731158327185795211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1206841d774c6d270800000000000000
+      internalID: 8275017384231198753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229147b0e480576e0800000000000000
+      internalID: -1840555741418350302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac52b74bf2239d000800000000000000
+      internalID: 61135250419033546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44cc03d1ff8b7bc0800000000000000
+      internalID: -3784272793084050355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25280f238e5c331f0800000000000000
+      internalID: -1066291085678968238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40ccef543af135d0800000000000000
+      internalID: -3084409166917484467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-heartbeat-clean_47
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3f06d86dede0620800000000000000
+      internalID: 2742374236191519674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion2-heartbeat-clean_0: 5465979983106060897
+      potion2-heartbeat-clean_1: -7927174050258593136
+      potion2-heartbeat-clean_10: 2006366993899131925
+      potion2-heartbeat-clean_11: 2332408377228128718
+      potion2-heartbeat-clean_12: -2253553864211803988
+      potion2-heartbeat-clean_13: -6274808994306399689
+      potion2-heartbeat-clean_14: 5954490663859111940
+      potion2-heartbeat-clean_15: 6457642532877291643
+      potion2-heartbeat-clean_16: -5024569270840568702
+      potion2-heartbeat-clean_17: -6700714512615791457
+      potion2-heartbeat-clean_18: 2191026426292006125
+      potion2-heartbeat-clean_19: 5950869467298451073
+      potion2-heartbeat-clean_2: 6193962284999738056
+      potion2-heartbeat-clean_20: -7826003508345815263
+      potion2-heartbeat-clean_21: 9217696597798059441
+      potion2-heartbeat-clean_22: -434854078700837545
+      potion2-heartbeat-clean_23: -8143981033768302581
+      potion2-heartbeat-clean_24: -1200731417338694525
+      potion2-heartbeat-clean_25: -324870458091386448
+      potion2-heartbeat-clean_26: -6927909021529600586
+      potion2-heartbeat-clean_27: 3467881643568668614
+      potion2-heartbeat-clean_28: -6828452188909774477
+      potion2-heartbeat-clean_29: -2573234808071595044
+      potion2-heartbeat-clean_3: 1891940391655611344
+      potion2-heartbeat-clean_30: -6247941197783832077
+      potion2-heartbeat-clean_31: 6224705781697684030
+      potion2-heartbeat-clean_32: 238342410576940350
+      potion2-heartbeat-clean_33: -3734566814517470249
+      potion2-heartbeat-clean_34: 5770373549210985918
+      potion2-heartbeat-clean_35: 3116511111542193159
+      potion2-heartbeat-clean_36: 8944278049907741488
+      potion2-heartbeat-clean_37: 6546167446529196048
+      potion2-heartbeat-clean_38: 1529435779371044408
+      potion2-heartbeat-clean_39: 4632228357141436857
+      potion2-heartbeat-clean_4: 2680722396476918785
+      potion2-heartbeat-clean_40: 4731158327185795211
+      potion2-heartbeat-clean_41: 8275017384231198753
+      potion2-heartbeat-clean_42: -1840555741418350302
+      potion2-heartbeat-clean_43: 61135250419033546
+      potion2-heartbeat-clean_44: -3784272793084050355
+      potion2-heartbeat-clean_45: -1066291085678968238
+      potion2-heartbeat-clean_46: -3084409166917484467
+      potion2-heartbeat-clean_47: 2742374236191519674
+      potion2-heartbeat-clean_5: -4723119413574566267
+      potion2-heartbeat-clean_6: 4581731107997265102
+      potion2-heartbeat-clean_7: -6192012461441017319
+      potion2-heartbeat-clean_8: -3895052809756450851
+      potion2-heartbeat-clean_9: -4908952723189627974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

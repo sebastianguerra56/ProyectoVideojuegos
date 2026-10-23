@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: f584d5d8b4d0bc8458c1ad37952bd32e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4708484807403191193
+    second: potion-azure_0
+  - first:
+      213: 4742446521533964581
+    second: potion-azure_1
+  - first:
+      213: 7487630934866944167
+    second: potion-azure_2
+  - first:
+      213: 3942142317289293333
+    second: potion-azure_3
+  - first:
+      213: 7951567033023028153
+    second: potion-azure_4
+  - first:
+      213: 3484155462183033432
+    second: potion-azure_5
+  - first:
+      213: 4507388299223338063
+    second: potion-azure_6
+  - first:
+      213: -9186029498961221979
+    second: potion-azure_7
+  - first:
+      213: 2249671124408893081
+    second: potion-azure_8
+  - first:
+      213: 8757218362719203661
+    second: potion-azure_9
+  - first:
+      213: -3687868780774139470
+    second: potion-azure_10
+  - first:
+      213: 4767780540969120184
+    second: potion-azure_11
+  - first:
+      213: -2129135657340897050
+    second: potion-azure_12
+  - first:
+      213: 1454277971965124822
+    second: potion-azure_13
+  - first:
+      213: 868616781533106610
+    second: potion-azure_14
+  - first:
+      213: -8686745522915391212
+    second: potion-azure_15
+  - first:
+      213: -4190203497060526512
+    second: potion-azure_16
+  - first:
+      213: -4188661912471930459
+    second: potion-azure_17
+  - first:
+      213: 8756347629982819541
+    second: potion-azure_18
+  - first:
+      213: -5567953011830087567
+    second: potion-azure_19
+  - first:
+      213: 7540149692703005354
+    second: potion-azure_20
+  - first:
+      213: 1491373118294130709
+    second: potion-azure_21
+  - first:
+      213: 3480633166062616405
+    second: potion-azure_22
+  - first:
+      213: -5686725391327053590
+    second: potion-azure_23
+  - first:
+      213: -1207014594250363509
+    second: potion-azure_24
+  - first:
+      213: 8888176181766819298
+    second: potion-azure_25
+  - first:
+      213: -7530270016500502799
+    second: potion-azure_26
+  - first:
+      213: 796415006725969061
+    second: potion-azure_27
+  - first:
+      213: 4591532014105392442
+    second: potion-azure_28
+  - first:
+      213: -8848354330959415537
+    second: potion-azure_29
+  - first:
+      213: -1301925804330000862
+    second: potion-azure_30
+  - first:
+      213: 2584153274343437605
+    second: potion-azure_31
+  - first:
+      213: 3328693908634468404
+    second: potion-azure_32
+  - first:
+      213: -6113069187522189215
+    second: potion-azure_33
+  - first:
+      213: 4048938542889546211
+    second: potion-azure_34
+  - first:
+      213: -5520978615486159889
+    second: potion-azure_35
+  - first:
+      213: 8563080167335184624
+    second: potion-azure_36
+  - first:
+      213: 8664107308191622749
+    second: potion-azure_37
+  - first:
+      213: 7558799119027015359
+    second: potion-azure_38
+  - first:
+      213: 3497667972313332016
+    second: potion-azure_39
+  - first:
+      213: 747217556513287596
+    second: potion-azure_40
+  - first:
+      213: -7647960559246778101
+    second: potion-azure_41
+  - first:
+      213: 4228158610287190549
+    second: potion-azure_42
+  - first:
+      213: -71603704353958931
+    second: potion-azure_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion-azure_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764c868a30a18aeb0800000000000000
+      internalID: -4708484807403191193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a15a1cfd80d140800000000000000
+      internalID: 4742446521533964581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 191
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a068f10aa869e760800000000000000
+      internalID: 7487630934866944167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516401c1d8d45b630800000000000000
+      internalID: 3942142317289293333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb5b0b5614a95e60800000000000000
+      internalID: 7951567033023028153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a18a9dee43a5030800000000000000
+      internalID: 3484155462183033432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c85f7e6c57d8e30800000000000000
+      internalID: 4507388299223338063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6282227daa48080800000000000000
+      internalID: -9186029498961221979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e78d7e7ff683f10800000000000000
+      internalID: 2249671124408893081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41f76204b3e78970800000000000000
+      internalID: 8757218362719203661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b954bf02ee02dcc0800000000000000
+      internalID: -3687868780774139470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 127
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fb77242f8a2240800000000000000
+      internalID: 4767780540969120184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f399766ac372e0800000000000000
+      internalID: -2129135657340897050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d028a34c12ae2410800000000000000
+      internalID: 1454277971965124822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b159355c52fd0c00800000000000000
+      internalID: 868616781533106610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c964a8fa727780800000000000000
+      internalID: -8686745522915391212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0569b1dbe1869d5c0800000000000000
+      internalID: -4190203497060526512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_17
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f6eede22eed5c0800000000000000
+      internalID: -4188661912471930459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 135
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a5feb6cbc48970800000000000000
+      internalID: 8756347629982819541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1702dcb6c38aab2b0800000000000000
+      internalID: -5567953011830087567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa55d2323ef3a860800000000000000
+      internalID: 7540149692703005354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100d7f03fb62b410800000000000000
+      internalID: 1491373118294130709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ffa906c61bd4030800000000000000
+      internalID: 3480633166062616405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b1cad261b411b0800000000000000
+      internalID: -5686725391327053590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8daefe1f92df3fe0800000000000000
+      internalID: -1207014594250363509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8c4f4525295b70800000000000000
+      internalID: 8888176181766819298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe66bb215b1f7790800000000000000
+      internalID: -7530270016500502799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a411b1aa3f6d0b00800000000000000
+      internalID: 796415006725969061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35f5933a0668bf30800000000000000
+      internalID: 4591532014105392442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ff58dd94543580800000000000000
+      internalID: -8848354330959415537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22edefcf061aeede0800000000000000
+      internalID: -1301925804330000862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525376a26b1ccd320800000000000000
+      internalID: 2584153274343437605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300a264975e13e20800000000000000
+      internalID: 3328693908634468404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168aa5e56f30a2ba0800000000000000
+      internalID: -6113069187522189215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b15e0728b03830800000000000000
+      internalID: 4048938542889546211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36b6b533b8163b0800000000000000
+      internalID: -5520978615486159889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8c4350b0c26d670800000000000000
+      internalID: 8563080167335184624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a0a041b71d3870800000000000000
+      internalID: 8664107308191622749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe042220cf36e860800000000000000
+      internalID: 7558799119027015359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393ff74d763a8030800000000000000
+      internalID: 3497667972313332016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cade8e1a866ae5a00800000000000000
+      internalID: 747217556513287596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01e5e9546cfcd590800000000000000
+      internalID: -7647960559246778101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5126d24badf6daa30800000000000000
+      internalID: 4228158610287190549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-azure_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3516d6fcc910ff0800000000000000
+      internalID: -71603704353958931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion-azure_0: -4708484807403191193
+      potion-azure_1: 4742446521533964581
+      potion-azure_10: -3687868780774139470
+      potion-azure_11: 4767780540969120184
+      potion-azure_12: -2129135657340897050
+      potion-azure_13: 1454277971965124822
+      potion-azure_14: 868616781533106610
+      potion-azure_15: -8686745522915391212
+      potion-azure_16: -4190203497060526512
+      potion-azure_17: -4188661912471930459
+      potion-azure_18: 8756347629982819541
+      potion-azure_19: -5567953011830087567
+      potion-azure_2: 7487630934866944167
+      potion-azure_20: 7540149692703005354
+      potion-azure_21: 1491373118294130709
+      potion-azure_22: 3480633166062616405
+      potion-azure_23: -5686725391327053590
+      potion-azure_24: -1207014594250363509
+      potion-azure_25: 8888176181766819298
+      potion-azure_26: -7530270016500502799
+      potion-azure_27: 796415006725969061
+      potion-azure_28: 4591532014105392442
+      potion-azure_29: -8848354330959415537
+      potion-azure_3: 3942142317289293333
+      potion-azure_30: -1301925804330000862
+      potion-azure_31: 2584153274343437605
+      potion-azure_32: 3328693908634468404
+      potion-azure_33: -6113069187522189215
+      potion-azure_34: 4048938542889546211
+      potion-azure_35: -5520978615486159889
+      potion-azure_36: 8563080167335184624
+      potion-azure_37: 8664107308191622749
+      potion-azure_38: 7558799119027015359
+      potion-azure_39: 3497667972313332016
+      potion-azure_4: 7951567033023028153
+      potion-azure_40: 747217556513287596
+      potion-azure_41: -7647960559246778101
+      potion-azure_42: 4228158610287190549
+      potion-azure_43: -71603704353958931
+      potion-azure_5: 3484155462183033432
+      potion-azure_6: 4507388299223338063
+      potion-azure_7: -9186029498961221979
+      potion-azure_8: 2249671124408893081
+      potion-azure_9: 8757218362719203661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 618a63b98bb5c5749a63201a44c55568
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2997640409215885165
+    second: brew-cauldron_0
+  - first:
+      213: 4759991705594893912
+    second: brew-cauldron_1
+  - first:
+      213: -5093025006057115114
+    second: brew-cauldron_2
+  - first:
+      213: 412757122563839219
+    second: brew-cauldron_3
+  - first:
+      213: 8952959539956822990
+    second: brew-cauldron_4
+  - first:
+      213: 7349767679862157485
+    second: brew-cauldron_5
+  - first:
+      213: 439779836279364806
+    second: brew-cauldron_6
+  - first:
+      213: -4258105910345751490
+    second: brew-cauldron_7
+  - first:
+      213: 5603545350638401365
+    second: brew-cauldron_8
+  - first:
+      213: 7468934930145617952
+    second: brew-cauldron_9
+  - first:
+      213: -1918940920937474022
+    second: brew-cauldron_10
+  - first:
+      213: -8314336245232579281
+    second: brew-cauldron_11
+  - first:
+      213: -8678719913228080758
+    second: brew-cauldron_12
+  - first:
+      213: 9165866272454783950
+    second: brew-cauldron_13
+  - first:
+      213: -6585117223441065733
+    second: brew-cauldron_14
+  - first:
+      213: 1845803942112936501
+    second: brew-cauldron_15
+  - first:
+      213: 3118226137199363025
+    second: brew-cauldron_16
+  - first:
+      213: 5581700875297527160
+    second: brew-cauldron_17
+  - first:
+      213: 2579879812453967276
+    second: brew-cauldron_18
+  - first:
+      213: 5573198693258958935
+    second: brew-cauldron_19
+  - first:
+      213: 4414863013845494995
+    second: brew-cauldron_20
+  - first:
+      213: 3051839816345106177
+    second: brew-cauldron_21
+  - first:
+      213: -5571300943690844370
+    second: brew-cauldron_22
+  - first:
+      213: -5577342762896528703
+    second: brew-cauldron_23
+  - first:
+      213: -2980312169950330434
+    second: brew-cauldron_24
+  - first:
+      213: 1235545462350068613
+    second: brew-cauldron_25
+  - first:
+      213: 11302010777322698
+    second: brew-cauldron_26
+  - first:
+      213: -3259115746855464162
+    second: brew-cauldron_27
+  - first:
+      213: 4355756199485966439
+    second: brew-cauldron_28
+  - first:
+      213: 7555462798178700332
+    second: brew-cauldron_29
+  - first:
+      213: -6044577575532597077
+    second: brew-cauldron_30
+  - first:
+      213: -6774403777163375158
+    second: brew-cauldron_31
+  - first:
+      213: 5868216746136108766
+    second: brew-cauldron_32
+  - first:
+      213: -8673474524011119098
+    second: brew-cauldron_33
+  - first:
+      213: 5413233239096966050
+    second: brew-cauldron_34
+  - first:
+      213: -3450565143047649939
+    second: brew-cauldron_35
+  - first:
+      213: -7536471204429095947
+    second: brew-cauldron_36
+  - first:
+      213: 103403226467821683
+    second: brew-cauldron_37
+  - first:
+      213: 3086787514303952162
+    second: brew-cauldron_38
+  - first:
+      213: -5657706960943029087
+    second: brew-cauldron_39
+  - first:
+      213: 6532218879478773100
+    second: brew-cauldron_40
+  - first:
+      213: 376706216531909281
+    second: brew-cauldron_41
+  - first:
+      213: 9181537190409637024
+    second: brew-cauldron_42
+  - first:
+      213: 3765471013320117967
+    second: brew-cauldron_43
+  - first:
+      213: 1977245121950748994
+    second: brew-cauldron_44
+  - first:
+      213: -111062905143816524
+    second: brew-cauldron_45
+  - first:
+      213: 3641737970739059915
+    second: brew-cauldron_46
+  - first:
+      213: -1890736137626522298
+    second: brew-cauldron_47
+  - first:
+      213: -3928375791767621245
+    second: brew-cauldron_48
+  - first:
+      213: -1296780278587036351
+    second: brew-cauldron_49
+  - first:
+      213: -2378803306108133797
+    second: brew-cauldron_50
+  - first:
+      213: 7957190373117769514
+    second: brew-cauldron_51
+  - first:
+      213: -4947913905539892550
+    second: brew-cauldron_52
+  - first:
+      213: -7458624599129032085
+    second: brew-cauldron_53
+  - first:
+      213: 6814172618536653112
+    second: brew-cauldron_54
+  - first:
+      213: 3964295228485865547
+    second: brew-cauldron_55
+  - first:
+      213: -4753002965097972624
+    second: brew-cauldron_56
+  - first:
+      213: -4068111533879942157
+    second: brew-cauldron_57
+  - first:
+      213: 4323617105133173714
+    second: brew-cauldron_58
+  - first:
+      213: -3941437542477371733
+    second: brew-cauldron_59
+  - first:
+      213: 924134338239100741
+    second: brew-cauldron_60
+  - first:
+      213: 4013297023296215881
+    second: brew-cauldron_61
+  - first:
+      213: 2332090611608720870
+    second: brew-cauldron_62
+  - first:
+      213: -7865859276828384005
+    second: brew-cauldron_63
+  - first:
+      213: 6556968962336181573
+    second: brew-cauldron_64
+  - first:
+      213: -2533590666277823627
+    second: brew-cauldron_65
+  - first:
+      213: -7325796051342468187
+    second: brew-cauldron_66
+  - first:
+      213: -8395064207678773454
+    second: brew-cauldron_67
+  - first:
+      213: 5590672303162618332
+    second: brew-cauldron_68
+  - first:
+      213: 364336821049901953
+    second: brew-cauldron_69
+  - first:
+      213: -8673093848507097701
+    second: brew-cauldron_70
+  - first:
+      213: 4640980624780310637
+    second: brew-cauldron_71
+  - first:
+      213: -3825961462270203490
+    second: brew-cauldron_72
+  - first:
+      213: 7922035618170276777
+    second: brew-cauldron_73
+  - first:
+      213: -509025027789764952
+    second: brew-cauldron_74
+  - first:
+      213: -8072009763364853976
+    second: brew-cauldron_75
+  - first:
+      213: 7606485009602755548
+    second: brew-cauldron_76
+  - first:
+      213: -917957513959570251
+    second: brew-cauldron_77
+  - first:
+      213: -2593931996288992292
+    second: brew-cauldron_78
+  - first:
+      213: 4794284275264764650
+    second: brew-cauldron_79
+  - first:
+      213: 7764128491661183156
+    second: brew-cauldron_80
+  - first:
+      213: 135606030521767338
+    second: brew-cauldron_81
+  - first:
+      213: 253265698506035928
+    second: brew-cauldron_82
+  - first:
+      213: 7898547050411695261
+    second: brew-cauldron_83
+  - first:
+      213: -3840136909119226949
+    second: brew-cauldron_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brew-cauldron_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a4541eed3666d0800000000000000
+      internalID: -2997640409215885165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 674
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561ac99c33ee0240800000000000000
+      internalID: 4759991705594893912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 752
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b8c1bdb0f159b0800000000000000
+      internalID: -5093025006057115114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 674
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f41ee48a686ab500800000000000000
+      internalID: 412757122563839219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 747
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3329b444d4f3c70800000000000000
+      internalID: 8952959539956822990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 674
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0b4db93ce9ff560800000000000000
+      internalID: 7349767679862157485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 674
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc9fc85e696a1600800000000000000
+      internalID: 439779836279364806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 738
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34a9d52c3b28e4c0800000000000000
+      internalID: -4258105910345751490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 674
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f79bbecac3cd40800000000000000
+      internalID: 5603545350638401365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 674
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02826d13fbcf6a760800000000000000
+      internalID: 7468934930145617952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 674
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a189f8e366d8e55e0800000000000000
+      internalID: -1918940920937474022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 758
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc1c77c3b8d9c80800000000000000
+      internalID: -8314336245232579281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 674
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a896ee2883efe8780800000000000000
+      internalID: -8678719913228080758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 746
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3b66cdfc2b33f70800000000000000
+      internalID: 9165866272454783950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 649
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf81d7456c6fc94a0800000000000000
+      internalID: -6585117223441065733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 664
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53248a6e7ec9d9910800000000000000
+      internalID: 1845803942112936501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 665
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d34b15962a264b20800000000000000
+      internalID: 3118226137199363025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 657
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875989a7f5f267d40800000000000000
+      internalID: 5581700875297527160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 649
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5258845039dc320800000000000000
+      internalID: 2579879812453967276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 578
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581f56feaaf75d40800000000000000
+      internalID: 5573198693258958935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 578
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6548258eb44d30800000000000000
+      internalID: 4414863013845494995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 646
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b4a4c4205a5a20800000000000000
+      internalID: 3051839816345106177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 648
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27328a4f43cea2b0800000000000000
+      internalID: -5571300943690844370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 578
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae4f2ae4c4992b0800000000000000
+      internalID: -5577342762896528703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 578
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1465e2fddc3a6d0800000000000000
+      internalID: -2980312169950330434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 642
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bb8334d0a852110800000000000000
+      internalID: 1235545462350068613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_26
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 578
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac441a17e17282000800000000000000
+      internalID: 11302010777322698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 578
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135ccaee7b45c2d0800000000000000
+      internalID: -3259115746855464162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 578
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76801968f21c27c30800000000000000
+      internalID: 4355756199485966439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 578
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cce1762656ad860800000000000000
+      internalID: 7555462798178700332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 482
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0761978b85d1ca0800000000000000
+      internalID: -6044577575532597077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 482
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdcc1138ab7cf1a0800000000000000
+      internalID: -6774403777163375158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 482
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edef07a1a08107150800000000000000
+      internalID: 5868216746136108766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 482
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ebaebdfd0a1a780800000000000000
+      internalID: -8673474524011119098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 482
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab36be43faaf1b40800000000000000
+      internalID: 5413233239096966050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 482
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65cc46c8412d10d0800000000000000
+      internalID: -3450565143047649939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_36
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 482
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb1b089e53196790800000000000000
+      internalID: -7536471204429095947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 482
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3786e36cfac5f6100800000000000000
+      internalID: 103403226467821683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 386
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225b237c3e876da20800000000000000
+      internalID: 3086787514303952162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 386
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a46cbdae79cb71b0800000000000000
+      internalID: -5657706960943029087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 386
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65be62367a17aa50800000000000000
+      internalID: 6532218879478773100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 386
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad01dde445a3500800000000000000
+      internalID: 376706216531909281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 386
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac8766cd6f5b6f70800000000000000
+      internalID: 9181537190409637024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 385
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec9f0bfe3a14430800000000000000
+      internalID: 3765471013320117967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 384
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2419fb766f5907b10800000000000000
+      internalID: 1977245121950748994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_45
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be0e2f40ec657ef0800000000000000
+      internalID: -111062905143816524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 384
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc14feb36d0a8230800000000000000
+      internalID: 3641737970739059915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64de6c81081c2c5e0800000000000000
+      internalID: -1890736137626522298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3817273e70b9b79c0800000000000000
+      internalID: -3928375791767621245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 268
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d661f0539e00ee0800000000000000
+      internalID: -1296780278587036351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 278
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e56ec1ffaccfed0800000000000000
+      internalID: -2378803306108133797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 288
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27b7df3c7e9d6e60800000000000000
+      internalID: 7957190373117769514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_52
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 288
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3411a48a755bb0800000000000000
+      internalID: -4947913905539892550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_53
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 288
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a7cefc174ad7890800000000000000
+      internalID: -7458624599129032085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_54
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 288
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831121eb4edc09e50800000000000000
+      internalID: 6814172618536653112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401daea181040730800000000000000
+      internalID: 3964295228485865547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf4f85cf0f90eb0800000000000000
+      internalID: -4753002965097972624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_57
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 189
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3aa6c1d1a2b87c0800000000000000
+      internalID: -4068111533879942157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_58
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 192
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbf34089d2900c30800000000000000
+      internalID: 4323617105133173714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_59
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 192
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba66f3010733d49c0800000000000000
+      internalID: -3941437542477371733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_60
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 192
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477b7bc84f23dc00800000000000000
+      internalID: 924134338239100741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_61
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 254
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b14bb116812b730800000000000000
+      internalID: 4013297023296215881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 192
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e516f82e004d5020800000000000000
+      internalID: 2332090611608720870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_63
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 192
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ee6fa9aad6d290800000000000000
+      internalID: -7865859276828384005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d4f4be7880ffa50800000000000000
+      internalID: 6556968962336181573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 98
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd34a66b0e6dcd0800000000000000
+      internalID: -2533590666277823627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 98
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd5c61e4b855a90800000000000000
+      internalID: -7325796051342468187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_67
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 98
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237e5b2059dbe7b80800000000000000
+      internalID: -8395064207678773454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_68
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd17f9dc6de069d40800000000000000
+      internalID: 5590672303162618332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_69
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 98
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183464d88626e0500800000000000000
+      internalID: 364336821049901953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_70
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 98
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ddb18c81bf2a780800000000000000
+      internalID: -8673093848507097701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_71
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 98
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68308d0a43186040800000000000000
+      internalID: 4640980624780310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_72
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 98
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ec05225477eac0800000000000000
+      internalID: -3825961462270203490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab08070c69b0fd60800000000000000
+      internalID: 7922035618170276777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6cec42f649fe8f0800000000000000
+      internalID: -509025027789764952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827272733e57aff80800000000000000
+      internalID: -8072009763364853976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 74
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb4bab0d9af8960800000000000000
+      internalID: 7606485009602755548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b40a8d2182c243f0800000000000000
+      internalID: -917957513959570251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_78
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbca5b790800cd0800000000000000
+      internalID: -2593931996288992292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 77
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeab56ba528b88240800000000000000
+      internalID: 4794284275264764650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_80
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b844ff1ab9bfbb60800000000000000
+      internalID: 7764128491661183156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_81
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa596ae57f4c1e100800000000000000
+      internalID: 135606030521767338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_82
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25e399fc7c38300800000000000000
+      internalID: 253265698506035928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_83
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c9f7da1b64d9d60800000000000000
+      internalID: 7898547050411695261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew-cauldron_84
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbf41bb3d715bac0800000000000000
+      internalID: -3840136909119226949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brew-cauldron_0: -2997640409215885165
+      brew-cauldron_1: 4759991705594893912
+      brew-cauldron_10: -1918940920937474022
+      brew-cauldron_11: -8314336245232579281
+      brew-cauldron_12: -8678719913228080758
+      brew-cauldron_13: 9165866272454783950
+      brew-cauldron_14: -6585117223441065733
+      brew-cauldron_15: 1845803942112936501
+      brew-cauldron_16: 3118226137199363025
+      brew-cauldron_17: 5581700875297527160
+      brew-cauldron_18: 2579879812453967276
+      brew-cauldron_19: 5573198693258958935
+      brew-cauldron_2: -5093025006057115114
+      brew-cauldron_20: 4414863013845494995
+      brew-cauldron_21: 3051839816345106177
+      brew-cauldron_22: -5571300943690844370
+      brew-cauldron_23: -5577342762896528703
+      brew-cauldron_24: -2980312169950330434
+      brew-cauldron_25: 1235545462350068613
+      brew-cauldron_26: 11302010777322698
+      brew-cauldron_27: -3259115746855464162
+      brew-cauldron_28: 4355756199485966439
+      brew-cauldron_29: 7555462798178700332
+      brew-cauldron_3: 412757122563839219
+      brew-cauldron_30: -6044577575532597077
+      brew-cauldron_31: -6774403777163375158
+      brew-cauldron_32: 5868216746136108766
+      brew-cauldron_33: -8673474524011119098
+      brew-cauldron_34: 5413233239096966050
+      brew-cauldron_35: -3450565143047649939
+      brew-cauldron_36: -7536471204429095947
+      brew-cauldron_37: 103403226467821683
+      brew-cauldron_38: 3086787514303952162
+      brew-cauldron_39: -5657706960943029087
+      brew-cauldron_4: 8952959539956822990
+      brew-cauldron_40: 6532218879478773100
+      brew-cauldron_41: 376706216531909281
+      brew-cauldron_42: 9181537190409637024
+      brew-cauldron_43: 3765471013320117967
+      brew-cauldron_44: 1977245121950748994
+      brew-cauldron_45: -111062905143816524
+      brew-cauldron_46: 3641737970739059915
+      brew-cauldron_47: -1890736137626522298
+      brew-cauldron_48: -3928375791767621245
+      brew-cauldron_49: -1296780278587036351
+      brew-cauldron_5: 7349767679862157485
+      brew-cauldron_50: -2378803306108133797
+      brew-cauldron_51: 7957190373117769514
+      brew-cauldron_52: -4947913905539892550
+      brew-cauldron_53: -7458624599129032085
+      brew-cauldron_54: 6814172618536653112
+      brew-cauldron_55: 3964295228485865547
+      brew-cauldron_56: -4753002965097972624
+      brew-cauldron_57: -4068111533879942157
+      brew-cauldron_58: 4323617105133173714
+      brew-cauldron_59: -3941437542477371733
+      brew-cauldron_6: 439779836279364806
+      brew-cauldron_60: 924134338239100741
+      brew-cauldron_61: 4013297023296215881
+      brew-cauldron_62: 2332090611608720870
+      brew-cauldron_63: -7865859276828384005
+      brew-cauldron_64: 6556968962336181573
+      brew-cauldron_65: -2533590666277823627
+      brew-cauldron_66: -7325796051342468187
+      brew-cauldron_67: -8395064207678773454
+      brew-cauldron_68: 5590672303162618332
+      brew-cauldron_69: 364336821049901953
+      brew-cauldron_7: -4258105910345751490
+      brew-cauldron_70: -8673093848507097701
+      brew-cauldron_71: 4640980624780310637
+      brew-cauldron_72: -3825961462270203490
+      brew-cauldron_73: 7922035618170276777
+      brew-cauldron_74: -509025027789764952
+      brew-cauldron_75: -8072009763364853976
+      brew-cauldron_76: 7606485009602755548
+      brew-cauldron_77: -917957513959570251
+      brew-cauldron_78: -2593931996288992292
+      brew-cauldron_79: 4794284275264764650
+      brew-cauldron_8: 5603545350638401365
+      brew-cauldron_80: 7764128491661183156
+      brew-cauldron_81: 135606030521767338
+      brew-cauldron_82: 253265698506035928
+      brew-cauldron_83: 7898547050411695261
+      brew-cauldron_84: -3840136909119226949
+      brew-cauldron_9: 7468934930145617952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

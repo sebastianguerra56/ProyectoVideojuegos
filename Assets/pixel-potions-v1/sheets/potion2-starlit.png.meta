@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 8cd54609ddf0f9547ace7a49734e2f4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4448004970727502907
+    second: potion2-starlit_0
+  - first:
+      213: -5802634775263547818
+    second: potion2-starlit_1
+  - first:
+      213: -2738390696931662616
+    second: potion2-starlit_2
+  - first:
+      213: -4174830682631109803
+    second: potion2-starlit_3
+  - first:
+      213: -6084160662510566768
+    second: potion2-starlit_4
+  - first:
+      213: -6387689944943803223
+    second: potion2-starlit_5
+  - first:
+      213: 6005412475483276092
+    second: potion2-starlit_6
+  - first:
+      213: -4217353130959519571
+    second: potion2-starlit_7
+  - first:
+      213: -7854929189962891291
+    second: potion2-starlit_8
+  - first:
+      213: -1788232640206184082
+    second: potion2-starlit_9
+  - first:
+      213: -3723786084782076011
+    second: potion2-starlit_10
+  - first:
+      213: 6347651555769228336
+    second: potion2-starlit_11
+  - first:
+      213: 556872993233308162
+    second: potion2-starlit_12
+  - first:
+      213: 4902579742639975116
+    second: potion2-starlit_13
+  - first:
+      213: -6218711240332629905
+    second: potion2-starlit_14
+  - first:
+      213: 1879482801422204960
+    second: potion2-starlit_15
+  - first:
+      213: 4100391480402772156
+    second: potion2-starlit_16
+  - first:
+      213: 8423082011133661679
+    second: potion2-starlit_17
+  - first:
+      213: 1034133467126698689
+    second: potion2-starlit_18
+  - first:
+      213: -6512616072150462331
+    second: potion2-starlit_19
+  - first:
+      213: -1646706401310898619
+    second: potion2-starlit_20
+  - first:
+      213: -7043937650097121733
+    second: potion2-starlit_21
+  - first:
+      213: -7483899528784365763
+    second: potion2-starlit_22
+  - first:
+      213: -2404413269429986811
+    second: potion2-starlit_23
+  - first:
+      213: -2163754641105274008
+    second: potion2-starlit_24
+  - first:
+      213: 1321991829974233076
+    second: potion2-starlit_25
+  - first:
+      213: -1725891734782598269
+    second: potion2-starlit_26
+  - first:
+      213: -1179351888417480550
+    second: potion2-starlit_27
+  - first:
+      213: -5123131343559352409
+    second: potion2-starlit_28
+  - first:
+      213: -406070323059177385
+    second: potion2-starlit_29
+  - first:
+      213: 3257246780022107609
+    second: potion2-starlit_30
+  - first:
+      213: -1469809785955775416
+    second: potion2-starlit_31
+  - first:
+      213: 8820102963376555016
+    second: potion2-starlit_32
+  - first:
+      213: 5099190766913979890
+    second: potion2-starlit_33
+  - first:
+      213: -728500764981918393
+    second: potion2-starlit_34
+  - first:
+      213: -3341383845237417640
+    second: potion2-starlit_35
+  - first:
+      213: 149998438942226538
+    second: potion2-starlit_36
+  - first:
+      213: -5601655991856977554
+    second: potion2-starlit_37
+  - first:
+      213: 785924841082473421
+    second: potion2-starlit_38
+  - first:
+      213: -2878870644827345748
+    second: potion2-starlit_39
+  - first:
+      213: -3963262468841419756
+    second: potion2-starlit_40
+  - first:
+      213: 5786857360478656497
+    second: potion2-starlit_41
+  - first:
+      213: 5909048213165148705
+    second: potion2-starlit_42
+  - first:
+      213: -3801547028076596553
+    second: potion2-starlit_43
+  - first:
+      213: -4118164029703151079
+    second: potion2-starlit_44
+  - first:
+      213: 5685848981494720866
+    second: potion2-starlit_45
+  - first:
+      213: -3831556175631934829
+    second: potion2-starlit_46
+  - first:
+      213: 626623460236653182
+    second: potion2-starlit_47
+  - first:
+      213: -387504836050980324
+    second: potion2-starlit_48
+  - first:
+      213: -7792454392976396241
+    second: potion2-starlit_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion2-starlit_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb8d90bb038542c0800000000000000
+      internalID: -4448004970727502907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e66136a66e87fa0800000000000000
+      internalID: -5802634775263547818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e467257b284ff9d0800000000000000
+      internalID: -2738390696931662616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530f540d950016c0800000000000000
+      internalID: -4174830682631109803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09207aadc18b09ba0800000000000000
+      internalID: -6084160662510566768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a44a48a6dd5a57a0800000000000000
+      internalID: -6387689944943803223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3341e214d2875350800000000000000
+      internalID: 6005412475483276092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c6c00ca3f875c0800000000000000
+      internalID: -4217353130959519571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 326
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef3a68d48fadf290800000000000000
+      internalID: -7854929189962891291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6160c063ebee27e0800000000000000
+      internalID: -1788232640206184082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f850d0944725cc0800000000000000
+      internalID: -3723786084782076011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c949b6573671850800000000000000
+      internalID: 6347651555769228336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a0ea279096ab700800000000000000
+      internalID: 556872993233308162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae41b0d46790440800000000000000
+      internalID: 4902579742639975116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ae373313b2b9a0800000000000000
+      internalID: -6218711240332629905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200a3466a3451a10800000000000000
+      internalID: 1879482801422204960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 256
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0027d935487e830800000000000000
+      internalID: 4100391480402772156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1da93367cc4e470800000000000000
+      internalID: 8423082011133661679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c21e66c8eaf95e00800000000000000
+      internalID: 1034133467126698689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d8fc003a8e95a0800000000000000
+      internalID: -6512616072150462331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546808ca049b529e0800000000000000
+      internalID: -1646706401310898619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3616f11708ee3e90800000000000000
+      internalID: -7043937650097121733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37381ca709d32890800000000000000
+      internalID: -7483899528784365763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ad36ededec1aed0800000000000000
+      internalID: -2404413269429986811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b31d33e9cc8f1e0800000000000000
+      internalID: -2163754641105274008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 192
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff259da098a85210800000000000000
+      internalID: 1321991829974233076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38320838c966c08e0800000000000000
+      internalID: -1725891734782598269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90a0b9b4b912afe0800000000000000
+      internalID: -1179351888417480550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af9971cf2bf6e8b0800000000000000
+      internalID: -5123131343559352409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758ca3051395d5af0800000000000000
+      internalID: -406070323059177385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda00550b0143d20800000000000000
+      internalID: 3257246780022107609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 128
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c86bc79cf2a9be0800000000000000
+      internalID: -1469809785955775416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 128
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8040e6e0aec476a70800000000000000
+      internalID: 8820102963376555016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_33
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 128
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50cdf5cf6f3c640800000000000000
+      internalID: 5099190766913979890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 64
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74507acf968d3e5f0800000000000000
+      internalID: -728500764981918393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859156e981501a1d0800000000000000
+      internalID: -3341383845237417640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68b30619c6e41200800000000000000
+      internalID: 149998438942226538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e692d63ed8be242b0800000000000000
+      internalID: -5601655991856977554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb40ec9a7a28ea00800000000000000
+      internalID: 785924841082473421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 64
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac24c4c6623c08d0800000000000000
+      internalID: -2878870644827345748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cc11968c9aff8c0800000000000000
+      internalID: -3963262468841419756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f75f29fb1c0f4050800000000000000
+      internalID: 5786857360478656497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a8d5ada08210250800000000000000
+      internalID: 5909048213165148705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b27d829e113e3bc0800000000000000
+      internalID: -3801547028076596553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912a0ca42a759d6c0800000000000000
+      internalID: -4118164029703151079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2696284168138ee40800000000000000
+      internalID: 5685848981494720866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a118e65f393dac0800000000000000
+      internalID: -3831556175631934829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_47
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72f45397b632b800800000000000000
+      internalID: 626623460236653182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c127f6a976e4f9af0800000000000000
+      internalID: -387504836050980324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-starlit_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b53a0404abd390800000000000000
+      internalID: -7792454392976396241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion2-starlit_0: -4448004970727502907
+      potion2-starlit_1: -5802634775263547818
+      potion2-starlit_10: -3723786084782076011
+      potion2-starlit_11: 6347651555769228336
+      potion2-starlit_12: 556872993233308162
+      potion2-starlit_13: 4902579742639975116
+      potion2-starlit_14: -6218711240332629905
+      potion2-starlit_15: 1879482801422204960
+      potion2-starlit_16: 4100391480402772156
+      potion2-starlit_17: 8423082011133661679
+      potion2-starlit_18: 1034133467126698689
+      potion2-starlit_19: -6512616072150462331
+      potion2-starlit_2: -2738390696931662616
+      potion2-starlit_20: -1646706401310898619
+      potion2-starlit_21: -7043937650097121733
+      potion2-starlit_22: -7483899528784365763
+      potion2-starlit_23: -2404413269429986811
+      potion2-starlit_24: -2163754641105274008
+      potion2-starlit_25: 1321991829974233076
+      potion2-starlit_26: -1725891734782598269
+      potion2-starlit_27: -1179351888417480550
+      potion2-starlit_28: -5123131343559352409
+      potion2-starlit_29: -406070323059177385
+      potion2-starlit_3: -4174830682631109803
+      potion2-starlit_30: 3257246780022107609
+      potion2-starlit_31: -1469809785955775416
+      potion2-starlit_32: 8820102963376555016
+      potion2-starlit_33: 5099190766913979890
+      potion2-starlit_34: -728500764981918393
+      potion2-starlit_35: -3341383845237417640
+      potion2-starlit_36: 149998438942226538
+      potion2-starlit_37: -5601655991856977554
+      potion2-starlit_38: 785924841082473421
+      potion2-starlit_39: -2878870644827345748
+      potion2-starlit_4: -6084160662510566768
+      potion2-starlit_40: -3963262468841419756
+      potion2-starlit_41: 5786857360478656497
+      potion2-starlit_42: 5909048213165148705
+      potion2-starlit_43: -3801547028076596553
+      potion2-starlit_44: -4118164029703151079
+      potion2-starlit_45: 5685848981494720866
+      potion2-starlit_46: -3831556175631934829
+      potion2-starlit_47: 626623460236653182
+      potion2-starlit_48: -387504836050980324
+      potion2-starlit_49: -7792454392976396241
+      potion2-starlit_5: -6387689944943803223
+      potion2-starlit_6: 6005412475483276092
+      potion2-starlit_7: -4217353130959519571
+      potion2-starlit_8: -7854929189962891291
+      potion2-starlit_9: -1788232640206184082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: bfcd9561e09d8074284879dc7928b0e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4696194088936036888
+    second: potion2-poison-clean_0
+  - first:
+      213: 2986651604844994000
+    second: potion2-poison-clean_1
+  - first:
+      213: 328268534512487525
+    second: potion2-poison-clean_2
+  - first:
+      213: -3428188858464500618
+    second: potion2-poison-clean_3
+  - first:
+      213: 3874749447849590355
+    second: potion2-poison-clean_4
+  - first:
+      213: 5917988835920825793
+    second: potion2-poison-clean_5
+  - first:
+      213: -207203206001927678
+    second: potion2-poison-clean_6
+  - first:
+      213: 3591134309172155803
+    second: potion2-poison-clean_7
+  - first:
+      213: 8913517118948035258
+    second: potion2-poison-clean_8
+  - first:
+      213: 8209356975444055329
+    second: potion2-poison-clean_9
+  - first:
+      213: -2434051073615641877
+    second: potion2-poison-clean_10
+  - first:
+      213: 1040939832358642315
+    second: potion2-poison-clean_11
+  - first:
+      213: -5882975426764495537
+    second: potion2-poison-clean_12
+  - first:
+      213: 6310091470728744384
+    second: potion2-poison-clean_13
+  - first:
+      213: 3009019663159443697
+    second: potion2-poison-clean_14
+  - first:
+      213: -7250407894474965745
+    second: potion2-poison-clean_15
+  - first:
+      213: -7939112666865568552
+    second: potion2-poison-clean_16
+  - first:
+      213: -2790521111373897817
+    second: potion2-poison-clean_17
+  - first:
+      213: 7243723505889121671
+    second: potion2-poison-clean_18
+  - first:
+      213: 8632922495320939732
+    second: potion2-poison-clean_19
+  - first:
+      213: 894927751877809922
+    second: potion2-poison-clean_20
+  - first:
+      213: -7572628019645204750
+    second: potion2-poison-clean_21
+  - first:
+      213: -9032609608047341583
+    second: potion2-poison-clean_22
+  - first:
+      213: -193724821395108073
+    second: potion2-poison-clean_23
+  - first:
+      213: -4640906910174053570
+    second: potion2-poison-clean_24
+  - first:
+      213: -2503150618595886496
+    second: potion2-poison-clean_25
+  - first:
+      213: 8631041295524124188
+    second: potion2-poison-clean_26
+  - first:
+      213: 1181589325722567463
+    second: potion2-poison-clean_27
+  - first:
+      213: 1883800185565938876
+    second: potion2-poison-clean_28
+  - first:
+      213: 846853088946689792
+    second: potion2-poison-clean_29
+  - first:
+      213: 7548499673419379915
+    second: potion2-poison-clean_30
+  - first:
+      213: -7400012329246896015
+    second: potion2-poison-clean_31
+  - first:
+      213: 688243164387781936
+    second: potion2-poison-clean_32
+  - first:
+      213: -3505343273988457043
+    second: potion2-poison-clean_33
+  - first:
+      213: 1214270000325290428
+    second: potion2-poison-clean_34
+  - first:
+      213: 1710471133240455746
+    second: potion2-poison-clean_35
+  - first:
+      213: 3145620896385223140
+    second: potion2-poison-clean_36
+  - first:
+      213: -1383305730241278457
+    second: potion2-poison-clean_37
+  - first:
+      213: 316896976027919568
+    second: potion2-poison-clean_38
+  - first:
+      213: 9211083032705742185
+    second: potion2-poison-clean_39
+  - first:
+      213: -450699183674132308
+    second: potion2-poison-clean_40
+  - first:
+      213: 5891760375306259940
+    second: potion2-poison-clean_41
+  - first:
+      213: -8652589240920368386
+    second: potion2-poison-clean_42
+  - first:
+      213: -4507688234676670360
+    second: potion2-poison-clean_43
+  - first:
+      213: 6086412291579507876
+    second: potion2-poison-clean_44
+  - first:
+      213: -3020741587305981837
+    second: potion2-poison-clean_45
+  - first:
+      213: -3949053231580502034
+    second: potion2-poison-clean_46
+  - first:
+      213: 5634297284313488306
+    second: potion2-poison-clean_47
+  - first:
+      213: -6749513991242534263
+    second: potion2-poison-clean_48
+  - first:
+      213: 4623442227285031302
+    second: potion2-poison-clean_49
+  - first:
+      213: 5749100342523631984
+    second: potion2-poison-clean_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion2-poison-clean_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a525374ab3c2140800000000000000
+      internalID: 4696194088936036888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddd2a68fc7b27920800000000000000
+      internalID: 2986651604844994000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c0e8e2e7e3e8400800000000000000
+      internalID: 328268534512487525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67485448560ac60d0800000000000000
+      internalID: -3428188858464500618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e37b0f710e5c530800000000000000
+      internalID: 3874749447849590355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc9cdcd7be02250800000000000000
+      internalID: 5917988835920825793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20adeed28cddf1df0800000000000000
+      internalID: -207203206001927678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 324
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b959ce6a0a546d130800000000000000
+      internalID: 3591134309172155803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 260
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac246089c23bb70800000000000000
+      internalID: 8913517118948035258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 260
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d7b39cae7de170800000000000000
+      internalID: 8209356975444055329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 260
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be24bf7d173883ed0800000000000000
+      internalID: -2434051073615641877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 260
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82aa4c2349227e00800000000000000
+      internalID: 1040939832358642315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 260
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a959c4097b5ea0800000000000000
+      internalID: -5882975426764495537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 260
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4205a2c2f19750800000000000000
+      internalID: 6310091470728744384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 260
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0c8c0f07f22c920800000000000000
+      internalID: 3009019663159443697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 260
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db12d2f60616b90800000000000000
+      internalID: -7250407894474965745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 196
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d47cabb71b92d190800000000000000
+      internalID: -7939112666865568552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 196
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af945285d31649d0800000000000000
+      internalID: -2790521111373897817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 196
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851ba35620e68460800000000000000
+      internalID: 7243723505889121671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 196
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5513354d4ec770800000000000000
+      internalID: 8632922495320939732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 196
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207d05e7c0c6b6c00800000000000000
+      internalID: 894927751877809922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 196
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6b0e800fe98e690800000000000000
+      internalID: -7572628019645204750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 196
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffce851b69b5a280800000000000000
+      internalID: -9032609608047341583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 196
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f81942d40cf4df0800000000000000
+      internalID: -193724821395108073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 132
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7b67f0cf289fb0800000000000000
+      internalID: -4640906910174053570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06afa4f46c5034dd0800000000000000
+      internalID: -2503150618595886496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16517d345e97c770800000000000000
+      internalID: 8631041295524124188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723461e3b39d56010800000000000000
+      internalID: 1181589325722567463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40978b94a942a10800000000000000
+      internalID: 1883800185565938876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 132
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0071c97c560a0cb00800000000000000
+      internalID: 846853088946689792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc470559578a1c860800000000000000
+      internalID: 7548499673419379915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705ab55effdd4990800000000000000
+      internalID: -7400012329246896015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dac64f2812d8900800000000000000
+      internalID: 688243164387781936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 132
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadfc1a4dd48a5fc0800000000000000
+      internalID: -3505343273988457043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96dceb124f9d010800000000000000
+      internalID: 1214270000325290428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427b57ee60dcb710800000000000000
+      internalID: 1710471133240455746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9461ff98d77ab20800000000000000
+      internalID: 3145620896385223140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec43574c28dcce0800000000000000
+      internalID: -1383305730241278457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 68
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d42a86ee18d56400800000000000000
+      internalID: 316896976027919568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_39
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 68
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965bd01473754df70800000000000000
+      internalID: 9211083032705742185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 67
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87b88fa7bceb9f0800000000000000
+      internalID: -450699183674132308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 66
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed0adf68dcb3c150800000000000000
+      internalID: 5891760375306259940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa1393cde3dbe780800000000000000
+      internalID: -8652589240920368386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b3edee697171c0800000000000000
+      internalID: -4507688234676670360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4fa246bb7477450800000000000000
+      internalID: 6086412291579507876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378906ae78b2416d0800000000000000
+      internalID: -3020741587305981837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7298442052239c0800000000000000
+      internalID: -3949053231580502034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb147e378b013e40800000000000000
+      internalID: 5634297284313488306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982b57119c8e452a0800000000000000
+      internalID: -6749513991242534263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_49
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897ddca534c92040800000000000000
+      internalID: 4623442227285031302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-poison-clean_50
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079923e2d48e8cf40800000000000000
+      internalID: 5749100342523631984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion2-poison-clean_0: 4696194088936036888
+      potion2-poison-clean_1: 2986651604844994000
+      potion2-poison-clean_10: -2434051073615641877
+      potion2-poison-clean_11: 1040939832358642315
+      potion2-poison-clean_12: -5882975426764495537
+      potion2-poison-clean_13: 6310091470728744384
+      potion2-poison-clean_14: 3009019663159443697
+      potion2-poison-clean_15: -7250407894474965745
+      potion2-poison-clean_16: -7939112666865568552
+      potion2-poison-clean_17: -2790521111373897817
+      potion2-poison-clean_18: 7243723505889121671
+      potion2-poison-clean_19: 8632922495320939732
+      potion2-poison-clean_2: 328268534512487525
+      potion2-poison-clean_20: 894927751877809922
+      potion2-poison-clean_21: -7572628019645204750
+      potion2-poison-clean_22: -9032609608047341583
+      potion2-poison-clean_23: -193724821395108073
+      potion2-poison-clean_24: -4640906910174053570
+      potion2-poison-clean_25: -2503150618595886496
+      potion2-poison-clean_26: 8631041295524124188
+      potion2-poison-clean_27: 1181589325722567463
+      potion2-poison-clean_28: 1883800185565938876
+      potion2-poison-clean_29: 846853088946689792
+      potion2-poison-clean_3: -3428188858464500618
+      potion2-poison-clean_30: 7548499673419379915
+      potion2-poison-clean_31: -7400012329246896015
+      potion2-poison-clean_32: 688243164387781936
+      potion2-poison-clean_33: -3505343273988457043
+      potion2-poison-clean_34: 1214270000325290428
+      potion2-poison-clean_35: 1710471133240455746
+      potion2-poison-clean_36: 3145620896385223140
+      potion2-poison-clean_37: -1383305730241278457
+      potion2-poison-clean_38: 316896976027919568
+      potion2-poison-clean_39: 9211083032705742185
+      potion2-poison-clean_4: 3874749447849590355
+      potion2-poison-clean_40: -450699183674132308
+      potion2-poison-clean_41: 5891760375306259940
+      potion2-poison-clean_42: -8652589240920368386
+      potion2-poison-clean_43: -4507688234676670360
+      potion2-poison-clean_44: 6086412291579507876
+      potion2-poison-clean_45: -3020741587305981837
+      potion2-poison-clean_46: -3949053231580502034
+      potion2-poison-clean_47: 5634297284313488306
+      potion2-poison-clean_48: -6749513991242534263
+      potion2-poison-clean_49: 4623442227285031302
+      potion2-poison-clean_5: 5917988835920825793
+      potion2-poison-clean_50: 5749100342523631984
+      potion2-poison-clean_6: -207203206001927678
+      potion2-poison-clean_7: 3591134309172155803
+      potion2-poison-clean_8: 8913517118948035258
+      potion2-poison-clean_9: 8209356975444055329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

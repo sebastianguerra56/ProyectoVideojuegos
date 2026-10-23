@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 2127100aa7e5db24aa865155583acd81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5712235881177171792
+    second: potion2-ember_0
+  - first:
+      213: 9182366004653920006
+    second: potion2-ember_1
+  - first:
+      213: -4946243132869771267
+    second: potion2-ember_2
+  - first:
+      213: 8346902147312334574
+    second: potion2-ember_3
+  - first:
+      213: -1685668438433094601
+    second: potion2-ember_4
+  - first:
+      213: 7890754855424968247
+    second: potion2-ember_5
+  - first:
+      213: 7824663482692862323
+    second: potion2-ember_6
+  - first:
+      213: 8416161612752474750
+    second: potion2-ember_7
+  - first:
+      213: -2681614144386769975
+    second: potion2-ember_8
+  - first:
+      213: -5945096352191301166
+    second: potion2-ember_9
+  - first:
+      213: 7817452866720354808
+    second: potion2-ember_10
+  - first:
+      213: 9188736836944504300
+    second: potion2-ember_11
+  - first:
+      213: -4402171058211462532
+    second: potion2-ember_12
+  - first:
+      213: 641359819880976145
+    second: potion2-ember_13
+  - first:
+      213: -6123546522239270529
+    second: potion2-ember_14
+  - first:
+      213: -2147939438581280949
+    second: potion2-ember_15
+  - first:
+      213: -2024833157946778382
+    second: potion2-ember_16
+  - first:
+      213: 4268915011508922097
+    second: potion2-ember_17
+  - first:
+      213: 4734231523594773958
+    second: potion2-ember_18
+  - first:
+      213: 656883293353705217
+    second: potion2-ember_19
+  - first:
+      213: 5828744820104388989
+    second: potion2-ember_20
+  - first:
+      213: 6418442131491970881
+    second: potion2-ember_21
+  - first:
+      213: 8862533410631565808
+    second: potion2-ember_22
+  - first:
+      213: 3823016462121982071
+    second: potion2-ember_23
+  - first:
+      213: 2946338315687948762
+    second: potion2-ember_24
+  - first:
+      213: -2120384057058720502
+    second: potion2-ember_25
+  - first:
+      213: 4030777932187698669
+    second: potion2-ember_26
+  - first:
+      213: -8245178984900838075
+    second: potion2-ember_27
+  - first:
+      213: -3353305020536783729
+    second: potion2-ember_28
+  - first:
+      213: -4393968227019342226
+    second: potion2-ember_29
+  - first:
+      213: -290143206251358315
+    second: potion2-ember_30
+  - first:
+      213: 5891967930703620257
+    second: potion2-ember_31
+  - first:
+      213: -7138448467733385837
+    second: potion2-ember_32
+  - first:
+      213: -7687957976244538232
+    second: potion2-ember_33
+  - first:
+      213: 405601936118275714
+    second: potion2-ember_34
+  - first:
+      213: -820206312310287240
+    second: potion2-ember_35
+  - first:
+      213: 2414762984885573934
+    second: potion2-ember_36
+  - first:
+      213: 4472506645943063652
+    second: potion2-ember_37
+  - first:
+      213: -7235036175238809003
+    second: potion2-ember_38
+  - first:
+      213: 5762023623956854487
+    second: potion2-ember_39
+  - first:
+      213: -2452114875547890882
+    second: potion2-ember_40
+  - first:
+      213: -6639552886001849493
+    second: potion2-ember_41
+  - first:
+      213: 7014070647392337171
+    second: potion2-ember_42
+  - first:
+      213: 5911085328582725266
+    second: potion2-ember_43
+  - first:
+      213: 6992882961708906308
+    second: potion2-ember_44
+  - first:
+      213: 3167825996638258366
+    second: potion2-ember_45
+  - first:
+      213: -1081063976581486012
+    second: potion2-ember_46
+  - first:
+      213: 546009858108363373
+    second: potion2-ember_47
+  - first:
+      213: 7924502044164145609
+    second: potion2-ember_48
+  - first:
+      213: -8214537949414508860
+    second: potion2-ember_49
+  - first:
+      213: -3494355259858682101
+    second: potion2-ember_50
+  - first:
+      213: 4553913348263672286
+    second: potion2-ember_51
+  - first:
+      213: 2478548560084154553
+    second: potion2-ember_52
+  - first:
+      213: 4230449222193826963
+    second: potion2-ember_53
+  - first:
+      213: 5773629749362837838
+    second: potion2-ember_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion2-ember_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b1351bbf0ab0b0800000000000000
+      internalID: -5712235881177171792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 314
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f05012b315e6f70800000000000000
+      internalID: 9182366004653920006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 315
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfff494b31a6b5bb0800000000000000
+      internalID: -4946243132869771267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 310
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63f79774726d370800000000000000
+      internalID: 8346902147312334574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 308
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ab1e7c7d4b98e0800000000000000
+      internalID: -1685668438433094601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 308
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7364b47ebb7918d60800000000000000
+      internalID: 7890754855424968247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 372
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37101ec0bf9c69c60800000000000000
+      internalID: 7824663482692862323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 312
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72d36465663cc470800000000000000
+      internalID: 8416161612752474750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 318
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbd92bb42ef8cad0800000000000000
+      internalID: -2681614144386769975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 250
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9ba2cbd56ce7da0800000000000000
+      internalID: -5945096352191301166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 269
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d931b6fb2d7c60800000000000000
+      internalID: 7817452866720354808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5af9c1873f48f70800000000000000
+      internalID: 9188736836944504300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 268
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ecca0fb858e2c0800000000000000
+      internalID: -4402171058211462532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fc63dab5196e800800000000000000
+      internalID: 641359819880976145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 269
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f718958c1eac40ba0800000000000000
+      internalID: -6123546522239270529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f8f4cf57cf032e0800000000000000
+      internalID: -2147939438581280949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc562b88f856e3e0800000000000000
+      internalID: -2024833157946778382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 256
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f66255d59b3e3b30800000000000000
+      internalID: 4268915011508922097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 256
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5a258dc7e53b140800000000000000
+      internalID: 4734231523594773958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 256
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f7c3fffd7bd1900800000000000000
+      internalID: 656883293353705217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7168b8288cd3e050800000000000000
+      internalID: 5828744820104388989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 192
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fdafabc13e21950800000000000000
+      internalID: 6418442131491970881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 185
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1c9b66e2b0efa70800000000000000
+      internalID: 8862533410631565808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778504397351e0530800000000000000
+      internalID: 3823016462121982071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f3b6761f73e820800000000000000
+      internalID: 2946338315687948762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 192
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050d933fe1e292e0800000000000000
+      internalID: -2120384057058720502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 192
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de508806c2330f730800000000000000
+      internalID: 4030777932187698669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 192
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3877e56d339d80800000000000000
+      internalID: -8245178984900838075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cfe53b9daa671d0800000000000000
+      internalID: -3353305020536783729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb8228d2d7503c0800000000000000
+      internalID: -4393968227019342226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59715698a4439fbf0800000000000000
+      internalID: -290143206251358315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82591bd9974c150800000000000000
+      internalID: 5891967930703620257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de15190f22fec90800000000000000
+      internalID: -7138448467733385837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88430d104f2ee4590800000000000000
+      internalID: -7687957976244538232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 124
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e5a8adfccf0a500800000000000000
+      internalID: 405601936118275714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 123
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874563064ba0e94f0800000000000000
+      internalID: -820206312310287240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 123
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ddda0426f28120800000000000000
+      internalID: 2414762984885573934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 60
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464920f1919811e30800000000000000
+      internalID: 4472506645943063652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 52
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a3ac57eecf79b90800000000000000
+      internalID: -7235036175238809003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67b5d15f1d6ff40800000000000000
+      internalID: 5762023623956854487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4486338658fdd0800000000000000
+      internalID: -2452114875547890882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 64
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba07af3d19bd3a0800000000000000
+      internalID: -6639552886001849493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 64
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d7057771cf65160800000000000000
+      internalID: 7014070647392337171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_43
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 58
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e423fb9c4680250800000000000000
+      internalID: 5911085328582725266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 112
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477a88f006bb0160800000000000000
+      internalID: 6992882961708906308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_45
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 59
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40fd7c5f066fb20800000000000000
+      internalID: 3167825996638258366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa3608a0a4ff0f0800000000000000
+      internalID: -1081063976581486012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d621964b211d39700800000000000000
+      internalID: 546009858108363373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c2449f9c79fd60800000000000000
+      internalID: 7924502044164145609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6be2be149100e80800000000000000
+      internalID: -8214537949414508860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffa11b76e818fc0800000000000000
+      internalID: -3494355259858682101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed97a250010c23f30800000000000000
+      internalID: 4553913348263672286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_52
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83f5298c2956220800000000000000
+      internalID: 2478548560084154553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_53
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cc039572395ba30800000000000000
+      internalID: 4230449222193826963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-ember_54
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e494663caad002050800000000000000
+      internalID: 5773629749362837838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion2-ember_0: -5712235881177171792
+      potion2-ember_1: 9182366004653920006
+      potion2-ember_10: 7817452866720354808
+      potion2-ember_11: 9188736836944504300
+      potion2-ember_12: -4402171058211462532
+      potion2-ember_13: 641359819880976145
+      potion2-ember_14: -6123546522239270529
+      potion2-ember_15: -2147939438581280949
+      potion2-ember_16: -2024833157946778382
+      potion2-ember_17: 4268915011508922097
+      potion2-ember_18: 4734231523594773958
+      potion2-ember_19: 656883293353705217
+      potion2-ember_2: -4946243132869771267
+      potion2-ember_20: 5828744820104388989
+      potion2-ember_21: 6418442131491970881
+      potion2-ember_22: 8862533410631565808
+      potion2-ember_23: 3823016462121982071
+      potion2-ember_24: 2946338315687948762
+      potion2-ember_25: -2120384057058720502
+      potion2-ember_26: 4030777932187698669
+      potion2-ember_27: -8245178984900838075
+      potion2-ember_28: -3353305020536783729
+      potion2-ember_29: -4393968227019342226
+      potion2-ember_3: 8346902147312334574
+      potion2-ember_30: -290143206251358315
+      potion2-ember_31: 5891967930703620257
+      potion2-ember_32: -7138448467733385837
+      potion2-ember_33: -7687957976244538232
+      potion2-ember_34: 405601936118275714
+      potion2-ember_35: -820206312310287240
+      potion2-ember_36: 2414762984885573934
+      potion2-ember_37: 4472506645943063652
+      potion2-ember_38: -7235036175238809003
+      potion2-ember_39: 5762023623956854487
+      potion2-ember_4: -1685668438433094601
+      potion2-ember_40: -2452114875547890882
+      potion2-ember_41: -6639552886001849493
+      potion2-ember_42: 7014070647392337171
+      potion2-ember_43: 5911085328582725266
+      potion2-ember_44: 6992882961708906308
+      potion2-ember_45: 3167825996638258366
+      potion2-ember_46: -1081063976581486012
+      potion2-ember_47: 546009858108363373
+      potion2-ember_48: 7924502044164145609
+      potion2-ember_49: -8214537949414508860
+      potion2-ember_5: 7890754855424968247
+      potion2-ember_50: -3494355259858682101
+      potion2-ember_51: 4553913348263672286
+      potion2-ember_52: 2478548560084154553
+      potion2-ember_53: 4230449222193826963
+      potion2-ember_54: 5773629749362837838
+      potion2-ember_6: 7824663482692862323
+      potion2-ember_7: 8416161612752474750
+      potion2-ember_8: -2681614144386769975
+      potion2-ember_9: -5945096352191301166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

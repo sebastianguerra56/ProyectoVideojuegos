@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 4085df6263a1ca245be376278e6ae4d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5448604272326469126
+    second: potion-frost_0
+  - first:
+      213: -966649336109896570
+    second: potion-frost_1
+  - first:
+      213: -5114021617816825750
+    second: potion-frost_2
+  - first:
+      213: -4391721878646773761
+    second: potion-frost_3
+  - first:
+      213: -1749777071705708397
+    second: potion-frost_4
+  - first:
+      213: 6605340576810317234
+    second: potion-frost_5
+  - first:
+      213: 6419962469994616013
+    second: potion-frost_6
+  - first:
+      213: -8709448833617778376
+    second: potion-frost_7
+  - first:
+      213: 952340815231114443
+    second: potion-frost_8
+  - first:
+      213: -1294598373749345155
+    second: potion-frost_9
+  - first:
+      213: 3430635537892242360
+    second: potion-frost_10
+  - first:
+      213: 7460788833899960653
+    second: potion-frost_11
+  - first:
+      213: 7348489257824394337
+    second: potion-frost_12
+  - first:
+      213: -8912930284300834067
+    second: potion-frost_13
+  - first:
+      213: 7993657859188473907
+    second: potion-frost_14
+  - first:
+      213: 7683510981944133000
+    second: potion-frost_15
+  - first:
+      213: -6974610381989664024
+    second: potion-frost_16
+  - first:
+      213: 9167627767261076189
+    second: potion-frost_17
+  - first:
+      213: -8138411207501854502
+    second: potion-frost_18
+  - first:
+      213: -8072720718229165175
+    second: potion-frost_19
+  - first:
+      213: -5957647923466785514
+    second: potion-frost_20
+  - first:
+      213: 6097305791115677441
+    second: potion-frost_21
+  - first:
+      213: 3606949251549815200
+    second: potion-frost_22
+  - first:
+      213: -1871519136962771217
+    second: potion-frost_23
+  - first:
+      213: 6730065469543092754
+    second: potion-frost_24
+  - first:
+      213: -2143286873884913934
+    second: potion-frost_25
+  - first:
+      213: 5683260568438661713
+    second: potion-frost_26
+  - first:
+      213: 1996737824152501843
+    second: potion-frost_27
+  - first:
+      213: -7206053826745909540
+    second: potion-frost_28
+  - first:
+      213: 2495004312682285271
+    second: potion-frost_29
+  - first:
+      213: 8041295660752461210
+    second: potion-frost_30
+  - first:
+      213: -7646810077952304672
+    second: potion-frost_31
+  - first:
+      213: 996154791976774125
+    second: potion-frost_32
+  - first:
+      213: 5914146524114627956
+    second: potion-frost_33
+  - first:
+      213: -7335702309656959033
+    second: potion-frost_34
+  - first:
+      213: 637203664019918869
+    second: potion-frost_35
+  - first:
+      213: 2294516141950343022
+    second: potion-frost_36
+  - first:
+      213: 5002040357724932689
+    second: potion-frost_37
+  - first:
+      213: -8883694228013910431
+    second: potion-frost_38
+  - first:
+      213: -7574765479997459308
+    second: potion-frost_39
+  - first:
+      213: -4844309608674502775
+    second: potion-frost_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion-frost_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606e1bdb7b45d9b40800000000000000
+      internalID: 5448604272326469126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c6dc2ec85c592f0800000000000000
+      internalID: -966649336109896570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 191
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a601c501f685709b0800000000000000
+      internalID: -5114021617816825750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a2fe38387d03c0800000000000000
+      internalID: -4391721878646773761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398abd4260b87b7e0800000000000000
+      internalID: -1749777071705708397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b04d0242eaab50800000000000000
+      internalID: 6605340576810317234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc45e5f1ad9481950800000000000000
+      internalID: 6419962469994616013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a5c23e62d12780800000000000000
+      internalID: -8709448833617778376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd4fcfce4673d00800000000000000
+      internalID: 952340815231114443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d743fdd53a9a80ee0800000000000000
+      internalID: -1294598373749345155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3f5ed68d01c9f20800000000000000
+      internalID: 3430635537892242360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49decc5aeb0a8760800000000000000
+      internalID: 7460788833899960653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c9568cb041bf560800000000000000
+      internalID: 7348489257824394337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6d601129ee4480800000000000000
+      internalID: -8912930284300834067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33040f0887d2fee60800000000000000
+      internalID: 7993657859188473907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c792778051aa60800000000000000
+      internalID: 7683510981944133000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea21c68fc4353f90800000000000000
+      internalID: -6974610381989664024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda9a94d1e4f93f70800000000000000
+      internalID: 9167627767261076189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 135
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84bcc302e8e0f80800000000000000
+      internalID: -8138411207501854502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 135
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba303274fe7ff80800000000000000
+      internalID: -8072720718229165175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d2be057ce225da0800000000000000
+      internalID: -5957647923466785514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc166ef4bfd9450800000000000000
+      internalID: 6097305791115677441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1ec7ddb357e0230800000000000000
+      internalID: 3606949251549815200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe60dfab2470706e0800000000000000
+      internalID: -1871519136962771217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121d3b13eef56d50800000000000000
+      internalID: 6730065469543092754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe055e91f38142e0800000000000000
+      internalID: -2143286873884913934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15265c3306ffede40800000000000000
+      internalID: 5683260568438661713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e323ec876d5bb10800000000000000
+      internalID: 1996737824152501843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde37705934fefb90800000000000000
+      internalID: -7206053826745909540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ce7a043900a220800000000000000
+      internalID: 2495004312682285271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5a018ccb689f60800000000000000
+      internalID: 8041295660752461210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e996c6afb211e590800000000000000
+      internalID: -7646810077952304672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de92415618d03dd00800000000000000
+      internalID: 996154791976774125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47da67fdde4431250800000000000000
+      internalID: 5914146524114627956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c762e69d99523a90800000000000000
+      internalID: -7335702309656959033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5101c7b3b5dc7d800800000000000000
+      internalID: 637203664019918869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6799543642c7df10800000000000000
+      internalID: 2294516141950343022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15acc521431da6540800000000000000
+      internalID: 5002040357724932689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166fa0eda27c6b480800000000000000
+      internalID: -8883694228013910431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4943cd3cde601e690800000000000000
+      internalID: -7574765479997459308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-frost_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987d1f0c31e85ccb0800000000000000
+      internalID: -4844309608674502775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion-frost_0: 5448604272326469126
+      potion-frost_1: -966649336109896570
+      potion-frost_10: 3430635537892242360
+      potion-frost_11: 7460788833899960653
+      potion-frost_12: 7348489257824394337
+      potion-frost_13: -8912930284300834067
+      potion-frost_14: 7993657859188473907
+      potion-frost_15: 7683510981944133000
+      potion-frost_16: -6974610381989664024
+      potion-frost_17: 9167627767261076189
+      potion-frost_18: -8138411207501854502
+      potion-frost_19: -8072720718229165175
+      potion-frost_2: -5114021617816825750
+      potion-frost_20: -5957647923466785514
+      potion-frost_21: 6097305791115677441
+      potion-frost_22: 3606949251549815200
+      potion-frost_23: -1871519136962771217
+      potion-frost_24: 6730065469543092754
+      potion-frost_25: -2143286873884913934
+      potion-frost_26: 5683260568438661713
+      potion-frost_27: 1996737824152501843
+      potion-frost_28: -7206053826745909540
+      potion-frost_29: 2495004312682285271
+      potion-frost_3: -4391721878646773761
+      potion-frost_30: 8041295660752461210
+      potion-frost_31: -7646810077952304672
+      potion-frost_32: 996154791976774125
+      potion-frost_33: 5914146524114627956
+      potion-frost_34: -7335702309656959033
+      potion-frost_35: 637203664019918869
+      potion-frost_36: 2294516141950343022
+      potion-frost_37: 5002040357724932689
+      potion-frost_38: -8883694228013910431
+      potion-frost_39: -7574765479997459308
+      potion-frost_4: -1749777071705708397
+      potion-frost_40: -4844309608674502775
+      potion-frost_5: 6605340576810317234
+      potion-frost_6: 6419962469994616013
+      potion-frost_7: -8709448833617778376
+      potion-frost_8: 952340815231114443
+      potion-frost_9: -1294598373749345155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 1ecb264e57fd5c848a10ab32ecd158ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2333901125080738145
+    second: potion-rainbow_0
+  - first:
+      213: 3693444949743704514
+    second: potion-rainbow_1
+  - first:
+      213: -3966349088868765793
+    second: potion-rainbow_2
+  - first:
+      213: -1115011817862288917
+    second: potion-rainbow_3
+  - first:
+      213: 7296697169329201758
+    second: potion-rainbow_4
+  - first:
+      213: 7102687681925741979
+    second: potion-rainbow_5
+  - first:
+      213: 2272476763962488798
+    second: potion-rainbow_6
+  - first:
+      213: -5802241782231404942
+    second: potion-rainbow_7
+  - first:
+      213: 5420544505716709185
+    second: potion-rainbow_8
+  - first:
+      213: 3977159452012466982
+    second: potion-rainbow_9
+  - first:
+      213: -2020610120445329214
+    second: potion-rainbow_10
+  - first:
+      213: -7578286645420990300
+    second: potion-rainbow_11
+  - first:
+      213: -6272630172537296251
+    second: potion-rainbow_12
+  - first:
+      213: -8118359932892036714
+    second: potion-rainbow_13
+  - first:
+      213: 4243368084292484678
+    second: potion-rainbow_14
+  - first:
+      213: 312041483430748409
+    second: potion-rainbow_15
+  - first:
+      213: 5043137624567297875
+    second: potion-rainbow_16
+  - first:
+      213: 5541937698911427900
+    second: potion-rainbow_17
+  - first:
+      213: -2282186360905882574
+    second: potion-rainbow_18
+  - first:
+      213: -512110157412461904
+    second: potion-rainbow_19
+  - first:
+      213: -5819974105006145025
+    second: potion-rainbow_20
+  - first:
+      213: -9153180439138102744
+    second: potion-rainbow_21
+  - first:
+      213: 4861765680621036526
+    second: potion-rainbow_22
+  - first:
+      213: 2680140635471044704
+    second: potion-rainbow_23
+  - first:
+      213: -1615773492965296359
+    second: potion-rainbow_24
+  - first:
+      213: 6861429477080070760
+    second: potion-rainbow_25
+  - first:
+      213: -7968566659073468642
+    second: potion-rainbow_26
+  - first:
+      213: 8234295660765059767
+    second: potion-rainbow_27
+  - first:
+      213: 6576919326083447396
+    second: potion-rainbow_28
+  - first:
+      213: 7694823014613313607
+    second: potion-rainbow_29
+  - first:
+      213: -2538091481856187131
+    second: potion-rainbow_30
+  - first:
+      213: 294438093772200240
+    second: potion-rainbow_31
+  - first:
+      213: 2964910080026382722
+    second: potion-rainbow_32
+  - first:
+      213: 6106959515909724404
+    second: potion-rainbow_33
+  - first:
+      213: 7068953428746215280
+    second: potion-rainbow_34
+  - first:
+      213: -4063589732155073205
+    second: potion-rainbow_35
+  - first:
+      213: -4051125905547545738
+    second: potion-rainbow_36
+  - first:
+      213: 2660949934566022132
+    second: potion-rainbow_37
+  - first:
+      213: 7782368161694040312
+    second: potion-rainbow_38
+  - first:
+      213: -1692331779428205631
+    second: potion-rainbow_39
+  - first:
+      213: -3611174608577760625
+    second: potion-rainbow_40
+  - first:
+      213: 4856559978422685472
+    second: potion-rainbow_41
+  - first:
+      213: -8801829470258901849
+    second: potion-rainbow_42
+  - first:
+      213: 2379595826277330879
+    second: potion-rainbow_43
+  - first:
+      213: 4700749869563440656
+    second: potion-rainbow_44
+  - first:
+      213: -1248023740939603248
+    second: potion-rainbow_45
+  - first:
+      213: -954695047750674899
+    second: potion-rainbow_46
+  - first:
+      213: 6530105913620132031
+    second: potion-rainbow_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion-rainbow_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f969da2da415c9fd0800000000000000
+      internalID: -2333901125080738145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 201
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c91fe2fc90c14330800000000000000
+      internalID: 3693444949743704514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f68cea482b4f8c0800000000000000
+      internalID: -3966349088868765793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 201
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a4f3c8aea680f0800000000000000
+      internalID: -1115011817862288917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 191
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52277b7a63134560800000000000000
+      internalID: 7296697169329201758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df9b7a0d0d19260800000000000000
+      internalID: 7102687681925741979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73054a395798f10800000000000000
+      internalID: 2272476763962488798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eea2537db4a7fa0800000000000000
+      internalID: -5802241782231404942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14790783284a93b40800000000000000
+      internalID: 5420544505716709185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6235a402375b13730800000000000000
+      internalID: 3977159452012466982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c00c451dc955f3e0800000000000000
+      internalID: -2020610120445329214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0689d827484d690800000000000000
+      internalID: -7578286645420990300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6486871423f8a0800000000000000
+      internalID: -6272630172537296251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691c43967aac55f80800000000000000
+      internalID: -8118359932892036714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ebb735ac873ea30800000000000000
+      internalID: 4243368084292484678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0631f6318945400800000000000000
+      internalID: 312041483430748409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357bdb923f2dcf540800000000000000
+      internalID: 5043137624567297875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d16f689fae8ec40800000000000000
+      internalID: 5541937698911427900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a6f6a89b0450e0800000000000000
+      internalID: -2282186360905882574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 127
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b29f8d668e94e8f0800000000000000
+      internalID: -512110157412461904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 135
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff10325136c4b3fa0800000000000000
+      internalID: -5819974105006145025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 135
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8229e10e2ee59f080800000000000000
+      internalID: -9153180439138102744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32a96b026787340800000000000000
+      internalID: 4861765680621036526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060675d35b5c13520800000000000000
+      internalID: 2680140635471044704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917bf42a19e9399e0800000000000000
+      internalID: -1615773492965296359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a70c881c1b83f50800000000000000
+      internalID: 6861429477080070760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1797e4c7d6f96190800000000000000
+      internalID: -7968566659073468642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba117bb648164270800000000000000
+      internalID: 8234295660765059767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46afa93f749e54b50800000000000000
+      internalID: 6576919326083447396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e68b43c089ca60800000000000000
+      internalID: 7694823014613313607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5056480ae33e6ccd0800000000000000
+      internalID: -2538091481856187131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03992a3e2ed061400800000000000000
+      internalID: 294438093772200240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28192fe420a752920800000000000000
+      internalID: 2964910080026382722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f89d7bd25740c450800000000000000
+      internalID: 6106959515909724404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9236c0b7f91260800000000000000
+      internalID: 7068953428746215280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd8fd1baa3b97c0800000000000000
+      internalID: -4063589732155073205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b473e37287c7c0800000000000000
+      internalID: -4051125905547545738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb18eefdd79de420800000000000000
+      internalID: 2660949934566022132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0451d3c96800c60800000000000000
+      internalID: 7782368161694040312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb3158631a388e0800000000000000
+      internalID: -1692331779428205631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ffc983d782edc0800000000000000
+      internalID: -3611174608577760625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f4348b197f56340800000000000000
+      internalID: 4856559978422685472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac47ab1bbe99d580800000000000000
+      internalID: -8801829470258901849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf234edbc5060120800000000000000
+      internalID: 2379595826277330879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eea49c91b6c3140800000000000000
+      internalID: 4700749869563440656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d27a0a15012eaee0800000000000000
+      internalID: -1248023740939603248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d261ff989ed30c2f0800000000000000
+      internalID: -954695047750674899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-rainbow_47
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0710ffab89f9a50800000000000000
+      internalID: 6530105913620132031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion-rainbow_0: -2333901125080738145
+      potion-rainbow_1: 3693444949743704514
+      potion-rainbow_10: -2020610120445329214
+      potion-rainbow_11: -7578286645420990300
+      potion-rainbow_12: -6272630172537296251
+      potion-rainbow_13: -8118359932892036714
+      potion-rainbow_14: 4243368084292484678
+      potion-rainbow_15: 312041483430748409
+      potion-rainbow_16: 5043137624567297875
+      potion-rainbow_17: 5541937698911427900
+      potion-rainbow_18: -2282186360905882574
+      potion-rainbow_19: -512110157412461904
+      potion-rainbow_2: -3966349088868765793
+      potion-rainbow_20: -5819974105006145025
+      potion-rainbow_21: -9153180439138102744
+      potion-rainbow_22: 4861765680621036526
+      potion-rainbow_23: 2680140635471044704
+      potion-rainbow_24: -1615773492965296359
+      potion-rainbow_25: 6861429477080070760
+      potion-rainbow_26: -7968566659073468642
+      potion-rainbow_27: 8234295660765059767
+      potion-rainbow_28: 6576919326083447396
+      potion-rainbow_29: 7694823014613313607
+      potion-rainbow_3: -1115011817862288917
+      potion-rainbow_30: -2538091481856187131
+      potion-rainbow_31: 294438093772200240
+      potion-rainbow_32: 2964910080026382722
+      potion-rainbow_33: 6106959515909724404
+      potion-rainbow_34: 7068953428746215280
+      potion-rainbow_35: -4063589732155073205
+      potion-rainbow_36: -4051125905547545738
+      potion-rainbow_37: 2660949934566022132
+      potion-rainbow_38: 7782368161694040312
+      potion-rainbow_39: -1692331779428205631
+      potion-rainbow_4: 7296697169329201758
+      potion-rainbow_40: -3611174608577760625
+      potion-rainbow_41: 4856559978422685472
+      potion-rainbow_42: -8801829470258901849
+      potion-rainbow_43: 2379595826277330879
+      potion-rainbow_44: 4700749869563440656
+      potion-rainbow_45: -1248023740939603248
+      potion-rainbow_46: -954695047750674899
+      potion-rainbow_47: 6530105913620132031
+      potion-rainbow_5: 7102687681925741979
+      potion-rainbow_6: 2272476763962488798
+      potion-rainbow_7: -5802241782231404942
+      potion-rainbow_8: 5420544505716709185
+      potion-rainbow_9: 3977159452012466982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: f454d9a11034d1341b4cecede2c1d815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8475112096281578852
+    second: potion-elixir_0
+  - first:
+      213: 8153539392733811259
+    second: potion-elixir_1
+  - first:
+      213: -6764550245360117490
+    second: potion-elixir_2
+  - first:
+      213: 5204970273684770978
+    second: potion-elixir_3
+  - first:
+      213: 7240737253921505132
+    second: potion-elixir_4
+  - first:
+      213: -993647726268473371
+    second: potion-elixir_5
+  - first:
+      213: -1275225757740005191
+    second: potion-elixir_6
+  - first:
+      213: 8903593056166189696
+    second: potion-elixir_7
+  - first:
+      213: 3460021304132594450
+    second: potion-elixir_8
+  - first:
+      213: 4884538361211242522
+    second: potion-elixir_9
+  - first:
+      213: 8417970191827509747
+    second: potion-elixir_10
+  - first:
+      213: 5494867564300704225
+    second: potion-elixir_11
+  - first:
+      213: 8010100615712956861
+    second: potion-elixir_12
+  - first:
+      213: 4468957814746628335
+    second: potion-elixir_13
+  - first:
+      213: -2673695921559490273
+    second: potion-elixir_14
+  - first:
+      213: 5731927369101245016
+    second: potion-elixir_15
+  - first:
+      213: 6732886196890607765
+    second: potion-elixir_16
+  - first:
+      213: 335597639840724528
+    second: potion-elixir_17
+  - first:
+      213: -5723604297310048270
+    second: potion-elixir_18
+  - first:
+      213: 6978010492646203750
+    second: potion-elixir_19
+  - first:
+      213: 4510757718347233294
+    second: potion-elixir_20
+  - first:
+      213: 3206949231898273756
+    second: potion-elixir_21
+  - first:
+      213: -5059851829574761885
+    second: potion-elixir_22
+  - first:
+      213: -5817362209561905446
+    second: potion-elixir_23
+  - first:
+      213: 7868954199406659689
+    second: potion-elixir_24
+  - first:
+      213: -7104840617398093065
+    second: potion-elixir_25
+  - first:
+      213: -4600443242795774652
+    second: potion-elixir_26
+  - first:
+      213: 3831241612814036201
+    second: potion-elixir_27
+  - first:
+      213: -4188093969758484428
+    second: potion-elixir_28
+  - first:
+      213: -740286846377000593
+    second: potion-elixir_29
+  - first:
+      213: -4252548634421293841
+    second: potion-elixir_30
+  - first:
+      213: -2517893952043116033
+    second: potion-elixir_31
+  - first:
+      213: 8883626697459313763
+    second: potion-elixir_32
+  - first:
+      213: -7481771479130768434
+    second: potion-elixir_33
+  - first:
+      213: -5511602130692337326
+    second: potion-elixir_34
+  - first:
+      213: -8655395373524316569
+    second: potion-elixir_35
+  - first:
+      213: 4873847083403548694
+    second: potion-elixir_36
+  - first:
+      213: 4901421323019425035
+    second: potion-elixir_37
+  - first:
+      213: -5982126022705202482
+    second: potion-elixir_38
+  - first:
+      213: -2447236557844712551
+    second: potion-elixir_39
+  - first:
+      213: 5236917358252401976
+    second: potion-elixir_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion-elixir_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c923585937a526a80800000000000000
+      internalID: -8475112096281578852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329d0ed0e0372170800000000000000
+      internalID: 8153539392733811259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095708546d7f12a0800000000000000
+      internalID: -6764550245360117490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d27503e4cb3840800000000000000
+      internalID: 5204970273684770978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 191
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fbdeb5b244c7460800000000000000
+      internalID: 7240737253921505132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef94e358aad532f0800000000000000
+      internalID: -993647726268473371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88a750eec7d4ee0800000000000000
+      internalID: -1275225757740005191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9b6916baef8b70800000000000000
+      internalID: 8903593056166189696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b6b1c4b07740030800000000000000
+      internalID: 3460021304132594450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c3c792cd59c340800000000000000
+      internalID: 4884538361211242522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a4b50a43a2d470800000000000000
+      internalID: 8417970191827509747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e995f9cfe0b14c40800000000000000
+      internalID: 5494867564300704225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db165b61218992f60800000000000000
+      internalID: 8010100615712956861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0cd28747de40e30800000000000000
+      internalID: 4468957814746628335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113906a9bf15ead0800000000000000
+      internalID: -2673695921559490273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7e99b295eb8f40800000000000000
+      internalID: 5731927369101245016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590abced254007d50800000000000000
+      internalID: 6732886196890607765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0367a2e764848a400800000000000000
+      internalID: 335597639840724528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6fef673ca190b0800000000000000
+      internalID: -5723604297310048270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661202d629fd6d060800000000000000
+      internalID: 6978010492646203750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0830fdee3e699e30800000000000000
+      internalID: 4510757718347233294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72204d55f518c20800000000000000
+      internalID: 3206949231898273756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362061ab19bc7c9b0800000000000000
+      internalID: -5059851829574761885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f74164e3944fa0800000000000000
+      internalID: -5817362209561905446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c3712724243d60800000000000000
+      internalID: 7868954199406659689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa383ef919866d90800000000000000
+      internalID: -7104840617398093065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dcfcfae31f720c0800000000000000
+      internalID: -4600443242795774652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca974b2fd4b2530800000000000000
+      internalID: 3831241612814036201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438079659b6e0e5c0800000000000000
+      internalID: -4188093969758484428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f610ec11909f9b5f0800000000000000
+      internalID: -740286846377000593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec0f374c89ebf4c0800000000000000
+      internalID: -4252548634421293841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff99d5e7ac4ae0dd0800000000000000
+      internalID: -2517893952043116033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c2d33f96bf84b70800000000000000
+      internalID: 8883626697459313763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf2c7da786b2890800000000000000
+      internalID: -7481771479130768434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2511cc8501bd283b0800000000000000
+      internalID: -5511602130692337326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e068a14cbd1e780800000000000000
+      internalID: -8655395373524316569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61897df791263a340800000000000000
+      internalID: 4873847083403548694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05191579b8550440800000000000000
+      internalID: 4901421323019425035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca3907b3183bfca0800000000000000
+      internalID: -5982126022705202482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993f050115ba90ed0800000000000000
+      internalID: -2447236557844712551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-elixir_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83526b847944da840800000000000000
+      internalID: 5236917358252401976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion-elixir_0: -8475112096281578852
+      potion-elixir_1: 8153539392733811259
+      potion-elixir_10: 8417970191827509747
+      potion-elixir_11: 5494867564300704225
+      potion-elixir_12: 8010100615712956861
+      potion-elixir_13: 4468957814746628335
+      potion-elixir_14: -2673695921559490273
+      potion-elixir_15: 5731927369101245016
+      potion-elixir_16: 6732886196890607765
+      potion-elixir_17: 335597639840724528
+      potion-elixir_18: -5723604297310048270
+      potion-elixir_19: 6978010492646203750
+      potion-elixir_2: -6764550245360117490
+      potion-elixir_20: 4510757718347233294
+      potion-elixir_21: 3206949231898273756
+      potion-elixir_22: -5059851829574761885
+      potion-elixir_23: -5817362209561905446
+      potion-elixir_24: 7868954199406659689
+      potion-elixir_25: -7104840617398093065
+      potion-elixir_26: -4600443242795774652
+      potion-elixir_27: 3831241612814036201
+      potion-elixir_28: -4188093969758484428
+      potion-elixir_29: -740286846377000593
+      potion-elixir_3: 5204970273684770978
+      potion-elixir_30: -4252548634421293841
+      potion-elixir_31: -2517893952043116033
+      potion-elixir_32: 8883626697459313763
+      potion-elixir_33: -7481771479130768434
+      potion-elixir_34: -5511602130692337326
+      potion-elixir_35: -8655395373524316569
+      potion-elixir_36: 4873847083403548694
+      potion-elixir_37: 4901421323019425035
+      potion-elixir_38: -5982126022705202482
+      potion-elixir_39: -2447236557844712551
+      potion-elixir_4: 7240737253921505132
+      potion-elixir_40: 5236917358252401976
+      potion-elixir_5: -993647726268473371
+      potion-elixir_6: -1275225757740005191
+      potion-elixir_7: 8903593056166189696
+      potion-elixir_8: 3460021304132594450
+      potion-elixir_9: 4884538361211242522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

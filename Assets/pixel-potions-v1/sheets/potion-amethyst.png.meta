@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: e5e74d975af42424f9f74abff03f34a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5656021920025518824
+    second: potion-amethyst_0
+  - first:
+      213: -1410938450253985712
+    second: potion-amethyst_1
+  - first:
+      213: -8940919660749858251
+    second: potion-amethyst_2
+  - first:
+      213: -106719728520650003
+    second: potion-amethyst_3
+  - first:
+      213: 309776263119492039
+    second: potion-amethyst_4
+  - first:
+      213: 7911304188683573849
+    second: potion-amethyst_5
+  - first:
+      213: 2931036758215018299
+    second: potion-amethyst_6
+  - first:
+      213: 3160577464646012781
+    second: potion-amethyst_7
+  - first:
+      213: 2397536164699843961
+    second: potion-amethyst_8
+  - first:
+      213: -5389641769333225320
+    second: potion-amethyst_9
+  - first:
+      213: 4839226619269614284
+    second: potion-amethyst_10
+  - first:
+      213: 3848819201272172818
+    second: potion-amethyst_11
+  - first:
+      213: 5323118589805099939
+    second: potion-amethyst_12
+  - first:
+      213: -53041512710218935
+    second: potion-amethyst_13
+  - first:
+      213: -3648050889001879736
+    second: potion-amethyst_14
+  - first:
+      213: 2042148442211327526
+    second: potion-amethyst_15
+  - first:
+      213: -5244338731298319258
+    second: potion-amethyst_16
+  - first:
+      213: -4040417965111071517
+    second: potion-amethyst_17
+  - first:
+      213: -4121013037806577630
+    second: potion-amethyst_18
+  - first:
+      213: -5453748925597048714
+    second: potion-amethyst_19
+  - first:
+      213: -6738082864004454504
+    second: potion-amethyst_20
+  - first:
+      213: -2474915353834859840
+    second: potion-amethyst_21
+  - first:
+      213: 5326065656239103813
+    second: potion-amethyst_22
+  - first:
+      213: 5984059845899674520
+    second: potion-amethyst_23
+  - first:
+      213: -4910418667305429781
+    second: potion-amethyst_24
+  - first:
+      213: -7209335042809428046
+    second: potion-amethyst_25
+  - first:
+      213: -5608875816790681078
+    second: potion-amethyst_26
+  - first:
+      213: -5193351228694365983
+    second: potion-amethyst_27
+  - first:
+      213: 6077492379284458213
+    second: potion-amethyst_28
+  - first:
+      213: 3393576963147893106
+    second: potion-amethyst_29
+  - first:
+      213: -6014352699176234615
+    second: potion-amethyst_30
+  - first:
+      213: 7573775088144162870
+    second: potion-amethyst_31
+  - first:
+      213: 3743394417854318865
+    second: potion-amethyst_32
+  - first:
+      213: -999468191782459687
+    second: potion-amethyst_33
+  - first:
+      213: -7510377005629233087
+    second: potion-amethyst_34
+  - first:
+      213: 51073784651875626
+    second: potion-amethyst_35
+  - first:
+      213: -8757280248913173382
+    second: potion-amethyst_36
+  - first:
+      213: 7194672210854178068
+    second: potion-amethyst_37
+  - first:
+      213: 2177205095567839457
+    second: potion-amethyst_38
+  - first:
+      213: 2104787423112237849
+    second: potion-amethyst_39
+  - first:
+      213: 1115669217943600655
+    second: potion-amethyst_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion-amethyst_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5e07d706c181b0800000000000000
+      internalID: -5656021920025518824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058cba874f65b6ce0800000000000000
+      internalID: -1410938450253985712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 191
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ad2b780f87be380800000000000000
+      internalID: -8940919660749858251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2200be8fad48ef0800000000000000
+      internalID: -106719728520650003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d51bbedb8c4400800000000000000
+      internalID: 309776263119492039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a5b846e399acd60800000000000000
+      internalID: 7911304188683573849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37c40df6622da820800000000000000
+      internalID: 2931036758215018299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f84596570acdb20800000000000000
+      internalID: 3160577464646012781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d26196072c54120800000000000000
+      internalID: 2397536164699843961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8980948cd552435b0800000000000000
+      internalID: -5389641769333225320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0e2d88f2682340800000000000000
+      internalID: 4839226619269614284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d780fba0c96530800000000000000
+      internalID: 3848819201272172818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7c9287248fd940800000000000000
+      internalID: 5323118589805099939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bde84760f834ff0800000000000000
+      internalID: -53041512710218935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847be7e6b058f5dc0800000000000000
+      internalID: -3648050889001879736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9f9c303b275c10800000000000000
+      internalID: 2042148442211327526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6641427a5bd5837b0800000000000000
+      internalID: -5244338731298319258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eca27d844d8de7c0800000000000000
+      internalID: -4040417965111071517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 135
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22819c6e9783fc6c0800000000000000
+      internalID: -4121013037806577630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 135
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ae935f346054b0800000000000000
+      internalID: -5453748925597048714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8972ed7c5558d72a0800000000000000
+      internalID: -6738082864004454504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2538d299557add0800000000000000
+      internalID: -2474915353834859840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f1a82ee7cf9e940800000000000000
+      internalID: 5326065656239103813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893678599b6ab0350800000000000000
+      internalID: 5984059845899674520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be410d41d30badbb0800000000000000
+      internalID: -4910418667305429781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7819aa9fb43fb90800000000000000
+      internalID: -7209335042809428046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a99e669254922b0800000000000000
+      internalID: -5608875816790681078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e875d3b2928de7b0800000000000000
+      internalID: -5193351228694365983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eac4687e17975450800000000000000
+      internalID: 6077492379284458213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279016e9448681f20800000000000000
+      internalID: 3393576963147893106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98150b3e51ab88ca0800000000000000
+      internalID: -6014352699176234615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302989a0547b1960800000000000000
+      internalID: 7573775088144162870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1190362c36533f330800000000000000
+      internalID: 3743394417854318865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6218899fc2122f0800000000000000
+      internalID: -999468191782459687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 49
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482532b7e7c5c790800000000000000
+      internalID: -7510377005629233087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a258287265375b000800000000000000
+      internalID: 51073784651875626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a746cfcf204e77680800000000000000
+      internalID: -8757280248913173382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d665bb14c98d360800000000000000
+      internalID: 7194672210854178068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0dd74cf7cf63e10800000000000000
+      internalID: 2177205095567839457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913905a7205b53d10800000000000000
+      internalID: 2104787423112237849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-amethyst_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ebd5e1e37ab7f00800000000000000
+      internalID: 1115669217943600655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion-amethyst_0: -5656021920025518824
+      potion-amethyst_1: -1410938450253985712
+      potion-amethyst_10: 4839226619269614284
+      potion-amethyst_11: 3848819201272172818
+      potion-amethyst_12: 5323118589805099939
+      potion-amethyst_13: -53041512710218935
+      potion-amethyst_14: -3648050889001879736
+      potion-amethyst_15: 2042148442211327526
+      potion-amethyst_16: -5244338731298319258
+      potion-amethyst_17: -4040417965111071517
+      potion-amethyst_18: -4121013037806577630
+      potion-amethyst_19: -5453748925597048714
+      potion-amethyst_2: -8940919660749858251
+      potion-amethyst_20: -6738082864004454504
+      potion-amethyst_21: -2474915353834859840
+      potion-amethyst_22: 5326065656239103813
+      potion-amethyst_23: 5984059845899674520
+      potion-amethyst_24: -4910418667305429781
+      potion-amethyst_25: -7209335042809428046
+      potion-amethyst_26: -5608875816790681078
+      potion-amethyst_27: -5193351228694365983
+      potion-amethyst_28: 6077492379284458213
+      potion-amethyst_29: 3393576963147893106
+      potion-amethyst_3: -106719728520650003
+      potion-amethyst_30: -6014352699176234615
+      potion-amethyst_31: 7573775088144162870
+      potion-amethyst_32: 3743394417854318865
+      potion-amethyst_33: -999468191782459687
+      potion-amethyst_34: -7510377005629233087
+      potion-amethyst_35: 51073784651875626
+      potion-amethyst_36: -8757280248913173382
+      potion-amethyst_37: 7194672210854178068
+      potion-amethyst_38: 2177205095567839457
+      potion-amethyst_39: 2104787423112237849
+      potion-amethyst_4: 309776263119492039
+      potion-amethyst_40: 1115669217943600655
+      potion-amethyst_5: 7911304188683573849
+      potion-amethyst_6: 2931036758215018299
+      potion-amethyst_7: 3160577464646012781
+      potion-amethyst_8: 2397536164699843961
+      potion-amethyst_9: -5389641769333225320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

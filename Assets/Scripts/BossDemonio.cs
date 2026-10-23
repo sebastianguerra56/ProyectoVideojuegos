@@ -150,46 +150,33 @@ public class BossDemonio : MonoBehaviour
 
         rb.linearVelocity = Vector2.zero;
 
+        // ACTIVAR ANIMACIÓN DE ATAQUE
+        if (animator != null)
+        {
+            animator.ResetTrigger("Attack");
+            animator.SetTrigger("Attack");
+        }
 
+        // Esperamos al momento del impacto
         yield return new WaitForSeconds(retrasoGolpe);
 
-        if (estaMuerto || !combateIniciado)
-        {
-            atacando = false;
-            yield break;
-        }
-        if (invocando || estaMuerto)
+        if (estaMuerto || !combateIniciado || invocando)
         {
             atacando = false;
             yield break;
         }
 
-        if (player == null)
+        if (player != null && JugadorDentroDelAlcance())
         {
-            Debug.LogError("2 - ERROR: Player es NULL");
-            atacando = false;
-            yield break;
-        }
-
-        if (JugadorDentroDelAlcance())
-        {
-
             VidaPlayer vidaPlayer =
                 player.GetComponent<VidaPlayer>();
 
             if (vidaPlayer != null)
             {
-
                 vidaPlayer.RecibirDaño(daño);
-
-            }
-            else
-            {
-                Debug.LogError(
-                    "ERROR: No encontré VidaPlayer en el Player"
-                );
             }
         }
+
         proximoAtaque =
             Time.time + tiempoEntreAtaques;
 

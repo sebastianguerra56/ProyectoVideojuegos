@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 3ab32bce08a99434d9c4c913d2870ee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1048638426804189246
+    second: FantasyInventorySpritesheet_0
+  - first:
+      213: -9211727512940159389
+    second: FantasyInventorySpritesheet_1
+  - first:
+      213: -712904062458601416
+    second: FantasyInventorySpritesheet_2
+  - first:
+      213: 6341716841492916417
+    second: FantasyInventorySpritesheet_3
+  - first:
+      213: 7885532534559237659
+    second: FantasyInventorySpritesheet_4
+  - first:
+      213: -3548432262141878995
+    second: FantasyInventorySpritesheet_5
+  - first:
+      213: 8001751700620262240
+    second: FantasyInventorySpritesheet_6
+  - first:
+      213: 7721845225808211172
+    second: FantasyInventorySpritesheet_7
+  - first:
+      213: 8906125113537057542
+    second: FantasyInventorySpritesheet_8
+  - first:
+      213: 8271234088318424629
+    second: FantasyInventorySpritesheet_9
+  - first:
+      213: -6376618283966838129
+    second: FantasyInventorySpritesheet_10
+  - first:
+      213: 632880419384369369
+    second: FantasyInventorySpritesheet_11
+  - first:
+      213: -5352804533129750576
+    second: FantasyInventorySpritesheet_12
+  - first:
+      213: -2291755639953666812
+    second: FantasyInventorySpritesheet_13
+  - first:
+      213: -1107140522697578305
+    second: FantasyInventorySpritesheet_14
+  - first:
+      213: 3593541826155009887
+    second: FantasyInventorySpritesheet_15
+  - first:
+      213: -6207802757731809001
+    second: FantasyInventorySpritesheet_16
+  - first:
+      213: -21563685646701396
+    second: FantasyInventorySpritesheet_17
+  - first:
+      213: -6540545041113114277
+    second: FantasyInventorySpritesheet_18
+  - first:
+      213: -6749886566474086660
+    second: FantasyInventorySpritesheet_19
+  - first:
+      213: -2471639510405933378
+    second: FantasyInventorySpritesheet_20
+  - first:
+      213: -4916997026865978303
+    second: FantasyInventorySpritesheet_21
+  - first:
+      213: 6792313626823515404
+    second: FantasyInventorySpritesheet_22
+  - first:
+      213: 6195866214827136515
+    second: FantasyInventorySpritesheet_23
+  - first:
+      213: -9143790297792719877
+    second: FantasyInventorySpritesheet_24
+  - first:
+      213: -5455386979601051322
+    second: FantasyInventorySpritesheet_25
+  - first:
+      213: 6274675237289818070
+    second: FantasyInventorySpritesheet_26
+  - first:
+      213: 5777571155818818447
+    second: FantasyInventorySpritesheet_27
+  - first:
+      213: -440544373070197581
+    second: FantasyInventorySpritesheet_28
+  - first:
+      213: -8052126278885963938
+    second: FantasyInventorySpritesheet_29
+  - first:
+      213: 8915288312846931209
+    second: FantasyInventorySpritesheet_30
+  - first:
+      213: 7370233346286609576
+    second: FantasyInventorySpritesheet_31
+  - first:
+      213: 3588113326290903211
+    second: FantasyInventorySpritesheet_32
+  - first:
+      213: -2541421379484651093
+    second: FantasyInventorySpritesheet_33
+  - first:
+      213: -6148932383479366533
+    second: FantasyInventorySpritesheet_34
+  - first:
+      213: 1787326496588666466
+    second: FantasyInventorySpritesheet_35
+  - first:
+      213: 8881923240611881238
+    second: FantasyInventorySpritesheet_36
+  - first:
+      213: -9200601287614541423
+    second: FantasyInventorySpritesheet_37
+  - first:
+      213: -6947094304470059066
+    second: FantasyInventorySpritesheet_38
+  - first:
+      213: -5487529000723001558
+    second: FantasyInventorySpritesheet_39
+  - first:
+      213: 8852563144354552258
+    second: FantasyInventorySpritesheet_40
+  - first:
+      213: -8605655792164083192
+    second: FantasyInventorySpritesheet_41
+  - first:
+      213: 2263661021133302840
+    second: FantasyInventorySpritesheet_42
+  - first:
+      213: -6988772089691505978
+    second: FantasyInventorySpritesheet_43
+  - first:
+      213: 6008115376352680272
+    second: FantasyInventorySpritesheet_44
+  - first:
+      213: 2221885579540980215
+    second: FantasyInventorySpritesheet_45
+  - first:
+      213: 183419872971092666
+    second: FantasyInventorySpritesheet_46
+  - first:
+      213: 5660470442374392222
+    second: FantasyInventorySpritesheet_47
+  - first:
+      213: 6334598825282061803
+    second: FantasyInventorySpritesheet_48
+  - first:
+      213: 5945991232473296244
+    second: FantasyInventorySpritesheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7038028ec7271f0800000000000000
+      internalID: -1048638426804189246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 130
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e528ff1ae592080800000000000000
+      internalID: -9211727512940159389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e83648814b16f0800000000000000
+      internalID: -712904062458601416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c82c431edd420850800000000000000
+      internalID: 6341716841492916417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1660339f0a0f6d60800000000000000
+      internalID: 7885532534559237659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 133
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5f7178af61cec0800000000000000
+      internalID: -3548432262141878995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b3950d6ceeb0f60800000000000000
+      internalID: 8001751700620262240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec28de1251892b60800000000000000
+      internalID: 7721845225808211172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603df85aa99e89b70800000000000000
+      internalID: 8906125113537057542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 131
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5365258949359c270800000000000000
+      internalID: 8271234088318424629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a45eb9473b187a0800000000000000
+      internalID: -6376618283966838129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0a4b6636178c800800000000000000
+      internalID: 632880419384369369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 100
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d753b233a407b5b0800000000000000
+      internalID: -5352804533129750576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d4090436c0230e0800000000000000
+      internalID: -2291755639953666812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8ab2c7f85a2a0f0800000000000000
+      internalID: -1107140522697578305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 97
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575a716043ded130800000000000000
+      internalID: 3593541826155009887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71984bd384479d9a0800000000000000
+      internalID: -6207802757731809001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caceaf031f363bff0800000000000000
+      internalID: -21563685646701396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 102
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59920b30f05b35a0800000000000000
+      internalID: -6540545041113114277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf681232ee59352a0800000000000000
+      internalID: -6749886566474086660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb61f69e5f8f2bdd0800000000000000
+      internalID: -2471639510405933378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446004614153cbb0800000000000000
+      internalID: -4916997026865978303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5cd1a145234e50800000000000000
+      internalID: 6792313626823515404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3069d9ace732cf550800000000000000
+      internalID: 6195866214827136515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 67
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3d6678b2bba1180800000000000000
+      internalID: -9143790297792719877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641969822729a44b0800000000000000
+      internalID: -5455386979601051322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7799732ef141750800000000000000
+      internalID: 6274675237289818070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8baf17fa5e0e2050800000000000000
+      internalID: 5777571155818818447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 67
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc8a5f0a3fd2e9f0800000000000000
+      internalID: -440544373070197581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570a64bfc9114090800000000000000
+      internalID: -8052126278885963938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905de6d3c7779bb70800000000000000
+      internalID: 8915288312846931209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e625ed24584660800000000000000
+      internalID: 7370233346286609576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba02a634f0a8bc130800000000000000
+      internalID: 3588113326290903211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 38
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1fb3b68be0bbcd0800000000000000
+      internalID: -2541421379484651093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf0de539a9aaaa0800000000000000
+      internalID: -6148932383479366533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669fce9afbddc810800000000000000
+      internalID: 1787326496588666466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61125fef02ee24b70800000000000000
+      internalID: 8881923240611881238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 35
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191dbb330e5e05080800000000000000
+      internalID: -9200601287614541423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73ce09986f69f90800000000000000
+      internalID: -6947094304470059066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f4041b27168d3b0800000000000000
+      internalID: -5487529000723001558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d7f2e64f9ada70800000000000000
+      internalID: 8852563144354552258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae6c8d6a1929880800000000000000
+      internalID: -8605655792164083192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c6c8094b32a6f10800000000000000
+      internalID: 2263661021133302840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caf5c100d4e20f90800000000000000
+      internalID: -6988772089691505978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05950193a1d116350800000000000000
+      internalID: 6008115376352680272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16a1c9929b5de10800000000000000
+      internalID: 2221885579540980215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab270351763ab8200800000000000000
+      internalID: 183419872971092666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99e25b70e70e8e40800000000000000
+      internalID: 5660470442374392222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be54b87c11409e750800000000000000
+      internalID: 6334598825282061803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyInventorySpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6821d587648250800000000000000
+      internalID: 5945991232473296244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FantasyInventorySpritesheet_0: -1048638426804189246
+      FantasyInventorySpritesheet_1: -9211727512940159389
+      FantasyInventorySpritesheet_10: -6376618283966838129
+      FantasyInventorySpritesheet_11: 632880419384369369
+      FantasyInventorySpritesheet_12: -5352804533129750576
+      FantasyInventorySpritesheet_13: -2291755639953666812
+      FantasyInventorySpritesheet_14: -1107140522697578305
+      FantasyInventorySpritesheet_15: 3593541826155009887
+      FantasyInventorySpritesheet_16: -6207802757731809001
+      FantasyInventorySpritesheet_17: -21563685646701396
+      FantasyInventorySpritesheet_18: -6540545041113114277
+      FantasyInventorySpritesheet_19: -6749886566474086660
+      FantasyInventorySpritesheet_2: -712904062458601416
+      FantasyInventorySpritesheet_20: -2471639510405933378
+      FantasyInventorySpritesheet_21: -4916997026865978303
+      FantasyInventorySpritesheet_22: 6792313626823515404
+      FantasyInventorySpritesheet_23: 6195866214827136515
+      FantasyInventorySpritesheet_24: -9143790297792719877
+      FantasyInventorySpritesheet_25: -5455386979601051322
+      FantasyInventorySpritesheet_26: 6274675237289818070
+      FantasyInventorySpritesheet_27: 5777571155818818447
+      FantasyInventorySpritesheet_28: -440544373070197581
+      FantasyInventorySpritesheet_29: -8052126278885963938
+      FantasyInventorySpritesheet_3: 6341716841492916417
+      FantasyInventorySpritesheet_30: 8915288312846931209
+      FantasyInventorySpritesheet_31: 7370233346286609576
+      FantasyInventorySpritesheet_32: 3588113326290903211
+      FantasyInventorySpritesheet_33: -2541421379484651093
+      FantasyInventorySpritesheet_34: -6148932383479366533
+      FantasyInventorySpritesheet_35: 1787326496588666466
+      FantasyInventorySpritesheet_36: 8881923240611881238
+      FantasyInventorySpritesheet_37: -9200601287614541423
+      FantasyInventorySpritesheet_38: -6947094304470059066
+      FantasyInventorySpritesheet_39: -5487529000723001558
+      FantasyInventorySpritesheet_4: 7885532534559237659
+      FantasyInventorySpritesheet_40: 8852563144354552258
+      FantasyInventorySpritesheet_41: -8605655792164083192
+      FantasyInventorySpritesheet_42: 2263661021133302840
+      FantasyInventorySpritesheet_43: -6988772089691505978
+      FantasyInventorySpritesheet_44: 6008115376352680272
+      FantasyInventorySpritesheet_45: 2221885579540980215
+      FantasyInventorySpritesheet_46: 183419872971092666
+      FantasyInventorySpritesheet_47: 5660470442374392222
+      FantasyInventorySpritesheet_48: 6334598825282061803
+      FantasyInventorySpritesheet_49: 5945991232473296244
+      FantasyInventorySpritesheet_5: -3548432262141878995
+      FantasyInventorySpritesheet_6: 8001751700620262240
+      FantasyInventorySpritesheet_7: 7721845225808211172
+      FantasyInventorySpritesheet_8: 8906125113537057542
+      FantasyInventorySpritesheet_9: 8271234088318424629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

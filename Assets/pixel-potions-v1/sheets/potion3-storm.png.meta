@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 8bc8e0f20a3ce494d82352a872b99701
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1095476047679654508
+    second: potion3-storm_0
+  - first:
+      213: -6047767578075134109
+    second: potion3-storm_1
+  - first:
+      213: -1938886262514033161
+    second: potion3-storm_2
+  - first:
+      213: 2989676746501425000
+    second: potion3-storm_3
+  - first:
+      213: 33546844912386362
+    second: potion3-storm_4
+  - first:
+      213: -2074821469333926831
+    second: potion3-storm_5
+  - first:
+      213: 6785653835821041958
+    second: potion3-storm_6
+  - first:
+      213: 3671524490150455276
+    second: potion3-storm_7
+  - first:
+      213: 1118149191253902571
+    second: potion3-storm_8
+  - first:
+      213: 3392283168207079389
+    second: potion3-storm_9
+  - first:
+      213: -979672209052723914
+    second: potion3-storm_10
+  - first:
+      213: 7497183472452343598
+    second: potion3-storm_11
+  - first:
+      213: -5599947314292937511
+    second: potion3-storm_12
+  - first:
+      213: 8376913073591640076
+    second: potion3-storm_13
+  - first:
+      213: 5100497206279577836
+    second: potion3-storm_14
+  - first:
+      213: -1533753554811381309
+    second: potion3-storm_15
+  - first:
+      213: -6986551043507313768
+    second: potion3-storm_16
+  - first:
+      213: 8380442580270246754
+    second: potion3-storm_17
+  - first:
+      213: 6482596376517845369
+    second: potion3-storm_18
+  - first:
+      213: -7775675264036572776
+    second: potion3-storm_19
+  - first:
+      213: 7745344075512845064
+    second: potion3-storm_20
+  - first:
+      213: 1158883509084855861
+    second: potion3-storm_21
+  - first:
+      213: 9150797556835579859
+    second: potion3-storm_22
+  - first:
+      213: 5172017239371836340
+    second: potion3-storm_23
+  - first:
+      213: 6718847971518027287
+    second: potion3-storm_24
+  - first:
+      213: -7816639961614262987
+    second: potion3-storm_25
+  - first:
+      213: 6867863309281549028
+    second: potion3-storm_26
+  - first:
+      213: -5479733548068815168
+    second: potion3-storm_27
+  - first:
+      213: -6085377616603538175
+    second: potion3-storm_28
+  - first:
+      213: 7905600685796226108
+    second: potion3-storm_29
+  - first:
+      213: 860112354418404212
+    second: potion3-storm_30
+  - first:
+      213: -1793404608291976833
+    second: potion3-storm_31
+  - first:
+      213: 1599056300395433336
+    second: potion3-storm_32
+  - first:
+      213: -6839377629412855755
+    second: potion3-storm_33
+  - first:
+      213: -2801527452646504136
+    second: potion3-storm_34
+  - first:
+      213: -3938298021462210224
+    second: potion3-storm_35
+  - first:
+      213: -4121543560569750128
+    second: potion3-storm_36
+  - first:
+      213: -7600848595254984497
+    second: potion3-storm_37
+  - first:
+      213: -6498030584322041323
+    second: potion3-storm_38
+  - first:
+      213: 7295735859214456622
+    second: potion3-storm_39
+  - first:
+      213: 4427707554331800796
+    second: potion3-storm_40
+  - first:
+      213: 1535447035640100231
+    second: potion3-storm_41
+  - first:
+      213: -6723643884412011780
+    second: potion3-storm_42
+  - first:
+      213: -4376151724835014774
+    second: potion3-storm_43
+  - first:
+      213: 57294852486193371
+    second: potion3-storm_44
+  - first:
+      213: -7401275730577194919
+    second: potion3-storm_45
+  - first:
+      213: 1340141824614142522
+    second: potion3-storm_46
+  - first:
+      213: -445858558647335683
+    second: potion3-storm_47
+  - first:
+      213: 9013130651659108778
+    second: potion3-storm_48
+  - first:
+      213: -8490810966464442448
+    second: potion3-storm_49
+  - first:
+      213: -5575732549743854486
+    second: potion3-storm_50
+  - first:
+      213: -8930264803794737704
+    second: potion3-storm_51
+  - first:
+      213: -1352225333625982802
+    second: potion3-storm_52
+  - first:
+      213: 2124349443686311940
+    second: potion3-storm_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion3-storm_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a05e949a9e33f00800000000000000
+      internalID: 1095476047679654508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36705b02e63021ca0800000000000000
+      internalID: -6047767578075134109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd57f68731b715e0800000000000000
+      internalID: -1938886262514033161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867867439277d7920800000000000000
+      internalID: 2989676746501425000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31865e7dae277000800000000000000
+      internalID: 33546844912386362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 320
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c4ff3ddd0c433e0800000000000000
+      internalID: -2074821469333926831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62941e4363c7b2e50800000000000000
+      internalID: 6785653835821041958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 379
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a09b3210e3f230800000000000000
+      internalID: 3671524490150455276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44496e3c6748f00800000000000000
+      internalID: 1118149191253902571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 362
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd70582819fc31f20800000000000000
+      internalID: 3392283168207079389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 362
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635171ff0518762f0800000000000000
+      internalID: -979672209052723914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27937b75a85b0860800000000000000
+      internalID: 7497183472452343598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 298
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcaaa2669df842b0800000000000000
+      internalID: -5599947314292937511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0061c1ce06c04470800000000000000
+      internalID: 8376913073591640076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 256
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0aa2e7f2b98c640800000000000000
+      internalID: 5100497206279577836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99970a44307bae0800000000000000
+      internalID: -1533753554811381309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893ac9e97d8ca0f90800000000000000
+      internalID: -6986551043507313768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 256
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26be09110205d4470800000000000000
+      internalID: 8380442580270246754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971a494ee0fc6f950800000000000000
+      internalID: 6482596376517845369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 256
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891fe4e6b80471490800000000000000
+      internalID: -7775675264036572776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8039e1c666dfc7b60800000000000000
+      internalID: 7745344075512845064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9f07596e251010800000000000000
+      internalID: 1158883509084855861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d772ba15e92efe70800000000000000
+      internalID: 9150797556835579859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb64f4d642b6c740800000000000000
+      internalID: 5172017239371836340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7169f22d1a42e3d50800000000000000
+      internalID: 6718847971518027287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ddbd68e57b58390800000000000000
+      internalID: -7816639961614262987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea5aa3da4d8f4f50800000000000000
+      internalID: 6867863309281549028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3193fe5314f3b0800000000000000
+      internalID: -5479733548068815168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d9b36ac456c8ba0800000000000000
+      internalID: -6085377616603538175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34f7f420f556bd60800000000000000
+      internalID: 7905600685796226108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba80811abbfeb00800000000000000
+      internalID: 860112354418404212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794538b20c8c17e0800000000000000
+      internalID: -1793404608291976833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8be8ab3df03610800000000000000
+      internalID: 1599056300395433336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530f71a5846a511a0800000000000000
+      internalID: -6839377629412855755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 128
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839008cff99fe19d0800000000000000
+      internalID: -2801527452646504136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590f13c0da5859c0800000000000000
+      internalID: -3938298021462210224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df0f1f7f55dc6c0800000000000000
+      internalID: -4121543560569750128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0cc40497c548690800000000000000
+      internalID: -7600848595254984497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a5cd19c9b52d5a0800000000000000
+      internalID: -6498030584322041323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 94
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e279e870c19af3560800000000000000
+      internalID: 7295735859214456622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b249cf80627d30800000000000000
+      internalID: 4427707554331800796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78531ca91f00f4510800000000000000
+      internalID: 1535447035640100231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaf461b281d0b2a0800000000000000
+      internalID: -6723643884412011780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 64
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87fefd2139c443c0800000000000000
+      internalID: -4376151724835014774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0e5e16d5d8bc000800000000000000
+      internalID: 57294852486193371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9500a3acfe2694990800000000000000
+      internalID: -7401275730577194919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3215cc93e3299210800000000000000
+      internalID: 1340141824614142522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df402cfc00effc9f0800000000000000
+      internalID: -445858558647335683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18356f292151d70800000000000000
+      internalID: 9013130651659108778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf45e889649a2a80800000000000000
+      internalID: -8490810966464442448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3fe999c40f92b0800000000000000
+      internalID: -5575732549743854486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d524abb973511480800000000000000
+      internalID: -8930264803794737704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea070f4393eeb3de0800000000000000
+      internalID: -1352225333625982802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-storm_53
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a8b150943b7d10800000000000000
+      internalID: 2124349443686311940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion3-storm_0: 1095476047679654508
+      potion3-storm_1: -6047767578075134109
+      potion3-storm_10: -979672209052723914
+      potion3-storm_11: 7497183472452343598
+      potion3-storm_12: -5599947314292937511
+      potion3-storm_13: 8376913073591640076
+      potion3-storm_14: 5100497206279577836
+      potion3-storm_15: -1533753554811381309
+      potion3-storm_16: -6986551043507313768
+      potion3-storm_17: 8380442580270246754
+      potion3-storm_18: 6482596376517845369
+      potion3-storm_19: -7775675264036572776
+      potion3-storm_2: -1938886262514033161
+      potion3-storm_20: 7745344075512845064
+      potion3-storm_21: 1158883509084855861
+      potion3-storm_22: 9150797556835579859
+      potion3-storm_23: 5172017239371836340
+      potion3-storm_24: 6718847971518027287
+      potion3-storm_25: -7816639961614262987
+      potion3-storm_26: 6867863309281549028
+      potion3-storm_27: -5479733548068815168
+      potion3-storm_28: -6085377616603538175
+      potion3-storm_29: 7905600685796226108
+      potion3-storm_3: 2989676746501425000
+      potion3-storm_30: 860112354418404212
+      potion3-storm_31: -1793404608291976833
+      potion3-storm_32: 1599056300395433336
+      potion3-storm_33: -6839377629412855755
+      potion3-storm_34: -2801527452646504136
+      potion3-storm_35: -3938298021462210224
+      potion3-storm_36: -4121543560569750128
+      potion3-storm_37: -7600848595254984497
+      potion3-storm_38: -6498030584322041323
+      potion3-storm_39: 7295735859214456622
+      potion3-storm_4: 33546844912386362
+      potion3-storm_40: 4427707554331800796
+      potion3-storm_41: 1535447035640100231
+      potion3-storm_42: -6723643884412011780
+      potion3-storm_43: -4376151724835014774
+      potion3-storm_44: 57294852486193371
+      potion3-storm_45: -7401275730577194919
+      potion3-storm_46: 1340141824614142522
+      potion3-storm_47: -445858558647335683
+      potion3-storm_48: 9013130651659108778
+      potion3-storm_49: -8490810966464442448
+      potion3-storm_5: -2074821469333926831
+      potion3-storm_50: -5575732549743854486
+      potion3-storm_51: -8930264803794737704
+      potion3-storm_52: -1352225333625982802
+      potion3-storm_53: 2124349443686311940
+      potion3-storm_6: 6785653835821041958
+      potion3-storm_7: 3671524490150455276
+      potion3-storm_8: 1118149191253902571
+      potion3-storm_9: 3392283168207079389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

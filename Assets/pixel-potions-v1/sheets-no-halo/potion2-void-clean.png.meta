@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 7cc449cd1da27664ab3407d02f3c8026
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8206556582049517045
+    second: potion2-void-clean_0
+  - first:
+      213: 9106835128179027035
+    second: potion2-void-clean_1
+  - first:
+      213: -414867553632032443
+    second: potion2-void-clean_2
+  - first:
+      213: 5028912799794513349
+    second: potion2-void-clean_3
+  - first:
+      213: -6815908202561388088
+    second: potion2-void-clean_4
+  - first:
+      213: -2537904010074504130
+    second: potion2-void-clean_5
+  - first:
+      213: 8789517650185725859
+    second: potion2-void-clean_6
+  - first:
+      213: -8335886140867481037
+    second: potion2-void-clean_7
+  - first:
+      213: -8851877098756822651
+    second: potion2-void-clean_8
+  - first:
+      213: 3262126327747012933
+    second: potion2-void-clean_9
+  - first:
+      213: 85636203841622849
+    second: potion2-void-clean_10
+  - first:
+      213: -6545331113139853317
+    second: potion2-void-clean_11
+  - first:
+      213: -8230158860747558428
+    second: potion2-void-clean_12
+  - first:
+      213: -9129376719131197839
+    second: potion2-void-clean_13
+  - first:
+      213: 201975932223078604
+    second: potion2-void-clean_14
+  - first:
+      213: -104637641696495453
+    second: potion2-void-clean_15
+  - first:
+      213: -641215113453376902
+    second: potion2-void-clean_16
+  - first:
+      213: -8307263174752409342
+    second: potion2-void-clean_17
+  - first:
+      213: 2001681075230545337
+    second: potion2-void-clean_18
+  - first:
+      213: -5960005745922126166
+    second: potion2-void-clean_19
+  - first:
+      213: 6068390787797911673
+    second: potion2-void-clean_20
+  - first:
+      213: -8816143594553885178
+    second: potion2-void-clean_21
+  - first:
+      213: 4007564068911769443
+    second: potion2-void-clean_22
+  - first:
+      213: -8917599099671886867
+    second: potion2-void-clean_23
+  - first:
+      213: 7104833945394105868
+    second: potion2-void-clean_24
+  - first:
+      213: -1957614135049776596
+    second: potion2-void-clean_25
+  - first:
+      213: 1669157670369084263
+    second: potion2-void-clean_26
+  - first:
+      213: 4782761802786377613
+    second: potion2-void-clean_27
+  - first:
+      213: -3376510586246493822
+    second: potion2-void-clean_28
+  - first:
+      213: -8573756334600411587
+    second: potion2-void-clean_29
+  - first:
+      213: -4892234443927465423
+    second: potion2-void-clean_30
+  - first:
+      213: -2525857258741965662
+    second: potion2-void-clean_31
+  - first:
+      213: 8064356963451300350
+    second: potion2-void-clean_32
+  - first:
+      213: -1405204775300577952
+    second: potion2-void-clean_33
+  - first:
+      213: -8012974349439953267
+    second: potion2-void-clean_34
+  - first:
+      213: -5134077187146056675
+    second: potion2-void-clean_35
+  - first:
+      213: -3306945717339465554
+    second: potion2-void-clean_36
+  - first:
+      213: -8490380148954452750
+    second: potion2-void-clean_37
+  - first:
+      213: -7031289369542182482
+    second: potion2-void-clean_38
+  - first:
+      213: -2620360987482682541
+    second: potion2-void-clean_39
+  - first:
+      213: 2242585117395797040
+    second: potion2-void-clean_40
+  - first:
+      213: 5341705778152603981
+    second: potion2-void-clean_41
+  - first:
+      213: -5405080844009814327
+    second: potion2-void-clean_42
+  - first:
+      213: 2028179126551274453
+    second: potion2-void-clean_43
+  - first:
+      213: 3350534502275549716
+    second: potion2-void-clean_44
+  - first:
+      213: 1066729295788313791
+    second: potion2-void-clean_45
+  - first:
+      213: -5406946342784594928
+    second: potion2-void-clean_46
+  - first:
+      213: 297199619808365275
+    second: potion2-void-clean_47
+  - first:
+      213: -8228156825492728472
+    second: potion2-void-clean_48
+  - first:
+      213: -2361809527784610796
+    second: potion2-void-clean_49
+  - first:
+      213: -2581955179478299340
+    second: potion2-void-clean_50
+  - first:
+      213: -4425101646997334616
+    second: potion2-void-clean_51
+  - first:
+      213: 4385963094500572524
+    second: potion2-void-clean_52
+  - first:
+      213: 8058529814163910385
+    second: potion2-void-clean_53
+  - first:
+      213: -4216927116376254848
+    second: potion2-void-clean_54
+  - first:
+      213: -5919829428196948922
+    second: potion2-void-clean_55
+  - first:
+      213: 4082628373487299784
+    second: potion2-void-clean_56
+  - first:
+      213: 1826484400030731739
+    second: potion2-void-clean_57
+  - first:
+      213: -181903306930310875
+    second: potion2-void-clean_58
+  - first:
+      213: 5946590729128791341
+    second: potion2-void-clean_59
+  - first:
+      213: 6533360454180779915
+    second: potion2-void-clean_60
+  - first:
+      213: -6244298294179557451
+    second: potion2-void-clean_61
+  - first:
+      213: -1136281055699455899
+    second: potion2-void-clean_62
+  - first:
+      213: -819347538908358994
+    second: potion2-void-clean_63
+  - first:
+      213: -7153976745924872378
+    second: potion2-void-clean_64
+  - first:
+      213: 6912856059875092782
+    second: potion2-void-clean_65
+  - first:
+      213: 2111850468103542029
+    second: potion2-void-clean_66
+  - first:
+      213: -3478261976598662671
+    second: potion2-void-clean_67
+  - first:
+      213: 7726286795411289046
+    second: potion2-void-clean_68
+  - first:
+      213: 5216836868764007173
+    second: potion2-void-clean_69
+  - first:
+      213: 6627808844189481657
+    second: potion2-void-clean_70
+  - first:
+      213: 3536764876854364925
+    second: potion2-void-clean_71
+  - first:
+      213: 4196418952361085044
+    second: potion2-void-clean_72
+  - first:
+      213: 6380928973835004582
+    second: potion2-void-clean_73
+  - first:
+      213: -2138986205281935274
+    second: potion2-void-clean_74
+  - first:
+      213: 7126077193679707840
+    second: potion2-void-clean_75
+  - first:
+      213: -8202987691605489588
+    second: potion2-void-clean_76
+  - first:
+      213: -7102192800220778343
+    second: potion2-void-clean_77
+  - first:
+      213: 521311362056365369
+    second: potion2-void-clean_78
+  - first:
+      213: -947224620738663155
+    second: potion2-void-clean_79
+  - first:
+      213: 3545836503820362804
+    second: potion2-void-clean_80
+  - first:
+      213: -4228977062146007577
+    second: potion2-void-clean_81
+  - first:
+      213: 5289900613220278597
+    second: potion2-void-clean_82
+  - first:
+      213: -1934827841389258416
+    second: potion2-void-clean_83
+  - first:
+      213: 9196348986655061110
+    second: potion2-void-clean_84
+  - first:
+      213: -8966088180037705640
+    second: potion2-void-clean_85
+  - first:
+      213: -479751605041603816
+    second: potion2-void-clean_86
+  - first:
+      213: 6024179003149853030
+    second: potion2-void-clean_87
+  - first:
+      213: -3625694736588732257
+    second: potion2-void-clean_88
+  - first:
+      213: 808717283107546208
+    second: potion2-void-clean_89
+  - first:
+      213: 7261434263768444055
+    second: potion2-void-clean_90
+  - first:
+      213: -624239459848665928
+    second: potion2-void-clean_91
+  - first:
+      213: -1124936178078408045
+    second: potion2-void-clean_92
+  - first:
+      213: -914856590788199770
+    second: potion2-void-clean_93
+  - first:
+      213: 6359864997191871549
+    second: potion2-void-clean_94
+  - first:
+      213: -6249353939569818286
+    second: potion2-void-clean_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion2-void-clean_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 324
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd843e2bbb83e170800000000000000
+      internalID: 8206556582049517045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 324
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ce82b8c4af16e70800000000000000
+      internalID: 9106835128179027035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 324
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496de478281e3af0800000000000000
+      internalID: -414867553632032443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ca2e0c894ac540800000000000000
+      internalID: 5028912799794513349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 324
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c148ac1a970961a0800000000000000
+      internalID: -6815908202561388088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 324
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34487dcfbd87ccd0800000000000000
+      internalID: -2537904010074504130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 324
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a856ebb3aaf970800000000000000
+      internalID: 8789517650185725859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 355
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332fd7568bbf05c80800000000000000
+      internalID: -8335886140867481037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 324
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892f2d8da0d72580800000000000000
+      internalID: -8851877098756822651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 354
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496fc19c96654d20800000000000000
+      internalID: 3262126327747012933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14394e57cad303100800000000000000
+      internalID: 85636203841622849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7acfff7005a25a0800000000000000
+      internalID: -6545331113139853317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 260
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1bb141f1a98cd80800000000000000
+      internalID: -8230158860747558428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 288
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eb6735e30fd4180800000000000000
+      internalID: -9129376719131197839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 260
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c55d4a009dc200800000000000000
+      internalID: 201975932223078604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 260
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8bb888e904c8ef0800000000000000
+      internalID: -104637641696495453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 260
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aeff96042f917f0800000000000000
+      internalID: -641215113453376902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e235082ca6bc80800000000000000
+      internalID: -8307263174752409342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 301
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b51db2255667cb10800000000000000
+      internalID: 2001681075230545337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 260
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae460ff95ec94da0800000000000000
+      internalID: -5960005745922126166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 300
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97882f01541473450800000000000000
+      internalID: 6068390787797911673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 260
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb7c55c14c6a580800000000000000
+      internalID: -8816143594553885178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_22
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 300
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ea16a94abd9730800000000000000
+      internalID: 4007564068911769443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 260
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c6b6cdd25e3480800000000000000
+      internalID: -8917599099671886867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 293
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e4a5f84d0799260800000000000000
+      internalID: 7104833945394105868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 292
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c221319e05825d4e0800000000000000
+      internalID: -1957614135049776596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763c770ce0a0a2710800000000000000
+      internalID: 1669157670369084263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 269
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f836cf488cf5240800000000000000
+      internalID: 4782761802786377613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 270
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2898e66e2893421d0800000000000000
+      internalID: -3376510586246493822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3623651a06e30980800000000000000
+      internalID: -8573756334600411587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132d5c381ba4b1cb0800000000000000
+      internalID: -4892234443927465423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 196
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd75ba43a52fcd0800000000000000
+      internalID: -2525857258741965662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 196
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef966747ee95aef60800000000000000
+      internalID: 8064356963451300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 196
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c683b3b5bf7ce0800000000000000
+      internalID: -1405204775300577952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_34
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 212
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d869053a8423cc090800000000000000
+      internalID: -8012974349439953267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 196
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf8b2fff710c8b0800000000000000
+      internalID: -5134077187146056675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 196
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85b7a146e5b12d0800000000000000
+      internalID: -3306945717339465554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcaa8d0d3c1c2a80800000000000000
+      internalID: -8490380148954452750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 196
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9357f5297db6e90800000000000000
+      internalID: -7031289369542182482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 196
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b8dcda09b92abd0800000000000000
+      internalID: -2620360987482682541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03444f458434f1f10800000000000000
+      internalID: 2242585117395797040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4100798a1d812a40800000000000000
+      internalID: 5341705778152603981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c6861c9b4df4b0800000000000000
+      internalID: -5405080844009814327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d363fa7b2a852c10800000000000000
+      internalID: 2028179126551274453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a03dfb06d7f7e20800000000000000
+      internalID: 3350534502275549716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 169
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc07fa84a8cdce00800000000000000
+      internalID: 1066729295788313791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 167
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0abec2faa6f4b0800000000000000
+      internalID: -5406946342784594928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_47
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0f06ca7ddf1400800000000000000
+      internalID: 297199619808365275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 152
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865dc4c36f6bfcd80800000000000000
+      internalID: -8228156825492728472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e3457fba293fd0800000000000000
+      internalID: -2361809527784610796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d473da17d0b2cd0800000000000000
+      internalID: -2581955179478299340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 152
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a55abb4f71e692c0800000000000000
+      internalID: -4425101646997334616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dfda552321edc30800000000000000
+      internalID: 4385963094500572524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 152
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe62298b26a5df60800000000000000
+      internalID: 8058529814163910385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 132
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0865ea041277a75c0800000000000000
+      internalID: -4216927116376254848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_55
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644ca69ef7a88dda0800000000000000
+      internalID: -5919829428196948922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 132
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc24afffd868a830800000000000000
+      internalID: 4082628373487299784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_57
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 132
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcf9b72e9f85910800000000000000
+      internalID: 1826484400030731739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52133f6f7efb97df0800000000000000
+      internalID: -181903306930310875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 132
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d4a5203c8868250800000000000000
+      internalID: 5946590729128791341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b705c7b82baa50800000000000000
+      internalID: 6533360454180779915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 146
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf89dff8cbc759a0800000000000000
+      internalID: -6244298294179557451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 152
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560370e666e1b30f0800000000000000
+      internalID: -1136281055699455899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_63
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d6c321c711a4f0800000000000000
+      internalID: -819347538908358994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_64
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 153
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473ebf8d08f7bc90800000000000000
+      internalID: -7153976745924872378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e248e5f56fef50800000000000000
+      internalID: 6912856059875092782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05dd0acfccce4d10800000000000000
+      internalID: 2111850468103542029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b611392bbabfc0800000000000000
+      internalID: -3478261976598662671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f741a7e8493b60800000000000000
+      internalID: 7726286795411289046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 132
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf6ddfd7de56840800000000000000
+      internalID: 5216836868764007173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_70
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba3b153705bafb50800000000000000
+      internalID: 6627808844189481657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa8bfabaec151130800000000000000
+      internalID: 3536764876854364925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4780338bdccac3a30800000000000000
+      internalID: 4196418952361085044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaee66181d9d8850800000000000000
+      internalID: 6380928973835004582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650a5be016bc052e0800000000000000
+      internalID: -2138986205281935274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_75
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 68
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9a4bb379e4e260800000000000000
+      internalID: 7126077193679707840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4804f0e722292e80800000000000000
+      internalID: -8202987691605489588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f088f641ff6d90800000000000000
+      internalID: -7102192800220778343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_78
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 68
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935aeb8fbe11c3700800000000000000
+      internalID: 521311362056365369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 68
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d2e5ed938cad2f0800000000000000
+      internalID: -947224620738663155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 68
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43463d97387553130800000000000000
+      internalID: 3545836503820362804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_81
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 68
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed138f94c7af45c0800000000000000
+      internalID: -4228977062146007577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ad14a490896940800000000000000
+      internalID: 5289900613220278597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_83
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 88
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591574545c1625e0800000000000000
+      internalID: -1934827841389258416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743914ddaeff9f70800000000000000
+      internalID: 9196348986655061110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850260cfd4e029380800000000000000
+      internalID: -8966088180037705640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_86
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b521105749759f0800000000000000
+      internalID: -479751605041603816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612d1ac2ee2a9350800000000000000
+      internalID: 6024179003149853030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9800a9c8d1feadc0800000000000000
+      internalID: -3625694736588732257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064285f8514293b00800000000000000
+      internalID: 808717283107546208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca4cb7dfbc5c460800000000000000
+      internalID: 7261434263768444055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b440f4c4814657f0800000000000000
+      internalID: -624239459848665928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a6a6918c6360f0800000000000000
+      internalID: -1124936178078408045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf4ad17c6cd43f0800000000000000
+      internalID: -914856590788199770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_94
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cef09d487c24850800000000000000
+      internalID: 6359864997191871549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion2-void-clean_95
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 4
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c044d3b5d549a0800000000000000
+      internalID: -6249353939569818286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion2-void-clean_0: 8206556582049517045
+      potion2-void-clean_1: 9106835128179027035
+      potion2-void-clean_10: 85636203841622849
+      potion2-void-clean_11: -6545331113139853317
+      potion2-void-clean_12: -8230158860747558428
+      potion2-void-clean_13: -9129376719131197839
+      potion2-void-clean_14: 201975932223078604
+      potion2-void-clean_15: -104637641696495453
+      potion2-void-clean_16: -641215113453376902
+      potion2-void-clean_17: -8307263174752409342
+      potion2-void-clean_18: 2001681075230545337
+      potion2-void-clean_19: -5960005745922126166
+      potion2-void-clean_2: -414867553632032443
+      potion2-void-clean_20: 6068390787797911673
+      potion2-void-clean_21: -8816143594553885178
+      potion2-void-clean_22: 4007564068911769443
+      potion2-void-clean_23: -8917599099671886867
+      potion2-void-clean_24: 7104833945394105868
+      potion2-void-clean_25: -1957614135049776596
+      potion2-void-clean_26: 1669157670369084263
+      potion2-void-clean_27: 4782761802786377613
+      potion2-void-clean_28: -3376510586246493822
+      potion2-void-clean_29: -8573756334600411587
+      potion2-void-clean_3: 5028912799794513349
+      potion2-void-clean_30: -4892234443927465423
+      potion2-void-clean_31: -2525857258741965662
+      potion2-void-clean_32: 8064356963451300350
+      potion2-void-clean_33: -1405204775300577952
+      potion2-void-clean_34: -8012974349439953267
+      potion2-void-clean_35: -5134077187146056675
+      potion2-void-clean_36: -3306945717339465554
+      potion2-void-clean_37: -8490380148954452750
+      potion2-void-clean_38: -7031289369542182482
+      potion2-void-clean_39: -2620360987482682541
+      potion2-void-clean_4: -6815908202561388088
+      potion2-void-clean_40: 2242585117395797040
+      potion2-void-clean_41: 5341705778152603981
+      potion2-void-clean_42: -5405080844009814327
+      potion2-void-clean_43: 2028179126551274453
+      potion2-void-clean_44: 3350534502275549716
+      potion2-void-clean_45: 1066729295788313791
+      potion2-void-clean_46: -5406946342784594928
+      potion2-void-clean_47: 297199619808365275
+      potion2-void-clean_48: -8228156825492728472
+      potion2-void-clean_49: -2361809527784610796
+      potion2-void-clean_5: -2537904010074504130
+      potion2-void-clean_50: -2581955179478299340
+      potion2-void-clean_51: -4425101646997334616
+      potion2-void-clean_52: 4385963094500572524
+      potion2-void-clean_53: 8058529814163910385
+      potion2-void-clean_54: -4216927116376254848
+      potion2-void-clean_55: -5919829428196948922
+      potion2-void-clean_56: 4082628373487299784
+      potion2-void-clean_57: 1826484400030731739
+      potion2-void-clean_58: -181903306930310875
+      potion2-void-clean_59: 5946590729128791341
+      potion2-void-clean_6: 8789517650185725859
+      potion2-void-clean_60: 6533360454180779915
+      potion2-void-clean_61: -6244298294179557451
+      potion2-void-clean_62: -1136281055699455899
+      potion2-void-clean_63: -819347538908358994
+      potion2-void-clean_64: -7153976745924872378
+      potion2-void-clean_65: 6912856059875092782
+      potion2-void-clean_66: 2111850468103542029
+      potion2-void-clean_67: -3478261976598662671
+      potion2-void-clean_68: 7726286795411289046
+      potion2-void-clean_69: 5216836868764007173
+      potion2-void-clean_7: -8335886140867481037
+      potion2-void-clean_70: 6627808844189481657
+      potion2-void-clean_71: 3536764876854364925
+      potion2-void-clean_72: 4196418952361085044
+      potion2-void-clean_73: 6380928973835004582
+      potion2-void-clean_74: -2138986205281935274
+      potion2-void-clean_75: 7126077193679707840
+      potion2-void-clean_76: -8202987691605489588
+      potion2-void-clean_77: -7102192800220778343
+      potion2-void-clean_78: 521311362056365369
+      potion2-void-clean_79: -947224620738663155
+      potion2-void-clean_8: -8851877098756822651
+      potion2-void-clean_80: 3545836503820362804
+      potion2-void-clean_81: -4228977062146007577
+      potion2-void-clean_82: 5289900613220278597
+      potion2-void-clean_83: -1934827841389258416
+      potion2-void-clean_84: 9196348986655061110
+      potion2-void-clean_85: -8966088180037705640
+      potion2-void-clean_86: -479751605041603816
+      potion2-void-clean_87: 6024179003149853030
+      potion2-void-clean_88: -3625694736588732257
+      potion2-void-clean_89: 808717283107546208
+      potion2-void-clean_9: 3262126327747012933
+      potion2-void-clean_90: 7261434263768444055
+      potion2-void-clean_91: -624239459848665928
+      potion2-void-clean_92: -1124936178078408045
+      potion2-void-clean_93: -914856590788199770
+      potion2-void-clean_94: 6359864997191871549
+      potion2-void-clean_95: -6249353939569818286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

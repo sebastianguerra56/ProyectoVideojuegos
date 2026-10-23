@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: c40e45fb8e6f70343b3e386d7a045ddf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1893162636312371183
+    second: potion3-wind_0
+  - first:
+      213: -706285894376803797
+    second: potion3-wind_1
+  - first:
+      213: 2199965580030140950
+    second: potion3-wind_2
+  - first:
+      213: 2679763588991058587
+    second: potion3-wind_3
+  - first:
+      213: -7513833859130068834
+    second: potion3-wind_4
+  - first:
+      213: 7753065331030380653
+    second: potion3-wind_5
+  - first:
+      213: -8920456877255025745
+    second: potion3-wind_6
+  - first:
+      213: -1094176379705839587
+    second: potion3-wind_7
+  - first:
+      213: -2782964863372285765
+    second: potion3-wind_8
+  - first:
+      213: -7577487758387038219
+    second: potion3-wind_9
+  - first:
+      213: -7662757901738476362
+    second: potion3-wind_10
+  - first:
+      213: -5628792043342436735
+    second: potion3-wind_11
+  - first:
+      213: -4580268379046980074
+    second: potion3-wind_12
+  - first:
+      213: 5700015389930835079
+    second: potion3-wind_13
+  - first:
+      213: 1135662489200662821
+    second: potion3-wind_14
+  - first:
+      213: 5123948029604282940
+    second: potion3-wind_15
+  - first:
+      213: -3759654367608591885
+    second: potion3-wind_16
+  - first:
+      213: -8859539993760265506
+    second: potion3-wind_17
+  - first:
+      213: 7486915230907962930
+    second: potion3-wind_18
+  - first:
+      213: -6537026964373273011
+    second: potion3-wind_19
+  - first:
+      213: 2183382455610365048
+    second: potion3-wind_20
+  - first:
+      213: 8854680410363405146
+    second: potion3-wind_21
+  - first:
+      213: -8382076428474354604
+    second: potion3-wind_22
+  - first:
+      213: 4547479190787905804
+    second: potion3-wind_23
+  - first:
+      213: -2721084407031029732
+    second: potion3-wind_24
+  - first:
+      213: -3329044027600996657
+    second: potion3-wind_25
+  - first:
+      213: -4274223547607297744
+    second: potion3-wind_26
+  - first:
+      213: -7548400610758744159
+    second: potion3-wind_27
+  - first:
+      213: 2280342058067280285
+    second: potion3-wind_28
+  - first:
+      213: 6033407531065184403
+    second: potion3-wind_29
+  - first:
+      213: 6049067244038224484
+    second: potion3-wind_30
+  - first:
+      213: -6776912586195164148
+    second: potion3-wind_31
+  - first:
+      213: 1751416942406699429
+    second: potion3-wind_32
+  - first:
+      213: 7000542282411912070
+    second: potion3-wind_33
+  - first:
+      213: -4417510590473869730
+    second: potion3-wind_34
+  - first:
+      213: -2864731226077625575
+    second: potion3-wind_35
+  - first:
+      213: -639727416958291915
+    second: potion3-wind_36
+  - first:
+      213: 1499611848846334992
+    second: potion3-wind_37
+  - first:
+      213: -3810238765193918262
+    second: potion3-wind_38
+  - first:
+      213: -596879927501725155
+    second: potion3-wind_39
+  - first:
+      213: -4293544719635456624
+    second: potion3-wind_40
+  - first:
+      213: 6948564087651689383
+    second: potion3-wind_41
+  - first:
+      213: -2869036263352272150
+    second: potion3-wind_42
+  - first:
+      213: -4835044021963218289
+    second: potion3-wind_43
+  - first:
+      213: -2974355517631091847
+    second: potion3-wind_44
+  - first:
+      213: 1216235591667711072
+    second: potion3-wind_45
+  - first:
+      213: 8077174225186979386
+    second: potion3-wind_46
+  - first:
+      213: 5047670364647203186
+    second: potion3-wind_47
+  - first:
+      213: 4131410802150815044
+    second: potion3-wind_48
+  - first:
+      213: 7899144442217994286
+    second: potion3-wind_49
+  - first:
+      213: 282036560092030758
+    second: potion3-wind_50
+  - first:
+      213: 1988216667402227891
+    second: potion3-wind_51
+  - first:
+      213: -2598513407079485594
+    second: potion3-wind_52
+  - first:
+      213: -7747862370725013324
+    second: potion3-wind_53
+  - first:
+      213: 6556341987318435169
+    second: potion3-wind_54
+  - first:
+      213: 5454114445126887434
+    second: potion3-wind_55
+  - first:
+      213: -834745810794369290
+    second: potion3-wind_56
+  - first:
+      213: 5190493199526899566
+    second: potion3-wind_57
+  - first:
+      213: 9047914167770914366
+    second: potion3-wind_58
+  - first:
+      213: 9201972556540910051
+    second: potion3-wind_59
+  - first:
+      213: 6608987786070289442
+    second: potion3-wind_60
+  - first:
+      213: -5722263523732321461
+    second: potion3-wind_61
+  - first:
+      213: -233990658808306926
+    second: potion3-wind_62
+  - first:
+      213: 3443118416571973216
+    second: potion3-wind_63
+  - first:
+      213: -2653601251729149121
+    second: potion3-wind_64
+  - first:
+      213: -1722713756096946352
+    second: potion3-wind_65
+  - first:
+      213: -4432230477229965052
+    second: potion3-wind_66
+  - first:
+      213: -4234253338816532736
+    second: potion3-wind_67
+  - first:
+      213: -7414541615292322931
+    second: potion3-wind_68
+  - first:
+      213: -5308935933188186633
+    second: potion3-wind_69
+  - first:
+      213: -4960177447181132023
+    second: potion3-wind_70
+  - first:
+      213: 1385610379597757433
+    second: potion3-wind_71
+  - first:
+      213: -261059117205493016
+    second: potion3-wind_72
+  - first:
+      213: -4006103102083933846
+    second: potion3-wind_73
+  - first:
+      213: 8176853382272690716
+    second: potion3-wind_74
+  - first:
+      213: 4567572966841051955
+    second: potion3-wind_75
+  - first:
+      213: -6879360399989304908
+    second: potion3-wind_76
+  - first:
+      213: 6475065364777911720
+    second: potion3-wind_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion3-wind_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd077236dd54a10800000000000000
+      internalID: 1893162636312371183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b223dcb98b4c236f0800000000000000
+      internalID: -706285894376803797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61268c30a09d78e10800000000000000
+      internalID: 2199965580030140950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9286d349ce603520800000000000000
+      internalID: 2679763588991058587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90ff354aef79b790800000000000000
+      internalID: -7513833859130068834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60567057db689b60800000000000000
+      internalID: 7753065331030380653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 360
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab16059bbb243480800000000000000
+      internalID: -8920456877255025745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b20e3164b0d0f0800000000000000
+      internalID: -1094176379705839587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 368
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb82d48933ce069d0800000000000000
+      internalID: -2782964863372285765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 368
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7387fe70b57d690800000000000000
+      internalID: -7577487758387038219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 368
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7f03994a68a590800000000000000
+      internalID: -7662757901738476362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186670e857382e1b0800000000000000
+      internalID: -5628792043342436735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 359
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61653f23d2e9f60c0800000000000000
+      internalID: -4580268379046980074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 357
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c46131cc58a1f40800000000000000
+      internalID: 5700015389930835079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299a85540fa2cf00800000000000000
+      internalID: 1135662489200662821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 354
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c324028c59beb1740800000000000000
+      internalID: 5123948029604282940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 320
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9a17ca54603dbc0800000000000000
+      internalID: -3759654367608591885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 320
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8d86c0579c0580800000000000000
+      internalID: -8859539993760265506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361bb13cbdd6e760800000000000000
+      internalID: 7486915230907962930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 348
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46816d4c90d745a0800000000000000
+      internalID: -6537026964373273011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_20
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d97b76ceec4e10800000000000000
+      internalID: 2183382455610365048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 358
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53225b4be422ea70800000000000000
+      internalID: 8854680410363405146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 348
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4547c9006e1ecab80800000000000000
+      internalID: -8382076428474354604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 348
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d46efa34eb1f30800000000000000
+      internalID: 4547479190787905804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 348
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10af031624cc3ad0800000000000000
+      internalID: -2721084407031029732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 346
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f43d481cdcc1d0800000000000000
+      internalID: -3329044027600996657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d14a4458eea4c0800000000000000
+      internalID: -4274223547607297744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7226d33a1be3790800000000000000
+      internalID: -7548400610758744159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 256
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91cb71250765af10800000000000000
+      internalID: 2280342058067280285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3909e42ee28fab350800000000000000
+      internalID: 6033407531065184403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a795feb9a92f350800000000000000
+      internalID: 6049067244038224484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04a6f198e193f1a0800000000000000
+      internalID: -6776912586195164148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 256
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a980c10e684e4810800000000000000
+      internalID: 1751416942406699429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba34a8d1ce62160800000000000000
+      internalID: 7000542282411912070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 256
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56674fd589d1b2c0800000000000000
+      internalID: -4417510590473869730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 286
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9138cacb02e6e38d0800000000000000
+      internalID: -2864731226077625575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5307f1fbd4b3f17f0800000000000000
+      internalID: -639727416958291915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd37ff701bfc410800000000000000
+      internalID: 1499611848846334992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 284
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac88133d7005f1bc0800000000000000
+      internalID: -3810238765193918262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 286
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e2bb4ed477b7f0800000000000000
+      internalID: -596879927501725155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 291
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ddfde53d34a64c0800000000000000
+      internalID: -4293544719635456624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e38ff8324e6060800000000000000
+      internalID: 6948564087651689383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7c2328b22f28d0800000000000000
+      internalID: -2869036263352272150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a185441976ecb0800000000000000
+      internalID: -4835044021963218289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b20ef5a67f8b6d0800000000000000
+      internalID: -2974355517631091847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c7a84a3dfe0e010800000000000000
+      internalID: 1216235591667711072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ef531c923e71070800000000000000
+      internalID: 8077174225186979386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2712014f37dec0640800000000000000
+      internalID: 5047670364647203186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44539634c38b55930800000000000000
+      internalID: 4131410802150815044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2897ebc4066f9d60800000000000000
+      internalID: 7899144442217994286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62765f1d1cef9e300800000000000000
+      internalID: 282036560092030758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b055056680979b10800000000000000
+      internalID: 1988216667402227891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fefe2e2d930fbd0800000000000000
+      internalID: -2598513407079485594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8d15849301a7490800000000000000
+      internalID: -7747862370725013324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d081cec4eccfa50800000000000000
+      internalID: 6556341987318435169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a086d12d038e0bb40800000000000000
+      internalID: 5454114445126887434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2bd59b136a64f0800000000000000
+      internalID: -834745810794369290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fa1e68016580840800000000000000
+      internalID: 5190493199526899566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 128
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e95386ff5a09d70800000000000000
+      internalID: 9047914167770914366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e993893949f3bf70800000000000000
+      internalID: 9201972556540910051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c6d912067d7bb50800000000000000
+      internalID: 6608987786070289442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b82cc94af6690b0800000000000000
+      internalID: -5722263523732321461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_62
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a8fc4cb2b0ccf0800000000000000
+      internalID: -233990658808306926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eb06b15f968cf20800000000000000
+      internalID: 3443118416571973216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 64
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f62f88b38c2bd0800000000000000
+      internalID: -2653601251729149121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 64
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f992657f0b718e0800000000000000
+      internalID: -1722713756096946352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_66
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014c0a2ddd8d72c0800000000000000
+      internalID: -4432230477229965052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f24dab509ec35c0800000000000000
+      internalID: -4234253338816532736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_68
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b66205fa14a1990800000000000000
+      internalID: -7414541615292322931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdd20f85eed256b0800000000000000
+      internalID: -5308935933188186633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f5dd554e8e92bb0800000000000000
+      internalID: -4960177447181132023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb4098c4daa3310800000000000000
+      internalID: 1385610379597757433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eae695bd18806cf0800000000000000
+      internalID: -261059117205493016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_73
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6952b234767768c0800000000000000
+      internalID: -4006103102083933846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_74
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa0de04d40a7170800000000000000
+      internalID: 8176853382272690716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_75
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bec3ec967436f30800000000000000
+      internalID: 4567572966841051955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b19fb42a2a9780a0800000000000000
+      internalID: -6879360399989304908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-wind_77
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c50594ad0cd950800000000000000
+      internalID: 6475065364777911720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion3-wind_0: 1893162636312371183
+      potion3-wind_1: -706285894376803797
+      potion3-wind_10: -7662757901738476362
+      potion3-wind_11: -5628792043342436735
+      potion3-wind_12: -4580268379046980074
+      potion3-wind_13: 5700015389930835079
+      potion3-wind_14: 1135662489200662821
+      potion3-wind_15: 5123948029604282940
+      potion3-wind_16: -3759654367608591885
+      potion3-wind_17: -8859539993760265506
+      potion3-wind_18: 7486915230907962930
+      potion3-wind_19: -6537026964373273011
+      potion3-wind_2: 2199965580030140950
+      potion3-wind_20: 2183382455610365048
+      potion3-wind_21: 8854680410363405146
+      potion3-wind_22: -8382076428474354604
+      potion3-wind_23: 4547479190787905804
+      potion3-wind_24: -2721084407031029732
+      potion3-wind_25: -3329044027600996657
+      potion3-wind_26: -4274223547607297744
+      potion3-wind_27: -7548400610758744159
+      potion3-wind_28: 2280342058067280285
+      potion3-wind_29: 6033407531065184403
+      potion3-wind_3: 2679763588991058587
+      potion3-wind_30: 6049067244038224484
+      potion3-wind_31: -6776912586195164148
+      potion3-wind_32: 1751416942406699429
+      potion3-wind_33: 7000542282411912070
+      potion3-wind_34: -4417510590473869730
+      potion3-wind_35: -2864731226077625575
+      potion3-wind_36: -639727416958291915
+      potion3-wind_37: 1499611848846334992
+      potion3-wind_38: -3810238765193918262
+      potion3-wind_39: -596879927501725155
+      potion3-wind_4: -7513833859130068834
+      potion3-wind_40: -4293544719635456624
+      potion3-wind_41: 6948564087651689383
+      potion3-wind_42: -2869036263352272150
+      potion3-wind_43: -4835044021963218289
+      potion3-wind_44: -2974355517631091847
+      potion3-wind_45: 1216235591667711072
+      potion3-wind_46: 8077174225186979386
+      potion3-wind_47: 5047670364647203186
+      potion3-wind_48: 4131410802150815044
+      potion3-wind_49: 7899144442217994286
+      potion3-wind_5: 7753065331030380653
+      potion3-wind_50: 282036560092030758
+      potion3-wind_51: 1988216667402227891
+      potion3-wind_52: -2598513407079485594
+      potion3-wind_53: -7747862370725013324
+      potion3-wind_54: 6556341987318435169
+      potion3-wind_55: 5454114445126887434
+      potion3-wind_56: -834745810794369290
+      potion3-wind_57: 5190493199526899566
+      potion3-wind_58: 9047914167770914366
+      potion3-wind_59: 9201972556540910051
+      potion3-wind_6: -8920456877255025745
+      potion3-wind_60: 6608987786070289442
+      potion3-wind_61: -5722263523732321461
+      potion3-wind_62: -233990658808306926
+      potion3-wind_63: 3443118416571973216
+      potion3-wind_64: -2653601251729149121
+      potion3-wind_65: -1722713756096946352
+      potion3-wind_66: -4432230477229965052
+      potion3-wind_67: -4234253338816532736
+      potion3-wind_68: -7414541615292322931
+      potion3-wind_69: -5308935933188186633
+      potion3-wind_7: -1094176379705839587
+      potion3-wind_70: -4960177447181132023
+      potion3-wind_71: 1385610379597757433
+      potion3-wind_72: -261059117205493016
+      potion3-wind_73: -4006103102083933846
+      potion3-wind_74: 8176853382272690716
+      potion3-wind_75: 4567572966841051955
+      potion3-wind_76: -6879360399989304908
+      potion3-wind_77: 6475065364777911720
+      potion3-wind_8: -2782964863372285765
+      potion3-wind_9: -7577487758387038219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

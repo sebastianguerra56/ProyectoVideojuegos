@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: a8fb39b4a7db0cf4c8a8beb1bf7c7be0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 238889067367288512
+    second: potion3-sun-clean_0
+  - first:
+      213: 8945628527849142109
+    second: potion3-sun-clean_1
+  - first:
+      213: 9153247019392335463
+    second: potion3-sun-clean_2
+  - first:
+      213: -4323710813479712273
+    second: potion3-sun-clean_3
+  - first:
+      213: -9207241742673749890
+    second: potion3-sun-clean_4
+  - first:
+      213: 6019502391407515667
+    second: potion3-sun-clean_5
+  - first:
+      213: -8992994535835191363
+    second: potion3-sun-clean_6
+  - first:
+      213: 4995930689996769952
+    second: potion3-sun-clean_7
+  - first:
+      213: 2737054551677446087
+    second: potion3-sun-clean_8
+  - first:
+      213: 9065584858264288670
+    second: potion3-sun-clean_9
+  - first:
+      213: -5610264662064808321
+    second: potion3-sun-clean_10
+  - first:
+      213: 8525703844875812177
+    second: potion3-sun-clean_11
+  - first:
+      213: 7754888276136571261
+    second: potion3-sun-clean_12
+  - first:
+      213: -1373791225511168162
+    second: potion3-sun-clean_13
+  - first:
+      213: 5960161328855775975
+    second: potion3-sun-clean_14
+  - first:
+      213: 2304037664029853436
+    second: potion3-sun-clean_15
+  - first:
+      213: -5470826961429006206
+    second: potion3-sun-clean_16
+  - first:
+      213: -4575705409066656270
+    second: potion3-sun-clean_17
+  - first:
+      213: -6712612974093290438
+    second: potion3-sun-clean_18
+  - first:
+      213: 3611180176861160531
+    second: potion3-sun-clean_19
+  - first:
+      213: 6368067922317387481
+    second: potion3-sun-clean_20
+  - first:
+      213: -3129490240738946077
+    second: potion3-sun-clean_21
+  - first:
+      213: -7103355948268507748
+    second: potion3-sun-clean_22
+  - first:
+      213: 2143988860755846777
+    second: potion3-sun-clean_23
+  - first:
+      213: 1449074149530262627
+    second: potion3-sun-clean_24
+  - first:
+      213: -969233798285193194
+    second: potion3-sun-clean_25
+  - first:
+      213: 883625797052867950
+    second: potion3-sun-clean_26
+  - first:
+      213: -254373796732151789
+    second: potion3-sun-clean_27
+  - first:
+      213: 2665514880899950297
+    second: potion3-sun-clean_28
+  - first:
+      213: -1083566101061826475
+    second: potion3-sun-clean_29
+  - first:
+      213: -2358499033329921952
+    second: potion3-sun-clean_30
+  - first:
+      213: 7848695295977605000
+    second: potion3-sun-clean_31
+  - first:
+      213: 5484832127465265445
+    second: potion3-sun-clean_32
+  - first:
+      213: -4222525291828102327
+    second: potion3-sun-clean_33
+  - first:
+      213: -2209346731675407382
+    second: potion3-sun-clean_34
+  - first:
+      213: -5716780251712567540
+    second: potion3-sun-clean_35
+  - first:
+      213: -7999046112377711728
+    second: potion3-sun-clean_36
+  - first:
+      213: 5136905980924513084
+    second: potion3-sun-clean_37
+  - first:
+      213: 3124832053727941569
+    second: potion3-sun-clean_38
+  - first:
+      213: -7720913231712530965
+    second: potion3-sun-clean_39
+  - first:
+      213: 7892360315662245045
+    second: potion3-sun-clean_40
+  - first:
+      213: 8411529154843960627
+    second: potion3-sun-clean_41
+  - first:
+      213: -6594337011825394125
+    second: potion3-sun-clean_42
+  - first:
+      213: -3716992706329107068
+    second: potion3-sun-clean_43
+  - first:
+      213: 4862926684847167771
+    second: potion3-sun-clean_44
+  - first:
+      213: 8746839045434358891
+    second: potion3-sun-clean_45
+  - first:
+      213: 5151191796257620725
+    second: potion3-sun-clean_46
+  - first:
+      213: -1185953606113831727
+    second: potion3-sun-clean_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion3-sun-clean_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cec6215754b05300800000000000000
+      internalID: 238889067367288512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d577c0700c1452c70800000000000000
+      internalID: 8945628527849142109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e784c0badd60f70800000000000000
+      internalID: 9153247019392335463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9c6035ce71ff3c0800000000000000
+      internalID: -4323710813479712273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7858c6ca6e493080800000000000000
+      internalID: -9207241742673749890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31895744881998350800000000000000
+      internalID: 6019502391407515667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 325
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7b388dd17723380800000000000000
+      internalID: -8992994535835191363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 325
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aacab33e7c155540800000000000000
+      internalID: 4995930689996769952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 260
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a99bfc98fbf520800000000000000
+      internalID: 2737054551677446087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 258
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9db006a56d6fcd70800000000000000
+      internalID: 9065584858264288670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 261
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e33b9a3065422b0800000000000000
+      internalID: -5610264662064808321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 261
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d310ec972615670800000000000000
+      internalID: 8525703844875812177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 261
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7136fbccc5ee9b60800000000000000
+      internalID: 7754888276136571261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 261
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57bbd7b8205fece0800000000000000
+      internalID: -1373791225511168162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 261
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaf77a762fb6b250800000000000000
+      internalID: 5960161328855775975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 261
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6ce915c0699ff10800000000000000
+      internalID: 2304037664029853436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288f4604dd7b314b0800000000000000
+      internalID: -5470826961429006206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9fbf6c24df70c0800000000000000
+      internalID: -4575705409066656270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34bd74a01208d2a0800000000000000
+      internalID: -6712612974093290438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354edbdec3d7d1230800000000000000
+      internalID: 3611180176861160531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a94f290cef5850800000000000000
+      internalID: 6368067922317387481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e314b0f431d194d0800000000000000
+      internalID: -3129490240738946077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2c46766fcb6d90800000000000000
+      internalID: -7103355948268507748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9762fbf628af0cd10800000000000000
+      internalID: 2143988860755846777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd3ffe2452c1410800000000000000
+      internalID: 1449074149530262627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61098e4eef69c82f0800000000000000
+      internalID: -969233798285193194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6525b31bf4434c00800000000000000
+      internalID: 883625797052867950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318dc9d2168487cf0800000000000000
+      internalID: -254373796732151789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62f8369afcdf420800000000000000
+      internalID: 2665514880899950297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580e8f3f5666f0f0800000000000000
+      internalID: -1083566101061826475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060944300ade44fd0800000000000000
+      internalID: -2358499033329921952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 133
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887460b99ca2cec60800000000000000
+      internalID: 7848695295977605000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529973292c90e1c40800000000000000
+      internalID: 5484832127465265445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bbb757e939665c0800000000000000
+      internalID: -4222525291828102327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb21d86ad2d651e0800000000000000
+      internalID: -2209346731675407382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0744bd56aae9a0b0800000000000000
+      internalID: -5716780251712567540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093d1c901fdadf090800000000000000
+      internalID: -7999046112377711728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_37
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc59de5c4f94740800000000000000
+      internalID: 5136905980924513084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c355316232ad5b20800000000000000
+      internalID: 3124832053727941569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 69
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed492aa25ec9d490800000000000000
+      internalID: -7720913231712530965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc107e34eb478d60800000000000000
+      internalID: 7892360315662245045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e05c3331cbb470800000000000000
+      internalID: 8411529154843960627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ebfe01d653c74a0800000000000000
+      internalID: -6594337011825394125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485298ab3d69a6cc0800000000000000
+      internalID: -3716992706329107068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_44
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1955131e069c7340800000000000000
+      internalID: 4862926684847167771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cb1a2e4c3036970800000000000000
+      internalID: 8746839045434358891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f287d185a5bc7740800000000000000
+      internalID: 5151191796257620725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion3-sun-clean_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 5
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4dd7b8a75aa8fe0800000000000000
+      internalID: -1185953606113831727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion3-sun-clean_0: 238889067367288512
+      potion3-sun-clean_1: 8945628527849142109
+      potion3-sun-clean_10: -5610264662064808321
+      potion3-sun-clean_11: 8525703844875812177
+      potion3-sun-clean_12: 7754888276136571261
+      potion3-sun-clean_13: -1373791225511168162
+      potion3-sun-clean_14: 5960161328855775975
+      potion3-sun-clean_15: 2304037664029853436
+      potion3-sun-clean_16: -5470826961429006206
+      potion3-sun-clean_17: -4575705409066656270
+      potion3-sun-clean_18: -6712612974093290438
+      potion3-sun-clean_19: 3611180176861160531
+      potion3-sun-clean_2: 9153247019392335463
+      potion3-sun-clean_20: 6368067922317387481
+      potion3-sun-clean_21: -3129490240738946077
+      potion3-sun-clean_22: -7103355948268507748
+      potion3-sun-clean_23: 2143988860755846777
+      potion3-sun-clean_24: 1449074149530262627
+      potion3-sun-clean_25: -969233798285193194
+      potion3-sun-clean_26: 883625797052867950
+      potion3-sun-clean_27: -254373796732151789
+      potion3-sun-clean_28: 2665514880899950297
+      potion3-sun-clean_29: -1083566101061826475
+      potion3-sun-clean_3: -4323710813479712273
+      potion3-sun-clean_30: -2358499033329921952
+      potion3-sun-clean_31: 7848695295977605000
+      potion3-sun-clean_32: 5484832127465265445
+      potion3-sun-clean_33: -4222525291828102327
+      potion3-sun-clean_34: -2209346731675407382
+      potion3-sun-clean_35: -5716780251712567540
+      potion3-sun-clean_36: -7999046112377711728
+      potion3-sun-clean_37: 5136905980924513084
+      potion3-sun-clean_38: 3124832053727941569
+      potion3-sun-clean_39: -7720913231712530965
+      potion3-sun-clean_4: -9207241742673749890
+      potion3-sun-clean_40: 7892360315662245045
+      potion3-sun-clean_41: 8411529154843960627
+      potion3-sun-clean_42: -6594337011825394125
+      potion3-sun-clean_43: -3716992706329107068
+      potion3-sun-clean_44: 4862926684847167771
+      potion3-sun-clean_45: 8746839045434358891
+      potion3-sun-clean_46: 5151191796257620725
+      potion3-sun-clean_47: -1185953606113831727
+      potion3-sun-clean_5: 6019502391407515667
+      potion3-sun-clean_6: -8992994535835191363
+      potion3-sun-clean_7: 4995930689996769952
+      potion3-sun-clean_8: 2737054551677446087
+      potion3-sun-clean_9: 9065584858264288670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
