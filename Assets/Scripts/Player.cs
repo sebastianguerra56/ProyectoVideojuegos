@@ -3,11 +3,16 @@ using UnityEngine.InputSystem;
 using UnityEngine.Video;
 using System.Collections;
 using TMPro;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    [Header("UI Munición")]
+    [Header("UI Cargador Sangre")]
+    [SerializeField] private Image sangreCargador;
+    [SerializeField] private GameObject cargadorNormal;
+    [SerializeField] private GameObject imagenLanzaSangre;
     [SerializeField] private TMP_Text textoMunicion;
+    public bool EstaEnDash => haciendoDash;
     private ControllerPlayer controles;
     private Vector2 inputMovimiento;
     [SerializeField] private float velocidad = 6f;
@@ -30,11 +35,15 @@ public class Player : MonoBehaviour
     [Header("Power-Up de lanza")]
     [SerializeField] private int usosLanza = 0;
     public bool TieneLanza => usosLanza > 0;
+    [Header ("Sonidos")]
     public AudioSource audioSource;
     public AudioClip sonidoDisparo;
+    public AudioClip sonidoPowerUp;
+
+
     [Header("Dash")]
-    [SerializeField] private float velocidadDash = 15f;
-    [SerializeField] private float duracionDash = 0.20f;
+    [SerializeField] private float velocidadDash = 16f;
+    [SerializeField] private float duracionDash = 0.23f;
     [SerializeField] private float cooldownDash = 1f;
 
     private bool haciendoDash = false;
@@ -65,12 +74,47 @@ public class Player : MonoBehaviour
 
         if (usosLanza > 0)
         {
-            textoMunicion.text = "LANZA  " + usosLanza;
+            textoMunicion.text = "" + usosLanza;
         }
         else
         {
             textoMunicion.text =
-                "BALA  " + municionActual + " / " + municionMaxima;
+                "" + municionActual + "/" + municionMaxima;
+        }
+    }
+    private void ActualizarCargadorSangre()
+    {
+        if (sangreCargador == null)
+            return;
+
+        if (municionMaxima <= 0)
+        {
+            sangreCargador.fillAmount = 0f;
+            return;
+        }
+
+        sangreCargador.fillAmount =
+            (float)municionActual / municionMaxima;
+    }
+    private void ActualizarVisualCargador()
+    {
+        bool lanzaActiva = usosLanza > 0;
+
+        // Munición normal
+        if (sangreCargador != null)
+        {
+            sangreCargador.gameObject.SetActive(!lanzaActiva);
+        }
+
+        if (cargadorNormal != null)
+        {
+            cargadorNormal.SetActive(!lanzaActiva);
+        }
+
+        // Power-up de lanza
+        if (imagenLanzaSangre != null)
+        {
+            imagenLanzaSangre.SetActive(lanzaActiva);
         }
     }
 
@@ -118,8 +162,9 @@ public class Player : MonoBehaviour
             proyectilPrefab = lanzaPrefab;
 
             usosLanza--;
-            ActualizarUIMunicion();
 
+            ActualizarUIMunicion();
+            ActualizarVisualCargador();
             Debug.Log(
                 "Usos de lanza restantes: " + usosLanza
             );
@@ -141,6 +186,7 @@ public class Player : MonoBehaviour
             // Reiniciar el temporizador de recarga
             temporizadorRecarga = 0f;
             ActualizarUIMunicion();
+            ActualizarCargadorSangre();
         }
 
         // 6. Crear proyectil
@@ -174,7 +220,9 @@ public class Player : MonoBehaviour
     {
         usosLanza += cantidadUsos;
 
+        audioSource.PlayOneShot(sonidoPowerUp);
         ActualizarUIMunicion();
+        ActualizarVisualCargador();
 
         Debug.Log(
             "Lanza obtenida. Usos totales: " + usosLanza
@@ -186,7 +234,9 @@ public class Player : MonoBehaviour
     {
         municionActual = municionMaxima; 
         temporizadorRecarga = 0f;
+        ActualizarCargadorSangre();
         ActualizarUIMunicion();
+        ActualizarVisualCargador();
 
     }
 
@@ -235,6 +285,7 @@ public class Player : MonoBehaviour
             temporizadorRecarga -= tiempoRecargaPorBala;
 
             ActualizarUIMunicion();
+            ActualizarCargadorSangre();
         }
     }
     private void IniciarDash()

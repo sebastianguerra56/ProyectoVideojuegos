@@ -6,7 +6,9 @@ public class TriggerBoss : MonoBehaviour
 
     [Header("Bloqueo de la arena")]
     [SerializeField] private GameObject muroBoss;
-
+    [Header("Música")]
+    [SerializeField] private AudioSource musicaNivel;
+    [SerializeField] private AudioSource musicaBoss;
     private bool activado = false;
 
     private void Start()
@@ -14,6 +16,10 @@ public class TriggerBoss : MonoBehaviour
         if (muroBoss != null)
         {
             muroBoss.SetActive(false);
+        }
+        if (musicaBoss != null)
+        {
+            musicaBoss.Stop();
         }
     }
 
@@ -30,6 +36,16 @@ public class TriggerBoss : MonoBehaviour
             if (muroBoss != null)
             {
                 muroBoss.SetActive(true);
+            }
+            // Pausar música normal
+            if (musicaNivel != null)
+            {
+                musicaNivel.Pause();
+            }
+            // Reproducir música del Boss
+            if (musicaBoss != null)
+            {
+                musicaBoss.Play();
             }
 
             // Comenzar combate

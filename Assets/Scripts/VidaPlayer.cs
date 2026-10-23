@@ -1,7 +1,8 @@
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 using System.Collections;
+using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class VidaPlayer : MonoBehaviour
 {
@@ -11,6 +12,10 @@ public class VidaPlayer : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     [SerializeField] private Color colorDaño = Color.red;
     [SerializeField] private float duracionColorDaño = 0.2f;
+    [Header("Sonidos")]
+    public AudioSource audioSource;
+    public AudioClip sonidoDaño;
+    public AudioClip audioCurar;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,12 +27,17 @@ public class VidaPlayer : MonoBehaviour
     }
     public void RecibirDaño(int cantidad)
     {
+        Player jugador = GetComponentInParent<Player>();
+        if (jugador != null && jugador.EstaEnDash)
+            return;
+
         vidaActual -= cantidad;
 
         barraVida.value = vidaActual;
 
         Debug.Log("Jugador recibió daño " + vidaActual);
         StartCoroutine(EfectoDaño());
+        audioSource.PlayOneShot(sonidoDaño);
 
         if (vidaActual <= 0)
         {
@@ -74,6 +84,7 @@ public class VidaPlayer : MonoBehaviour
             barraVida.value = vidaActual;
         }
 
+        audioSource.PlayOneShot(audioCurar);
         Debug.Log(
             "Jugador curado. Vida actual: "
             + vidaActual

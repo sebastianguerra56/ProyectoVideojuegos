@@ -1,8 +1,11 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PowerUpVida : MonoBehaviour
 {
+
     [SerializeField] private int cantidadCuracion = 25;
+
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -16,7 +19,6 @@ public class PowerUpVida : MonoBehaviour
         {
             bool seCuro =
                 vidaPlayer.Curar(cantidadCuracion);
-
             // Solo desaparece si realmente curó
             if (seCuro)
             {

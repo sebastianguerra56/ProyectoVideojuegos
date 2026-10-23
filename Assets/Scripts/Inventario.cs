@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class Inventario : MonoBehaviour
 {
+    [Header("Sonidos")]
+    public AudioSource audioSource;
+    public AudioClip sonidoLLave;
     public bool tieneLlave = false;
 
     [SerializeField] private PuertaJefe puertaJefe;
@@ -9,6 +12,7 @@ public class Inventario : MonoBehaviour
     public void ObtenerLlave()
     {
         tieneLlave = true;
+        audioSource.PlayOneShot(sonidoLLave);
 
         Debug.Log("Llave obtenida");
 

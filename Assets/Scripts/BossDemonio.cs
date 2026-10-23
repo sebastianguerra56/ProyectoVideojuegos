@@ -4,6 +4,10 @@ using TMPro;
 using System.Collections;
 public class BossDemonio : MonoBehaviour
 {
+    [Header("Sonidos")]
+    public AudioSource audiosource;
+    public AudioClip audioDaño;
+    public AudioClip audioMuerte;
     [Header("Ataque")]
     [SerializeField] private int daño = 20;
     [SerializeField] private float distanciaAtaque = 2f;
@@ -99,12 +103,7 @@ public class BossDemonio : MonoBehaviour
             return;
         }
 
-        float distancia = Vector2.Distance(
-            rb.position,
-            player.position
-        );
-
-        if (distancia <= distanciaAtaque)
+        if (JugadorDentroDelAlcance())
         {
             rb.linearVelocity = Vector2.zero;
             isMoving = false;
@@ -128,6 +127,22 @@ public class BossDemonio : MonoBehaviour
             }
         }
     }
+    private bool JugadorDentroDelAlcance()
+    {
+        if (player == null)
+            return false;
+
+        Collider2D colliderJugador = player.GetComponent<Collider2D>();
+
+        if (colliderJugador == null)
+        {
+            return Vector2.Distance(rb.position, player.position) <= distanciaAtaque;
+        }
+
+        Vector2 puntoMasCercano = colliderJugador.ClosestPoint(rb.position);
+        return Vector2.Distance(rb.position, puntoMasCercano) <= distanciaAtaque;
+    }
+
     private IEnumerator Atacar()
     {
         atacando = true;
@@ -156,12 +171,7 @@ public class BossDemonio : MonoBehaviour
             yield break;
         }
 
-        float distanciaActual = Vector2.Distance(
-            rb.position,
-            player.position
-        );
-
-        if (distanciaActual <= distanciaAtaque)
+        if (JugadorDentroDelAlcance())
         {
 
             VidaPlayer vidaPlayer =
@@ -202,14 +212,20 @@ public class BossDemonio : MonoBehaviour
 
         barraVida.value = vidaActual;
 
-        if (!fase2Activada && vidaActual <= vidaMaxima / 2)
-        {
-            ActivarFase2();
-        }
-
         if (vidaActual <= 0)
         {
             Morir();
+            return;
+        }
+
+        if (audiosource != null && audioDaño != null)
+        {
+            audiosource.PlayOneShot(audioDaño);
+        }
+
+        if (!fase2Activada && vidaActual <= vidaMaxima / 2)
+        {
+            ActivarFase2();
         }
     }
     private void ActivarFase2()
@@ -301,6 +317,16 @@ public class BossDemonio : MonoBehaviour
         combateIniciado = false;
         atacando = false;
         isMoving = false;
+
+        if (audiosource != null)
+        {
+            audiosource.Stop();
+
+            if (audioMuerte != null)
+            {
+                audiosource.PlayOneShot(audioMuerte);
+            }
+        }
 
         StopAllCoroutines();
 

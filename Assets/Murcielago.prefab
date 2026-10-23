@@ -205,7 +205,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   vida: 5
-  moveSpeed: 3
+  moveSpeed: 5
   player: {fileID: 0}
   audioSource: {fileID: 9095345634928156565}
   "sonidoDa\xF1o": {fileID: 8300000, guid: c370769c3d45ba4428ad54a6098813ef, type: 3}
