@@ -1,0 +1,4 @@
+*Presentación: 
+https://canva.link/wvtvr666msos2xz
+*Video: 
+[Video Demo Bloodbound](https://inacapmailcl-my.sharepoint.com/:v:/g/personal/sebastian_guerra20_inacapmail_cl/IQBIeRUvZ4qER5i8VeGr-9-sATIiIbcDod7QHQw264_Py18?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JhjUfH)
